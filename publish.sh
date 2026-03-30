@@ -4,8 +4,9 @@
 set -e  # stop on first error
 
 echo "📄 Step 1/5 — Compiling PDF (xelatex, 2 passes)..."
-xelatex -interaction=nonstopmode main.tex > /dev/null
-xelatex -interaction=nonstopmode main.tex > /dev/null
+xelatex -interaction=nonstopmode main.tex > /dev/null || true
+xelatex -interaction=nonstopmode main.tex > /dev/null || true
+[ -f main.pdf ] || { echo "❌ xelatex failed — main.pdf not produced"; exit 1; }
 cp main.pdf web/static/Hanuman_Chalisa_Study_Guide.pdf
 echo "    ✓ main.pdf → web/static/"
 
