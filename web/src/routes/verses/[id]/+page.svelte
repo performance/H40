@@ -2,6 +2,7 @@
 	import VerseCard from '$lib/components/VerseCard.svelte';
 	import RhythmMap from '$lib/components/RhythmMap.svelte';
 	import ContextBox from '$lib/components/ContextBox.svelte';
+	import { base } from '$app/paths';
 
 	let { data } = $props();
 	let verse = $derived(data.verse);
@@ -15,12 +16,12 @@
 	<div class="glass-card" style="text-align: center; margin-top: 4rem;">
 		<h1 style="color: var(--primary);">Verse Not Found</h1>
 		<p>The requested verse could not be loaded.</p>
-		<a href="/" style="display: inline-block; margin-top: 1rem;">Return Home</a>
+		<a href="{base}/" style="display: inline-block; margin-top: 1rem;">Return Home</a>
 	</div>
 {:else}
 	<div class="verse-layout">
 		<header class="verse-header">
-			<a href="/" class="back-link">← Index</a>
+			<a href="{base}/verses" class="back-link">← Index</a>
 			<h1 class="verse-title">{verse.id.replace('chaupai', 'Chaupai ').replace('doha', 'Doha ')}</h1>
 		</header>
 

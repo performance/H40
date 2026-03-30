@@ -1,6 +1,7 @@
 <script>
 	import '../app.css';
 	import { page } from '$app/stores';
+	import { base } from '$app/paths';
 	import { onMount } from 'svelte';
 	import NextPrevNav from '$lib/components/NextPrevNav.svelte';
 	let { children } = $props();
@@ -20,17 +21,17 @@
 </script>
 
 <nav class="nav-header">
-	<a href="/" class="logo" style="font-size: 1.5rem; font-weight: 800; color: var(--text-main); text-decoration: none;">
+	<a href="{base}/" class="logo" style="font-size: 1.5rem; font-weight: 800; color: var(--text-main); text-decoration: none;">
 		Hanuman <span style="color: var(--primary);">Chalisa</span>
 	</a>
 	<div class="nav-links">
-		<a href="/" class:active={$page.url.pathname === '/'}>Introduction</a>
-		<a href="/verses" class:active={$page.url.pathname === '/verses' || $page.url.pathname.startsWith('/verses/')}>Verses</a>
-		<a href="/glossary" class:active={$page.url.pathname === '/glossary'}>Glossary</a>
+		<a href="{base}/" class:active={$page.url.pathname === base + '/' || $page.url.pathname === base}>Introduction</a>
+		<a href="{base}/verses" class:active={$page.url.pathname === base + '/verses' || $page.url.pathname.startsWith(base + '/verses/')}>Verses</a>
+		<a href="{base}/glossary" class:active={$page.url.pathname === base + '/glossary'}>Glossary</a>
 		<button class="theme-toggle" onclick={toggleTheme} aria-label="Toggle structural theme">
 			{theme === 'dark' ? '☀️' : '🌙'}
 		</button>
-		<a href="/Hanuman_Chalisa_Study_Guide.pdf" class="download-btn" target="_blank" rel="noopener noreferrer">
+		<a href="{base}/Hanuman_Chalisa_Study_Guide.pdf" class="download-btn" target="_blank" rel="noopener noreferrer">
 			📥 PDF Book
 		</a>
 	</div>

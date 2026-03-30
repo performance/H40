@@ -1,5 +1,6 @@
 <script>
 	import indexData from '$lib/data/index.json';
+	import { base } from '$app/paths';
 </script>
 
 <svelte:head>
@@ -13,7 +14,7 @@
 
 <div class="grid">
 	{#each indexData as verse}
-		<a href={`/verses/${verse.id}`} class="glass-card verse-link">
+		<a href={`${base}/verses/${verse.id}`} class="glass-card verse-link">
 			<div class="type-badge">{verse.id.replace('chaupai', 'Chaupai ').replace('doha', 'Doha ').replace('concluding_Doha ', 'Concluding Doha')}</div>
 			<div class="arrow">→</div>
 		</a>
