@@ -21,8 +21,8 @@ cp web_data/index.json web/src/lib/data/index.json
 echo "    ✓ web/src/lib/data/ updated"
 
 echo "🏗️  Step 4/5 — Building web app..."
-cd web && npm run build > /dev/null && cd ..
-echo "    ✓ web/build/ ready"
+cd web && BASE_PATH=/H40 npm run build > /dev/null && cd ..
+echo "    ✓ web/build/ ready (base path: /H40)"
 
 echo "📝 Step 5/5 — Committing and pushing..."
 git add -A
