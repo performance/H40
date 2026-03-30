@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+# publish.sh — Full build and deploy for Hanuman Chalisa Study Guide
+# Run from the repo root. See CONTRIBUTING.md for step-by-step details.
+set -e  # stop on first error
+
+echo "📄 Step 1/5 — Compiling PDF (xelatex, 2 passes)..."
+xelatex -interaction=nonstopmode main.tex > /dev/null
+xelatex -interaction=nonstopmode main.tex > /dev/null
+cp main.pdf web/static/Hanuman_Chalisa_Study_Guide.pdf
+echo "    ✓ main.pdf → web/static/"
+
+echo "🐍 Step 2/5 — Extracting verse data from LaTeX..."
+python3 build_web_data.py
+python3 build_static_data.py
+echo "    ✓ web_data/ generated"
+
+echo "📦 Step 3/5 — Syncing data into SvelteKit app..."
+cp -r web_data/verses web/src/lib/data/
+cp web_data/index.json web/src/lib/data/index.json
+echo "    ✓ web/src/lib/data/ updated"
+
+echo "🏗️  Step 4/5 — Building web app..."
+cd web && npm run build > /dev/null && cd ..
+cp web/static/Hanuman_Chalisa_Study_Guide.pdf web/build/Hanuman_Chalisa_Study_Guide.pdf
+echo "    ✓ web/build/ ready"
+
+echo "📝 Step 5/5 — Committing and pushing..."
+git add -A
+git commit -m "chore: publish — rebuild PDF, JSON data, and web app" || echo "    (nothing to commit)"
+
+echo ""
+echo "Pushing source branch (release-v1)..."
+git push origin release-v1
+
+echo "Pushing website (gh-pages)..."
+git push origin \`git subtree split --prefix web/build release-v1\`:refs/heads/gh-pages --force
+
+echo ""
+echo "✅ Done! Source → release-v1 | Website → gh-pages"
