@@ -43,4 +43,4 @@ The compiled PDF study guide (`Hanuman_Chalisa_Study_Guide.pdf`) is licensed und
 - **NonCommercial** — You may not use the PDF for commercial purposes without explicit written permission
 - **NoDerivatives** — You may not distribute modified versions of the PDF
 
-To obtain a commercial license or support continued development (multilingual editions, app version), please visit: [Ko-fi / Gumroad link]
+To obtain a commercial license or support continued development (multilingual editions, app version), please raise an issue on the GitHub repository.
