@@ -1,0 +1,193 @@
+{
+  "id": "chaupai4",
+  "type": "chaupai",
+  "number": 4,
+  "text": {
+    "awadhi": "कंचन बरन बिराज सुबेसा। कानन कुंडल कुंचित केसा॥",
+    "telugu": "కంచన బరన బిరాజ సుబేసా। కానన కుండల కుంచిత కేసా॥",
+    "iast": "kaṃcana barana birāja subesā | kānana kuṇḍala kuñcita kesā ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "कंचन",
+      "sanskrit": "कञ्चन / सुवर्णम्",
+      "english": "Gold",
+      "notes": ""
+    },
+    {
+      "awadhi": "बरन",
+      "sanskrit": "वर्णः",
+      "english": "Complexion / Color",
+      "notes": ""
+    },
+    {
+      "awadhi": "बिराज",
+      "sanskrit": "विराजते",
+      "english": "Shines / Is adorned",
+      "notes": ""
+    },
+    {
+      "awadhi": "सुबेसा",
+      "sanskrit": "सुवेषः",
+      "english": "Beautiful attire",
+      "notes": ""
+    },
+    {
+      "awadhi": "कानन",
+      "sanskrit": "कर्णयोः",
+      "english": "In the ears",
+      "notes": ""
+    },
+    {
+      "awadhi": "कुंडल",
+      "sanskrit": "कुण्डले",
+      "english": "Earrings",
+      "notes": ""
+    },
+    {
+      "awadhi": "कुंचित",
+      "sanskrit": "कुञ्चिताः",
+      "english": "Curly",
+      "notes": ""
+    },
+    {
+      "awadhi": "केसा",
+      "sanskrit": "केशाः",
+      "english": "Hair",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "कं",
+          "weight": 2
+        },
+        {
+          "char": "च",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ब",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "बि",
+          "weight": 1
+        },
+        {
+          "char": "रा",
+          "weight": 2
+        },
+        {
+          "char": "ज",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "सु",
+          "weight": 1
+        },
+        {
+          "char": "बे",
+          "weight": 2
+        },
+        {
+          "char": "सा",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "का",
+          "weight": 2
+        },
+        {
+          "char": "न",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "कुं",
+          "weight": 2
+        },
+        {
+          "char": "ड",
+          "weight": 1
+        },
+        {
+          "char": "ल",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "कुं",
+          "weight": 2
+        },
+        {
+          "char": "चि",
+          "weight": 1
+        },
+        {
+          "char": "त",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "के",
+          "weight": 2
+        },
+        {
+          "char": "सा",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Reward of Education",
+      "description": "Why the golden glow and beautiful earrings (Kanan Kundal)? According to tradition, when Hanuman completed his immense, relentless education under the Sun God, Surya was so impressed by his student that he gifted him a fraction of his own blinding brilliance and divine earrings as a graduation gift. True radiance is not just physical, it is the result of dedication, hard work and earned through good education.",
+      "motivating_text": "His brilliant, golden radiance was not inherited, but earned through the disciplined fire of his actions.",
+      "citation": "Kishkindha Kanda, 66"
+    },
+    {
+      "type": "gotchabox",
+      "items": [
+        "Phonetic Shifts: सुवेष (Suvesha) becomes सुबेसा (Subesaa) — exhibiting both the व → ब and श/ष → स shifts simultaneously! Likewise, केश (Kesha) becomes केस (Kesa)."
+      ]
+    }
+  ]
+}

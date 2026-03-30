@@ -1,0 +1,295 @@
+{
+  "id": "doha2",
+  "type": "doha",
+  "number": 2,
+  "text": {
+    "awadhi": "बुद्धिहीन तनु जानिके सुमिरौं पवन कुमार। बल बुधि बिद्या देहु मोहिं हरहु कलेस बिकार॥",
+    "telugu": "బుద్ధిహీన తను జానికే సుమిరౌఁ పవన కుమార। బల బుధి బిద్యా దేహు మోహిఁ హరహు కలేస బికార॥",
+    "iast": "buddhihīna tanu jānike, sumirau pavana kumāra | bala budhi bidyā dehu mohiṃ, harahu kalesa bikāra ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "बुद्धिहीन",
+      "sanskrit": "बुद्धि-रहितं",
+      "english": "Devoid of intelligence",
+      "notes": ""
+    },
+    {
+      "awadhi": "तनु",
+      "sanskrit": "शरीरं / आत्मानम्",
+      "english": "Body / Myself",
+      "notes": ""
+    },
+    {
+      "awadhi": "जानिके",
+      "sanskrit": "ज्ञात्वा",
+      "english": "Having known",
+      "notes": "Conjunctive Participle (-ike)"
+    },
+    {
+      "awadhi": "सुमिरौं",
+      "sanskrit": "स्मरामि",
+      "english": "I remember/meditate",
+      "notes": ""
+    },
+    {
+      "awadhi": "पवन-कुमार",
+      "sanskrit": "हे वायुपुत्र",
+      "english": "O Son of the Wind",
+      "notes": ""
+    },
+    {
+      "awadhi": "बल",
+      "sanskrit": "बलम्",
+      "english": "Strength",
+      "notes": ""
+    },
+    {
+      "awadhi": "बुधि",
+      "sanskrit": "बुद्धिम्",
+      "english": "Wisdom",
+      "notes": "Meter tetris (1+1=2)"
+    },
+    {
+      "awadhi": "बिद्या",
+      "sanskrit": "विद्याम्",
+      "english": "Knowledge",
+      "notes": ""
+    },
+    {
+      "awadhi": "देहु",
+      "sanskrit": "देहि (यच्छ)",
+      "english": "Give / Grant",
+      "notes": "Imperative -hu ending"
+    },
+    {
+      "awadhi": "मोहिं",
+      "sanskrit": "मह्यम्",
+      "english": "To me",
+      "notes": "Dative marker (-hiṃ)"
+    },
+    {
+      "awadhi": "हरहु",
+      "sanskrit": "हर (दूरीकुरु)",
+      "english": "Remove / Destroy",
+      "notes": "Imperative -hu ending"
+    },
+    {
+      "awadhi": "कलेस",
+      "sanskrit": "क्लेशान् / दुःखानि",
+      "english": "Sufferings",
+      "notes": ""
+    },
+    {
+      "awadhi": "बिकार",
+      "sanskrit": "विकारान् / दोषान्",
+      "english": "Impurities / Flaws",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "बु",
+          "weight": 2
+        },
+        {
+          "char": "द्धि",
+          "weight": 1
+        },
+        {
+          "char": "ही",
+          "weight": 2
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "त",
+          "weight": 1
+        },
+        {
+          "char": "नु",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "जा",
+          "weight": 2
+        },
+        {
+          "char": "नि",
+          "weight": 1
+        },
+        {
+          "char": "के",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "सु",
+          "weight": 1
+        },
+        {
+          "char": "मि",
+          "weight": 1
+        },
+        {
+          "char": "रौ",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "प",
+          "weight": 1
+        },
+        {
+          "char": "व",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "कु",
+          "weight": 1
+        },
+        {
+          "char": "मा",
+          "weight": 2
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "ब",
+          "weight": 1
+        },
+        {
+          "char": "ल",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "बु",
+          "weight": 1
+        },
+        {
+          "char": "धि",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "बि",
+          "weight": 1
+        },
+        {
+          "char": "द्या",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "दे",
+          "weight": 2
+        },
+        {
+          "char": "हु",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "मो",
+          "weight": 2
+        },
+        {
+          "char": "हिं",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ह",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "हु",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "क",
+          "weight": 1
+        },
+        {
+          "char": "ले",
+          "weight": 2
+        },
+        {
+          "char": "स",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "बि",
+          "weight": 1
+        },
+        {
+          "char": "का",
+          "weight": 2
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Sequence of Growth",
+      "description": "We ask first for physical health and strength to act (Bala), then mental sharpness to discern clearly (Budhi), and finally practical education and skill to succeed (Bidya). This is the exact, logical sequence required to overcome life's hardships.",
+      "motivating_text": "",
+      "citation": ""
+    },
+    {
+      "type": "gotchabox",
+      "items": [
+        "Verbs ending in -hu (देहु, हरहु): Adding -hu (-ahu) to a root is the Awadhi equivalent of the Sanskrit imperative mood (making a request/command).",
+        "Dative Suffix -hiṃ (मोहिं): Maps to Sanskrit Mahyam (\"to me\"). \"Dehu mohiṃ\" = Give to me.",
+        "Anusvara vs Chandrabindu (मोहिं / మోహిఁ): Why does Devanagari use a dot (ं) while Telugu uses a half-circle (ఁ) for the exact same nasal sound? In Devanagari orthography, when a vowel matra extends above the top line (like ि, ी, े, ो), there is physically no vertical space to draw the full Chandrabindu (ँ). So, purely for typographical convenience, writers use the Anusvara dot (ं) even though it is pronounced as a nasalized vowel. However, if the vowel matra goes below or beside the line (like the 'u' in तिहुँ), the space above is empty, so the full Chandrabindu ँ is correctly written! Telugu script has no top-line constraint, so it always correctly uses the Ara-sunna (ఁ).",
+        "Meter Tetris (बुद्धि vs बुधि): Line 1 heavily weights बुद्धि (bu + conjunct ddhi) to make it 2+1+2+1=6 beats. Line 2 uses light Awadhi बुधि (1+1=2 beats) to save space!",
+        "The 'e' vowel weight (जानिके): The sound 'e' is historically a compound vowel (a + i = e) and physically requires twice as much breath to produce, making it an automatic 2-beat Guru."
+      ]
+    }
+  ]
+}

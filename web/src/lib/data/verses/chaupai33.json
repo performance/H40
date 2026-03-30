@@ -1,0 +1,177 @@
+{
+  "id": "chaupai33",
+  "type": "chaupai",
+  "number": 33,
+  "text": {
+    "awadhi": "तुम्हरे भजन राम को पावै। जनम जनम के दुख बिसरावै॥",
+    "telugu": "తుమ్హరే భజన రామ కో పావై। జనమ జనమ కే దుఖ బిసరావై॥",
+    "iast": "tumhare bhajana rāma ko pāvai | janama janama ke dukha bisarāvai ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "तुम्हरे भजन",
+      "sanskrit": "भवतः भजनेन",
+      "english": "By singing your hymns",
+      "notes": ""
+    },
+    {
+      "awadhi": "राम को पावै",
+      "sanskrit": "रामं प्राप्नोति",
+      "english": "Attains Rama",
+      "notes": ""
+    },
+    {
+      "awadhi": "जनम जनम के",
+      "sanskrit": "जन्म-जन्मान्तरस्य",
+      "english": "Of lifetimes",
+      "notes": "Swara-Bhakti (Janma → Janama)"
+    },
+    {
+      "awadhi": "दुख",
+      "sanskrit": "दुःखानि",
+      "english": "Sorrows / Pain",
+      "notes": ""
+    },
+    {
+      "awadhi": "बिसरावै",
+      "sanskrit": "विस्मरति",
+      "english": "Forgets / Washes away",
+      "notes": "Causative ending"
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "तु",
+          "weight": 1
+        },
+        {
+          "char": "म्ह",
+          "weight": 1
+        },
+        {
+          "char": "रे",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "भ",
+          "weight": 1
+        },
+        {
+          "char": "ज",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "रा",
+          "weight": 2
+        },
+        {
+          "char": "म",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "को",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "पा",
+          "weight": 2
+        },
+        {
+          "char": "वै",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "ज",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        },
+        {
+          "char": "म",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ज",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        },
+        {
+          "char": "म",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "के",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "दु",
+          "weight": 1
+        },
+        {
+          "char": "ख",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "बि",
+          "weight": 1
+        },
+        {
+          "char": "स",
+          "weight": 1
+        },
+        {
+          "char": "रा",
+          "weight": 2
+        },
+        {
+          "char": "वै",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Clean Slate",
+      "description": "Re-centering our minds on positive role models and healthy habits helps wash away the baggage of our past mistakes and traumas (Janama Janama ke dukha), allowing us to move forward with a clean slate and renewed focus.",
+      "motivating_text": "",
+      "citation": ""
+    }
+  ]
+}

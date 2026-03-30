@@ -1,0 +1,179 @@
+{
+  "id": "chaupai14",
+  "type": "chaupai",
+  "number": 14,
+  "text": {
+    "awadhi": "सनकादिक ब्रह्मादि मुनीसा। नारद सारद सहित अहीसा॥",
+    "telugu": "సనకాదిక బ్రహ్మాది మునీసా। నారద సారద సహిత అహీసా॥",
+    "iast": "sanakādika brahmādi munīsā | nārada sārada sahita ahīsā ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "सनकादिक",
+      "sanskrit": "सनकादयः",
+      "english": "Sages like Sanaka",
+      "notes": ""
+    },
+    {
+      "awadhi": "ब्रह्मादि",
+      "sanskrit": "ब्रह्मादयः देवाः",
+      "english": "Gods like Brahma",
+      "notes": ""
+    },
+    {
+      "awadhi": "मुनीसा",
+      "sanskrit": "मुनीशाः (मुनि+ईश)",
+      "english": "Chief sages",
+      "notes": ""
+    },
+    {
+      "awadhi": "नारद",
+      "sanskrit": "नारदः",
+      "english": "Sage Narada",
+      "notes": ""
+    },
+    {
+      "awadhi": "सारद",
+      "sanskrit": "शारदा / सरस्वती",
+      "english": "Goddess Saraswati",
+      "notes": ""
+    },
+    {
+      "awadhi": "सहित",
+      "sanskrit": "सहिताः / सह",
+      "english": "Along with",
+      "notes": ""
+    },
+    {
+      "awadhi": "अहीसा",
+      "sanskrit": "अहीशः (अहि+ईश)",
+      "english": "Lord of Snakes (Shesha)",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "स",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        },
+        {
+          "char": "का",
+          "weight": 2
+        },
+        {
+          "char": "दि",
+          "weight": 1
+        },
+        {
+          "char": "क",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ब्र",
+          "weight": 2
+        },
+        {
+          "char": "ह्मा",
+          "weight": 2
+        },
+        {
+          "char": "दि",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "मु",
+          "weight": 1
+        },
+        {
+          "char": "नी",
+          "weight": 2
+        },
+        {
+          "char": "सा",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "ना",
+          "weight": 2
+        },
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "द",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "सा",
+          "weight": 2
+        },
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "द",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "स",
+          "weight": 1
+        },
+        {
+          "char": "हि",
+          "weight": 1
+        },
+        {
+          "char": "त",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "अ",
+          "weight": 1
+        },
+        {
+          "char": "ही",
+          "weight": 2
+        },
+        {
+          "char": "सा",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "gotchabox",
+      "items": [
+        "The श/ष → स Shift in Action: Beautiful symmetry here! Sanskrit मुनीश (Muneesha), शारदा (Shaarada), and अहीश (Aheesha) drop their heavy palatal श (sh) and soften into the pure Awadhi rhymes: मुनीसा (Muneesaa), सारद (Saarad), and अहीसा (Aheesaa).",
+        "The 'Aadi' (आदि) suffix: The suffix आदि (ādi) is used to denote \"and others like them\" or \"starting from\". This chaupai starts a list of greats, but we will know about why they are mentioned here in the next chaupai."
+      ]
+    }
+  ]
+}

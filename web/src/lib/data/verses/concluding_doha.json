@@ -1,0 +1,269 @@
+{
+  "id": "concluding_doha",
+  "type": "doha",
+  "number": 3,
+  "text": {
+    "awadhi": "पवन तनय संकट हरन मंगल मूरति रूप। राम लखन सीता सहित हृदय बसहु सुर भूप॥",
+    "telugu": "పవన తనయ సంకట హరన మంగల మూరతి రూప। రామ లఖన సీతా సహిత హృదయ బసహు సుర భూప॥",
+    "iast": "pavana tanaya saṃkaṭa harana, maṃgala mūrati rūpa | rāma lakhana sītā sahita, hṛdaya basahu sura bhūpa ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "पवन तनय",
+      "sanskrit": "पवन-तनय",
+      "english": "Son of the Wind-God",
+      "notes": ""
+    },
+    {
+      "awadhi": "संकट हरन",
+      "sanskrit": "सङ्कट-हरण",
+      "english": "Destroyer of Crisis",
+      "notes": ""
+    },
+    {
+      "awadhi": "मंगल मूरति",
+      "sanskrit": "मङ्गल-मूर्तिः",
+      "english": "Auspicious idol/form",
+      "notes": ""
+    },
+    {
+      "awadhi": "रूप",
+      "sanskrit": "रूपम्",
+      "english": "Embodiment",
+      "notes": ""
+    },
+    {
+      "awadhi": "राम लखन",
+      "sanskrit": "राम-लक्ष्मण",
+      "english": "Rama and Lakshmana",
+      "notes": ""
+    },
+    {
+      "awadhi": "सीता सहित",
+      "sanskrit": "सीतया सह",
+      "english": "Along with Sita",
+      "notes": ""
+    },
+    {
+      "awadhi": "हृदय बसहु",
+      "sanskrit": "हृदये वसतु",
+      "english": "Reside in the heart",
+      "notes": "Imperative `-hu` suffix"
+    },
+    {
+      "awadhi": "सुर भूप",
+      "sanskrit": "देवानां राजा / भूपतिः",
+      "english": "King of Gods",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "प",
+          "weight": 1
+        },
+        {
+          "char": "व",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "त",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        },
+        {
+          "char": "य",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "सं",
+          "weight": 2
+        },
+        {
+          "char": "क",
+          "weight": 1
+        },
+        {
+          "char": "ट",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ह",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "मं",
+          "weight": 2
+        },
+        {
+          "char": "ग",
+          "weight": 1
+        },
+        {
+          "char": "ल",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "मू",
+          "weight": 2
+        },
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "ति",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "रू",
+          "weight": 2
+        },
+        {
+          "char": "प",
+          "weight": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "रा",
+          "weight": 2
+        },
+        {
+          "char": "म",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ल",
+          "weight": 1
+        },
+        {
+          "char": "ख",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "सी",
+          "weight": 2
+        },
+        {
+          "char": "ता",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "स",
+          "weight": 1
+        },
+        {
+          "char": "हि",
+          "weight": 1
+        },
+        {
+          "char": "त",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "हृ",
+          "weight": 1
+        },
+        {
+          "char": "द",
+          "weight": 1
+        },
+        {
+          "char": "य",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ब",
+          "weight": 1
+        },
+        {
+          "char": "स",
+          "weight": 1
+        },
+        {
+          "char": "हु",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "सु",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "भू",
+          "weight": 2
+        },
+        {
+          "char": "प",
+          "weight": 1
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Complete Picture",
+      "description": "When our mind is filled with positive influences like strong leadership, profound focus, and selfless dedication, there is simply no room left for crisis (Sankat) or negativity to enter. A disciplined mind leaves no space for failure.",
+      "motivating_text": "Filling your mind with positive leadership and selfless dedication leaves absolutely no room for crisis to enter.",
+      "citation": "Yuddha Kanda, 128"
+    }
+  ]
+}

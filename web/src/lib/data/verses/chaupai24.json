@@ -1,0 +1,189 @@
+{
+  "id": "chaupai24",
+  "type": "chaupai",
+  "number": 24,
+  "text": {
+    "awadhi": "भूत पिसाच निकट नहिं आवै। महाबीर जब नाम सुनावै॥",
+    "telugu": "భూత పిసాచ నికట నహిఁ ఆవై। మహాబీర జబ నామ సునావై॥",
+    "iast": "bhūta pisāca nikaṭa nahiṃ āvai | mahābīra jaba nāma sunāvai ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "भूत",
+      "sanskrit": "भूताः",
+      "english": "Ghosts",
+      "notes": ""
+    },
+    {
+      "awadhi": "पिसाच",
+      "sanskrit": "पिशाचाः",
+      "english": "Evil spirits / Ghouls",
+      "notes": ""
+    },
+    {
+      "awadhi": "निकट",
+      "sanskrit": "निकटम् / समीपम्",
+      "english": "Near / Close",
+      "notes": ""
+    },
+    {
+      "awadhi": "नहिं आवै",
+      "sanskrit": "न आगच्छन्ति",
+      "english": "Do not come",
+      "notes": ""
+    },
+    {
+      "awadhi": "महाबीर",
+      "sanskrit": "महावीरः",
+      "english": "Mahaveer (Great Hero)",
+      "notes": ""
+    },
+    {
+      "awadhi": "जब",
+      "sanskrit": "यदा",
+      "english": "When",
+      "notes": ""
+    },
+    {
+      "awadhi": "नाम",
+      "sanskrit": "नाम",
+      "english": "Name",
+      "notes": ""
+    },
+    {
+      "awadhi": "सुनावै",
+      "sanskrit": "श्रावयति",
+      "english": "Is heard / recited",
+      "notes": "Causative verb"
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "भू",
+          "weight": 2
+        },
+        {
+          "char": "त",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "पि",
+          "weight": 1
+        },
+        {
+          "char": "सा",
+          "weight": 2
+        },
+        {
+          "char": "च",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "नि",
+          "weight": 1
+        },
+        {
+          "char": "क",
+          "weight": 1
+        },
+        {
+          "char": "ट",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "न",
+          "weight": 1
+        },
+        {
+          "char": "हिं",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "आ",
+          "weight": 2
+        },
+        {
+          "char": "वै",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "म",
+          "weight": 1
+        },
+        {
+          "char": "हा",
+          "weight": 2
+        },
+        {
+          "char": "बी",
+          "weight": 2
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ज",
+          "weight": 1
+        },
+        {
+          "char": "ब",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ना",
+          "weight": 2
+        },
+        {
+          "char": "म",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "सु",
+          "weight": 1
+        },
+        {
+          "char": "ना",
+          "weight": 2
+        },
+        {
+          "char": "वै",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "Mental Armor",
+      "description": "Instead of literal ghosts, the Bhoot Pisach represent the \"ghosts\" of performance anxiety, self-doubt, and negative peer pressure. Keeping strong role models in mind and practicing positive self-talk acts as mental armor against toxic thoughts that try to derail our focus.",
+      "motivating_text": "",
+      "citation": ""
+    }
+  ]
+}

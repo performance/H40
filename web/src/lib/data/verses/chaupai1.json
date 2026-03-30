@@ -1,0 +1,205 @@
+{
+  "id": "chaupai1",
+  "type": "chaupai",
+  "number": 1,
+  "text": {
+    "awadhi": "जय हनुमान ज्ञान गुन सागर। जय कपीस तिहुँ लोक उजागर॥",
+    "telugu": "జయ హనుమాన జ్ఞాన గున సాగర। జయ కపీస తిహుఁ లోక ఉజాగర॥",
+    "iast": "jaya hanumāna jñāna guna sāgara | jaya kapīsa tihuṃ loka ujāgara ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "ज्ञान",
+      "sanskrit": "ज्ञानस्य",
+      "english": "Of knowledge",
+      "notes": ""
+    },
+    {
+      "awadhi": "गुन",
+      "sanskrit": "गुणानाम्",
+      "english": "Of virtues/qualities",
+      "notes": ""
+    },
+    {
+      "awadhi": "सागर",
+      "sanskrit": "सागरः",
+      "english": "Ocean",
+      "notes": ""
+    },
+    {
+      "awadhi": "कपीस",
+      "sanskrit": "कपीशः (कपि+ईश)",
+      "english": "Lord of Monkeys",
+      "notes": ""
+    },
+    {
+      "awadhi": "तिहुँ",
+      "sanskrit": "त्रिषु",
+      "english": "In the three",
+      "notes": "tri → tihu"
+    },
+    {
+      "awadhi": "लोक",
+      "sanskrit": "लोकेषु",
+      "english": "Worlds",
+      "notes": ""
+    },
+    {
+      "awadhi": "उजागर",
+      "sanskrit": "उजागरः (प्रसिद्धः)",
+      "english": "Illuminator / Brightness",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "ज",
+          "weight": 1
+        },
+        {
+          "char": "य",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ह",
+          "weight": 1
+        },
+        {
+          "char": "नु",
+          "weight": 1
+        },
+        {
+          "char": "मा",
+          "weight": 2
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ज्ञा",
+          "weight": 2
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "गु",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "सा",
+          "weight": 2
+        },
+        {
+          "char": "ग",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "ज",
+          "weight": 1
+        },
+        {
+          "char": "य",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "क",
+          "weight": 1
+        },
+        {
+          "char": "पी",
+          "weight": 2
+        },
+        {
+          "char": "स",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ति",
+          "weight": 1
+        },
+        {
+          "char": "हुँ",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "लो",
+          "weight": 2
+        },
+        {
+          "char": "क",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "उ",
+          "weight": 1
+        },
+        {
+          "char": "जा",
+          "weight": 2
+        },
+        {
+          "char": "ग",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Power of Good Communication",
+      "description": "Hanuman is praised here as an \"Ocean of Knowledge.\" When Lord Rama first met him in the Kishkindha forest, Rama was immediately blown away! Not by his physical strength, but by his flawless speech, clear grammar, and humble posture. True intelligence (Jnana) is best expressed through respectful, perfectly articulated communication.",
+      "motivating_text": "",
+      "citation": ""
+    },
+    {
+      "type": "gotchabox",
+      "items": [
+        "The श/ष → स Shift: कपीश (Kapeesha) becomes कपीस (Kapeesa).",
+        "The ण → न Shift: Sanskrit गुण with a retroflex N becomes गुन with a dental 'n'.",
+        "Schwa Holding: To maintain the 16-matra beat, do not cut the final consonants dead. Hold the \"r\" in Saaga-r and Ujaaga-r for exactly one beat."
+      ]
+    }
+  ]
+}

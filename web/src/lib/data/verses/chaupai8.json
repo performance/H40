@@ -1,0 +1,208 @@
+{
+  "id": "chaupai8",
+  "type": "chaupai",
+  "number": 8,
+  "text": {
+    "awadhi": "प्रभु चरित्र सुनिबे को रसिया। राम लखन सीता मन बसिया॥",
+    "telugu": "ప్రభు చరిత్ర సునిబే కో రసియా। రామ లఖన సీతా మన బసియా॥",
+    "iast": "prabhu caritra sunibe ko rasiyā | rāma lakhana sītā mana basiyā ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "प्रभु",
+      "sanskrit": "प्रभोः",
+      "english": "Lord's",
+      "notes": ""
+    },
+    {
+      "awadhi": "चरित्र",
+      "sanskrit": "चरित्रम् / कथाम्",
+      "english": "Character / Stories",
+      "notes": ""
+    },
+    {
+      "awadhi": "सुनिबे को",
+      "sanskrit": "श्रोतुम्",
+      "english": "To listen",
+      "notes": "Awadhi infinitive verb"
+    },
+    {
+      "awadhi": "रसिया",
+      "sanskrit": "रसिकः",
+      "english": "One who relishes",
+      "notes": ""
+    },
+    {
+      "awadhi": "राम",
+      "sanskrit": "श्रीरामः",
+      "english": "Rama",
+      "notes": ""
+    },
+    {
+      "awadhi": "लखन",
+      "sanskrit": "लक्ष्मणः",
+      "english": "Lakshmana",
+      "notes": "cluster simplification"
+    },
+    {
+      "awadhi": "सीता",
+      "sanskrit": "सीता",
+      "english": "Sita",
+      "notes": ""
+    },
+    {
+      "awadhi": "मन",
+      "sanskrit": "मनसि",
+      "english": "In the mind",
+      "notes": ""
+    },
+    {
+      "awadhi": "बसिया",
+      "sanskrit": "वसन्ति / वासी",
+      "english": "Reside / Dweller",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "प्र",
+          "weight": 1
+        },
+        {
+          "char": "भु",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "च",
+          "weight": 1
+        },
+        {
+          "char": "रि",
+          "weight": 2
+        },
+        {
+          "char": "त्र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "सु",
+          "weight": 1
+        },
+        {
+          "char": "नि",
+          "weight": 1
+        },
+        {
+          "char": "बे",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "को",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "सि",
+          "weight": 1
+        },
+        {
+          "char": "या",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "रा",
+          "weight": 2
+        },
+        {
+          "char": "म",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ल",
+          "weight": 1
+        },
+        {
+          "char": "ख",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "सी",
+          "weight": 2
+        },
+        {
+          "char": "ता",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "म",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ब",
+          "weight": 1
+        },
+        {
+          "char": "सि",
+          "weight": 1
+        },
+        {
+          "char": "या",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Art of Listening",
+      "description": "He is praised for being exceptionally eager to listen (Sunibe ko Rasiya). The most powerful figure in the entire epic is fundamentally a remarkably attentive listener. Great students and future leaders know that listening and absorbing information is often far more powerful than speaking.",
+      "motivating_text": "",
+      "citation": ""
+    },
+    {
+      "type": "gotchabox",
+      "items": [
+        "Consonant Melt (लक्ष्मण → लखन): The harsh consonant cluster `kshma` (क्ष्म) in Sanskrit melts down into the softer, breathy `kha` (ख) in Awadhi, making it much easier to sing! The Gita Press version uses लषन instead of लखन. Both carry the same metrical value.",
+        "The व → ब Shift (बसिया): The Sanskrit root for dwelling is वस् (Vas). True to form, the Awadhi immediately hardens that initial v into a b, giving us बसिया (Basiyaa)."
+      ]
+    }
+  ]
+}

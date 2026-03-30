@@ -1,0 +1,175 @@
+{
+  "id": "chaupai39",
+  "type": "chaupai",
+  "number": 39,
+  "text": {
+    "awadhi": "जो यह पढ़ै हनुमान चलीसा। होय सिद्धि साखी गौरीसा॥",
+    "telugu": "జో యహ పఢై హనుమాన చలీసా। హోయ సిద్ధి సాఖీ గౌరీసా॥",
+    "iast": "jo yaha paṛhai hanumāna cālīsā | hoya siddhi sākhī gaurīsā ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "जो यह",
+      "sanskrit": "यः एतत्",
+      "english": "Whoever this",
+      "notes": ""
+    },
+    {
+      "awadhi": "पढ़ै",
+      "sanskrit": "पठति",
+      "english": "Reads",
+      "notes": "Verb ending in `-ai`"
+    },
+    {
+      "awadhi": "हनुमान चलीसा",
+      "sanskrit": "हनुमान-चालीसा",
+      "english": "Forty verses of Hanuman",
+      "notes": ""
+    },
+    {
+      "awadhi": "होय सिद्धि",
+      "sanskrit": "सिद्धिः भवति",
+      "english": "Success/Perfection happens",
+      "notes": ""
+    },
+    {
+      "awadhi": "साखी",
+      "sanskrit": "साक्षी",
+      "english": "Witness",
+      "notes": ""
+    },
+    {
+      "awadhi": "गौरीसा",
+      "sanskrit": "गौरीशः (शिवः)",
+      "english": "Lord of Gauri",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "जो",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "य",
+          "weight": 1
+        },
+        {
+          "char": "ह",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "प",
+          "weight": 1
+        },
+        {
+          "char": "ढै",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "ह",
+          "weight": 1
+        },
+        {
+          "char": "नु",
+          "weight": 1
+        },
+        {
+          "char": "मा",
+          "weight": 2
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "च",
+          "weight": 1
+        },
+        {
+          "char": "ली",
+          "weight": 2
+        },
+        {
+          "char": "सा",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "हो",
+          "weight": 2
+        },
+        {
+          "char": "य",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "सि",
+          "weight": 2
+        },
+        {
+          "char": "द्धि",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "सा",
+          "weight": 2
+        },
+        {
+          "char": "खी",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "गौ",
+          "weight": 2
+        },
+        {
+          "char": "री",
+          "weight": 2
+        },
+        {
+          "char": "सा",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Universal Guarantee",
+      "description": "When you fully commit to the path of discipline, hard work, and good character, the universe itself aligns to ensure your ultimate success (Hoya Siddhi). Consistent effort always pays off in the end.",
+      "motivating_text": "",
+      "citation": ""
+    },
+    {
+      "type": "gotchabox",
+      "items": [
+        "The क्ष → ख Consonant Shift: The majestic Sanskrit word for Witness is साक्षी (Saakshi). Awadhi completely shatters the harsh `kshi` conjunct into the smooth and aspirated साखी (Saakhee)."
+      ]
+    }
+  ]
+}

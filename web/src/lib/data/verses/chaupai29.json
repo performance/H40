@@ -1,0 +1,187 @@
+{
+  "id": "chaupai29",
+  "type": "chaupai",
+  "number": 29,
+  "text": {
+    "awadhi": "चारों जुग परताप तुम्हारा। है परसिद्ध जगत उजियारा॥",
+    "telugu": "చారోఁ జుగ పరతాప తుమ్హారా। హై పరసిద్ధ జగత ఉజియారా॥",
+    "iast": "cāroṃ juga paratāpa tumhārā | hai parasiddha jagata ujiyārā ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "चारों जुग",
+      "sanskrit": "चतुर्षु युगेषु",
+      "english": "In the four Yugas",
+      "notes": ""
+    },
+    {
+      "awadhi": "परताप",
+      "sanskrit": "प्रतापः",
+      "english": "Glory / Majesty",
+      "notes": "Swara-Bhakti"
+    },
+    {
+      "awadhi": "तुम्हारा",
+      "sanskrit": "भवतः",
+      "english": "Your",
+      "notes": ""
+    },
+    {
+      "awadhi": "है",
+      "sanskrit": "अस्ति",
+      "english": "Is",
+      "notes": ""
+    },
+    {
+      "awadhi": "परसिद्ध",
+      "sanskrit": "प्रसिद्धः",
+      "english": "Famous / Known",
+      "notes": "Swara-Bhakti"
+    },
+    {
+      "awadhi": "जगत",
+      "sanskrit": "जगति",
+      "english": "In the world",
+      "notes": ""
+    },
+    {
+      "awadhi": "उजियारा",
+      "sanskrit": "प्रकाशः / उज्ज्वलः",
+      "english": "Light / Radiance",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "चा",
+          "weight": 2
+        },
+        {
+          "char": "रों",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "जु",
+          "weight": 1
+        },
+        {
+          "char": "ग",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "प",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "ता",
+          "weight": 2
+        },
+        {
+          "char": "प",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "तु",
+          "weight": 1
+        },
+        {
+          "char": "म्हा",
+          "weight": 2
+        },
+        {
+          "char": "रा",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "है",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "प",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "सि",
+          "weight": 2
+        },
+        {
+          "char": "द्ध",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ज",
+          "weight": 1
+        },
+        {
+          "char": "ग",
+          "weight": 1
+        },
+        {
+          "char": "त",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "उ",
+          "weight": 1
+        },
+        {
+          "char": "जि",
+          "weight": 1
+        },
+        {
+          "char": "या",
+          "weight": 2
+        },
+        {
+          "char": "रा",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "Timeless Principles",
+      "description": "His glory shines in all four epochs (Charon Yug). Good character, loyalty, strong work ethic, and discipline never go out of style. They are foundational human principles that remain relevant across all generations and technological shifts.",
+      "motivating_text": "",
+      "citation": ""
+    },
+    {
+      "type": "gotchabox",
+      "items": [
+        "Swara-Bhakti in Action: Both परताप (Parataap) and परसिद्ध (Parasiddha) exhibit pure Awadhi Swara-Bhakti (anaptyxis). The strict Sanskrit conjuncts प्रताप (Prataapa) and प्रसिद्ध (Prasiddha) are broken open by inserting a short `a` vowel between P and R. This makes the words musically softer and easier to sing while perfectly occupying the required musical beats."
+      ]
+    }
+  ]
+}

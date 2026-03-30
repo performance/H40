@@ -1,0 +1,167 @@
+{
+  "id": "chaupai32",
+  "type": "chaupai",
+  "number": 32,
+  "text": {
+    "awadhi": "राम रसायन तुम्हरे पासा। सदा रहो रघुपति के दासा॥",
+    "telugu": "రామ రసాయన తుమ్హరే పాసా। సదా రహో రఘుపతి కే దాసా॥",
+    "iast": "rāma rasāyana tumhare pāsā | sadā raho raghupati ke dāsā ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "राम रसायन",
+      "sanskrit": "राम-रसायनम्",
+      "english": "Elixir of Rama",
+      "notes": "Rasa (Essence) + Ayana (Path)"
+    },
+    {
+      "awadhi": "तुम्हरे पासा",
+      "sanskrit": "भवतः पार्श्वे",
+      "english": "In your possession",
+      "notes": ""
+    },
+    {
+      "awadhi": "सदा रहो",
+      "sanskrit": "सर्वदा भव / तिष्ठ",
+      "english": "Always remain",
+      "notes": ""
+    },
+    {
+      "awadhi": "रघुपति के",
+      "sanskrit": "रघुपतेः",
+      "english": "Of Lord Rama",
+      "notes": ""
+    },
+    {
+      "awadhi": "दासा",
+      "sanskrit": "दासः / सेवकः",
+      "english": "Servant",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "रा",
+          "weight": 2
+        },
+        {
+          "char": "म",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "सा",
+          "weight": 2
+        },
+        {
+          "char": "य",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "तु",
+          "weight": 1
+        },
+        {
+          "char": "म्ह",
+          "weight": 1
+        },
+        {
+          "char": "रे",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "पा",
+          "weight": 2
+        },
+        {
+          "char": "सा",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "स",
+          "weight": 1
+        },
+        {
+          "char": "दा",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "हो",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "घु",
+          "weight": 1
+        },
+        {
+          "char": "प",
+          "weight": 1
+        },
+        {
+          "char": "ति",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "के",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "दा",
+          "weight": 2
+        },
+        {
+          "char": "सा",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Servant's Heart",
+      "description": "By consciously choosing to remain a humble servant and lifelong learner (Daasa) rather than demanding to be the master, he found the ultimate cure (Rasayana) for ego and unrest. Humility is the greatest medicine for a peaceful mind.",
+      "motivating_text": "",
+      "citation": ""
+    }
+  ]
+}

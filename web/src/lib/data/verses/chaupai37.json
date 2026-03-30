@@ -1,0 +1,177 @@
+{
+  "id": "chaupai37",
+  "type": "chaupai",
+  "number": 37,
+  "text": {
+    "awadhi": "जै जै जै हनुमान गोसाईं। कृपा करहु गुरु देव की नाईं॥",
+    "telugu": "జై జై జై హనుమాన గోసాయీఁ। కృపా కరహు గురు దేవ కీ నాయీఁ॥",
+    "iast": "jai jai jai hanumāna gosāīṃ | kṛpā karahu guru deva kī nāīṃ ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "जै जै जै",
+      "sanskrit": "जय, जय, जय",
+      "english": "Victory / Hail (x3)",
+      "notes": ""
+    },
+    {
+      "awadhi": "हनुमान",
+      "sanskrit": "हनुमन्",
+      "english": "Hanuman",
+      "notes": ""
+    },
+    {
+      "awadhi": "गोसाईं",
+      "sanskrit": "गोस्वामिन्",
+      "english": "Lord of Senses",
+      "notes": "Go (Senses) + Swami (Lord)"
+    },
+    {
+      "awadhi": "कृपा करहु",
+      "sanskrit": "कृपां करोतु",
+      "english": "Have mercy / grace",
+      "notes": "Imperative `-hu` suffix"
+    },
+    {
+      "awadhi": "गुरु देव",
+      "sanskrit": "गुरूदेवः",
+      "english": "Supreme Guru",
+      "notes": ""
+    },
+    {
+      "awadhi": "की नाईं",
+      "sanskrit": "इव / सदृशम्",
+      "english": "Like / In the manner of",
+      "notes": "Pure Awadhi idiom"
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "जै",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "जै",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "जै",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "ह",
+          "weight": 1
+        },
+        {
+          "char": "नु",
+          "weight": 1
+        },
+        {
+          "char": "मा",
+          "weight": 2
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "गो",
+          "weight": 2
+        },
+        {
+          "char": "सा",
+          "weight": 2
+        },
+        {
+          "char": "ईं",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "कृ",
+          "weight": 1
+        },
+        {
+          "char": "पा",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "क",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "हु",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "गु",
+          "weight": 1
+        },
+        {
+          "char": "रु",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "दे",
+          "weight": 2
+        },
+        {
+          "char": "व",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "की",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "ना",
+          "weight": 2
+        },
+        {
+          "char": "ईं",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Ultimate Mentor",
+      "description": "By accepting an ideal role model as our guide (Gurudeva), we are asking for the unvarnished truth and the strict discipline required to elevate our lives to their highest potential. A true mentor challenges us to grow.",
+      "motivating_text": "",
+      "citation": ""
+    }
+  ]
+}

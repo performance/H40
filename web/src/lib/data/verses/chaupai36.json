@@ -1,0 +1,119 @@
+{
+  "id": "chaupai36",
+  "type": "chaupai",
+  "number": 36,
+  "text": {
+    "awadhi": "संकट कटै मिटै सब पीरा। जो सुमिरै हनुमत बलबीरा॥",
+    "telugu": "సంకట కటై మిటై సబ పీరా। జో సుమిరై హనుమత బలబీరా॥",
+    "iast": "saṃkaṭa kaṭai miṭai saba pīrā | jo sumirai hanumata balabīrā ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "संकट कटै",
+      "sanskrit": "सङ्कटं छिद्यते",
+      "english": "Crisis is cut",
+      "notes": "Present tense `-ai`"
+    },
+    {
+      "awadhi": "मिटै",
+      "sanskrit": "मृज्यते (नश्यति)",
+      "english": "Is erased/mitigated",
+      "notes": ""
+    },
+    {
+      "awadhi": "सब पीरा",
+      "sanskrit": "सर्वाः पीडाः",
+      "english": "All pain",
+      "notes": "पीडा → पीरा"
+    },
+    {
+      "awadhi": "जो सुमिरै",
+      "sanskrit": "यः स्मरति",
+      "english": "Whoever remembers",
+      "notes": "Swara-Bhakti (Smara → Sumira)"
+    },
+    {
+      "awadhi": "हनुमत",
+      "sanskrit": "हनुमन्तम्",
+      "english": "Hanuman",
+      "notes": ""
+    },
+    {
+      "awadhi": "बलबीरा",
+      "sanskrit": "बलवीरम्",
+      "english": "Mighty and Brave",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "सं",
+          "weight": 2
+        },
+        {
+          "char": "क",
+          "weight": 1
+        },
+        {
+          "char": "ट",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "क",
+          "weight": 1
+        },
+        {
+          "char": "टै",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "मि",
+          "weight": 1
+        },
+        {
+          "char": "टै",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "स",
+          "weight": 1
+        },
+        {
+          "char": "ब",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "पी",
+          "weight": 2
+        },
+        {
+          "char": "रा",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "Active Resilience",
+      "description": "He doesn't just passively soothe problems; the active verb Kaṭai (cutting) means we must take decisive, active steps to cut out the bad habits and negative influences that are causing our struggles. Resilience requires action.",
+      "motivating_text": "",
+      "citation": ""
+    }
+  ]
+}

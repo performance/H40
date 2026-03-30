@@ -1,0 +1,186 @@
+{
+  "id": "chaupai5",
+  "type": "chaupai",
+  "number": 5,
+  "text": {
+    "awadhi": "हाथ बज्र औ ध्वजा बिराजै। काँधे मूँज जनेऊ साजै॥",
+    "telugu": "హాథ బజ్ర ఔ ధ్వజా బిరాజై। కాఁధే మూఁజ జనేఊ సాజై॥",
+    "iast": "hātha bajra au dhvajā birājai | kāṃdhe mūṃja janeū sājai ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "हाथ",
+      "sanskrit": "हस्ते",
+      "english": "In hands",
+      "notes": ""
+    },
+    {
+      "awadhi": "बज्र",
+      "sanskrit": "वज्रम्",
+      "english": "Thunderbolt",
+      "notes": ""
+    },
+    {
+      "awadhi": "औ",
+      "sanskrit": "और / च",
+      "english": "And",
+      "notes": ""
+    },
+    {
+      "awadhi": "ध्वजा",
+      "sanskrit": "ध्वजः",
+      "english": "Flag / Banner",
+      "notes": ""
+    },
+    {
+      "awadhi": "बिराजै",
+      "sanskrit": "विराजते",
+      "english": "Shines",
+      "notes": ""
+    },
+    {
+      "awadhi": "काँधे",
+      "sanskrit": "स्कन्धे",
+      "english": "On the shoulder",
+      "notes": ""
+    },
+    {
+      "awadhi": "मूँज",
+      "sanskrit": "मौञ्जी",
+      "english": "Munja grass",
+      "notes": "Moon-dot (Chandrabindu)"
+    },
+    {
+      "awadhi": "जनेऊ",
+      "sanskrit": "यज्ञोपवीतम्",
+      "english": "Sacred thread",
+      "notes": ""
+    },
+    {
+      "awadhi": "साजै",
+      "sanskrit": "सज्जते / शोभते",
+      "english": "Adorns / Looks beautiful",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "हा",
+          "weight": 2
+        },
+        {
+          "char": "थ",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ब",
+          "weight": 2
+        },
+        {
+          "char": "ज्र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "औ",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "ध्व",
+          "weight": 1
+        },
+        {
+          "char": "जा",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "बि",
+          "weight": 1
+        },
+        {
+          "char": "रा",
+          "weight": 2
+        },
+        {
+          "char": "जै",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "काँ",
+          "weight": 2
+        },
+        {
+          "char": "धे",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "मूँ",
+          "weight": 2
+        },
+        {
+          "char": "ज",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ज",
+          "weight": 1
+        },
+        {
+          "char": "ने",
+          "weight": 2
+        },
+        {
+          "char": "ऊ",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "सा",
+          "weight": 2
+        },
+        {
+          "char": "जै",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Scholar and the Protector",
+      "description": "He holds a devastating weapon (Bajra) in his hand, but wears the sacred thread (Janeu) of a peaceful scholar on his shoulder. This is the ultimate balance we should all strive for: possessing a highly educated, peaceful mind, while remaining strong enough to fiercely protect others from injustice.",
+      "motivating_text": "",
+      "citation": ""
+    },
+    {
+      "type": "gotchabox",
+      "items": [
+        "Nasalization: Pay close attention to the चन्द्रबिन्दु (Chandrabindu / Moon-dot) on काँधे (Kaandhe) and मूँज (Moonja). This nasalizes the vowel without adding the extra weight of a full consonant, preserving the 16-beat meter.",
+        "Conjunct Consonant Weight (बज्र): The `a` in `ba` becomes a 2-beat Guru because it precedes the conjunct `jra`!"
+      ]
+    }
+  ]
+}

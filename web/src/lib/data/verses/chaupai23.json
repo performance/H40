@@ -1,0 +1,167 @@
+{
+  "id": "chaupai23",
+  "type": "chaupai",
+  "number": 23,
+  "text": {
+    "awadhi": "आपन तेज सम्हारो आपै। तीनों लोक हाँक तें काँपै॥",
+    "telugu": "ఆపన తేజ సమ్హారో ఆపై। తీనోం లోక హాఁక తేఁ కాఁపై॥",
+    "iast": "āpana teja samhāro āpai | tīnoṃ loka hāṃka teṃ kāṃpai ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "आपन",
+      "sanskrit": "आत्मीयम्",
+      "english": "Own",
+      "notes": ""
+    },
+    {
+      "awadhi": "तेज",
+      "sanskrit": "तेजः",
+      "english": "Power / Splendor",
+      "notes": ""
+    },
+    {
+      "awadhi": "सम्हारो",
+      "sanskrit": "सम्भालनम् / नियन्त्रणम्",
+      "english": "Control / Handle",
+      "notes": ""
+    },
+    {
+      "awadhi": "आपै",
+      "sanskrit": "स्वयम् एव",
+      "english": "You alone / By yourself",
+      "notes": ""
+    },
+    {
+      "awadhi": "तीनों लोक",
+      "sanskrit": "त्रयः लोकाः",
+      "english": "Three worlds",
+      "notes": ""
+    },
+    {
+      "awadhi": "हाँक तें",
+      "sanskrit": "हुङ्कारेण / गर्जनया",
+      "english": "By your roar",
+      "notes": ""
+    },
+    {
+      "awadhi": "काँपै",
+      "sanskrit": "कम्पन्ते",
+      "english": "Tremble / Shiver",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "आ",
+          "weight": 2
+        },
+        {
+          "char": "प",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ते",
+          "weight": 2
+        },
+        {
+          "char": "ज",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "स",
+          "weight": 1
+        },
+        {
+          "char": "म्हा",
+          "weight": 2
+        },
+        {
+          "char": "रो",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "आ",
+          "weight": 2
+        },
+        {
+          "char": "पै",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "ती",
+          "weight": 2
+        },
+        {
+          "char": "नों",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "लो",
+          "weight": 2
+        },
+        {
+          "char": "क",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "हाँ",
+          "weight": 2
+        },
+        {
+          "char": "क",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "तें",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "काँ",
+          "weight": 2
+        },
+        {
+          "char": "पै",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "Self-Regulation",
+      "description": "He possessed immense, earth-shaking energy and talent, but he kept it under perfect control (Samharo Aapai). Raw intelligence, talent, and energy are completely useless without the self-discipline to regulate and direct them properly.",
+      "motivating_text": "",
+      "citation": ""
+    }
+  ]
+}

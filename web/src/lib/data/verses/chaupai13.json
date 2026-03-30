@@ -1,0 +1,218 @@
+{
+  "id": "chaupai13",
+  "type": "chaupai",
+  "number": 13,
+  "text": {
+    "awadhi": "सहस बदन तुम्हरो जस गावैं। अस कहि श्रीपति कंठ लगावैं॥",
+    "telugu": "సహస బదన తుమ్హరో జస గావైఁ। అస కహి శ్రీపతి కంఠ లగావైఁ॥",
+    "iast": "sahasa badana tumharo jasa gāvaiṃ | asa kahi śrīpati kaṃṭha lagāvaiṃ ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "सहस",
+      "sanskrit": "सहस्रम्",
+      "english": "Thousand",
+      "notes": ""
+    },
+    {
+      "awadhi": "बदन",
+      "sanskrit": "वदनम् / मुखानि",
+      "english": "Faces",
+      "notes": ""
+    },
+    {
+      "awadhi": "तुम्हरो",
+      "sanskrit": "भवतः",
+      "english": "Your",
+      "notes": ""
+    },
+    {
+      "awadhi": "जस",
+      "sanskrit": "यशः",
+      "english": "Glory / Fame",
+      "notes": ""
+    },
+    {
+      "awadhi": "गावैं",
+      "sanskrit": "गायन्ति",
+      "english": "(They) Sing",
+      "notes": "Plural nasal `-ain`"
+    },
+    {
+      "awadhi": "अस",
+      "sanskrit": "एवम्",
+      "english": "Like this / Thus",
+      "notes": ""
+    },
+    {
+      "awadhi": "कहि",
+      "sanskrit": "उक्त्वा",
+      "english": "Having said",
+      "notes": "Absolutive verb `-i`"
+    },
+    {
+      "awadhi": "श्रीपति",
+      "sanskrit": "श्रियः-पतिः",
+      "english": "Lord of Fortune (Rama)",
+      "notes": ""
+    },
+    {
+      "awadhi": "कंठ",
+      "sanskrit": "कण्ठे",
+      "english": "By the neck",
+      "notes": ""
+    },
+    {
+      "awadhi": "लगावैं",
+      "sanskrit": "आलिङ्गितवान्",
+      "english": "Hugged / Applied",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "स",
+          "weight": 1
+        },
+        {
+          "char": "ह",
+          "weight": 1
+        },
+        {
+          "char": "स",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ब",
+          "weight": 1
+        },
+        {
+          "char": "द",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "तु",
+          "weight": 2
+        },
+        {
+          "char": "म्ह",
+          "weight": 1
+        },
+        {
+          "char": "रो",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "ज",
+          "weight": 1
+        },
+        {
+          "char": "स",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "गा",
+          "weight": 2
+        },
+        {
+          "char": "वैं",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "अ",
+          "weight": 1
+        },
+        {
+          "char": "स",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "क",
+          "weight": 1
+        },
+        {
+          "char": "हि",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "श्री",
+          "weight": 2
+        },
+        {
+          "char": "प",
+          "weight": 1
+        },
+        {
+          "char": "ति",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "कं",
+          "weight": 2
+        },
+        {
+          "char": "ठ",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ल",
+          "weight": 1
+        },
+        {
+          "char": "गा",
+          "weight": 2
+        },
+        {
+          "char": "वैं",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "Building a Legacy",
+      "description": "Lord Rama tells him that the entire universe will sing his praises (Jasa Gaavai). When you dedicate your life to selfless service, hard work, and excellence, you never need to brag or demand attention. Your reputation and your results will eventually sing for themselves.",
+      "motivating_text": "",
+      "citation": ""
+    },
+    {
+      "type": "gotchabox",
+      "items": [
+        "The Double Shift (यश → जस): Pure Awadhi transformation! The gliding य (y) hardens to the plosive ज (j), and the palatal श (sh) softens to the dental स (s). Sanskrit यश (Yasha) becomes Awadhi जस (Jasa).",
+        "The Plural Verb Nasal (गावैं/लगावैं): The nasalization ँ at the end of verbs denotes plural or respect. Here, it denotes that the 1000 faces of the serpent sing (Gaavain), and that Lord Rama (with immense respect) embraces (Lagaavain)."
+      ]
+    }
+  ]
+}

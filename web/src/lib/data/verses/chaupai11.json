@@ -1,0 +1,197 @@
+{
+  "id": "chaupai11",
+  "type": "chaupai",
+  "number": 11,
+  "text": {
+    "awadhi": "लाय सजीवन लखन जियाये। श्रीरघुबीर हरषि उर लाये॥",
+    "telugu": "లాయ సజీవన లఖన జియాయే। శ్రీరఘుబీర హరషి ఉర లాయే॥",
+    "iast": "lāya sajīvana lakhana jiyāye | śrīraghubīra haraṣi ura lāye ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "लाय",
+      "sanskrit": "आनीय",
+      "english": "Having brought",
+      "notes": ""
+    },
+    {
+      "awadhi": "सजीवन",
+      "sanskrit": "सञ्जीवनीम्",
+      "english": "Sanjeevani herb",
+      "notes": ""
+    },
+    {
+      "awadhi": "लखन",
+      "sanskrit": "लक्ष्मणम्",
+      "english": "Lakshmana",
+      "notes": ""
+    },
+    {
+      "awadhi": "जियाये",
+      "sanskrit": "जीवितवान्",
+      "english": "Resurrected / Revived",
+      "notes": ""
+    },
+    {
+      "awadhi": "श्रीरघुबीर",
+      "sanskrit": "श्रीरघुवीरः",
+      "english": "Lord Rama",
+      "notes": ""
+    },
+    {
+      "awadhi": "हरषि",
+      "sanskrit": "हर्षितः",
+      "english": "Joyfully",
+      "notes": "Short ending 'i'"
+    },
+    {
+      "awadhi": "उर",
+      "sanskrit": "उरसि / वक्षसि",
+      "english": "In the chest/heart",
+      "notes": ""
+    },
+    {
+      "awadhi": "लाये",
+      "sanskrit": "स्थापितवान्",
+      "english": "Brought to (embraced)",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "ला",
+          "weight": 2
+        },
+        {
+          "char": "य",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "स",
+          "weight": 1
+        },
+        {
+          "char": "जी",
+          "weight": 2
+        },
+        {
+          "char": "व",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ल",
+          "weight": 1
+        },
+        {
+          "char": "ख",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "जि",
+          "weight": 1
+        },
+        {
+          "char": "या",
+          "weight": 2
+        },
+        {
+          "char": "ये",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "श्री",
+          "weight": 2
+        },
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "घु",
+          "weight": 1
+        },
+        {
+          "char": "बी",
+          "weight": 2
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ह",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "षि",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "उ",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ला",
+          "weight": 2
+        },
+        {
+          "char": "ये",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Ultimate Team Player",
+      "description": "When his teammate fell in battle, Hanuman didn't hesitate; he crossed continents overnight and worked tirelessly to bring the life-saving cure (Sanjeevani). He teaches us the absolute importance of resourcefulness, reliability, and showing up unconditionally for our friends in their darkest hours.",
+      "motivating_text": "",
+      "citation": ""
+    },
+    {
+      "type": "gotchabox",
+      "items": [
+        "Phonetic Shifts: रघुवीर (Raghuveera) hardens into रघुबीर (Raghubeera). The Sanskrit `jñ/ñj` cluster in सञ्जीवनी (Sanjeevani) simplifies into the pure Awadhi सजीवन (Sajeevan)."
+      ]
+    }
+  ]
+}

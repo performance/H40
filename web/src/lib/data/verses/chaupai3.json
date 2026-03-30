@@ -1,0 +1,189 @@
+{
+  "id": "chaupai3",
+  "type": "chaupai",
+  "number": 3,
+  "text": {
+    "awadhi": "महाबीर बिक्रम बजरंगी। कुमति निवार सुमति के संगी॥",
+    "telugu": "మహాబీర బిక్రమ బజరంగీ। కుమతి నివార సుమతి కే సంగీ॥",
+    "iast": "mahābīra bikrama bajaraṅgī | kumati nivāra sumati ke saṅgī ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "महाबीर",
+      "sanskrit": "महावीरः",
+      "english": "Great Hero",
+      "notes": ""
+    },
+    {
+      "awadhi": "बिक्रम",
+      "sanskrit": "विक्रमः",
+      "english": "Valiant/Courageous",
+      "notes": ""
+    },
+    {
+      "awadhi": "बजरंगी",
+      "sanskrit": "वज्राङ्गी",
+      "english": "Thunderbolt body",
+      "notes": "Swara-Bhakti splitting"
+    },
+    {
+      "awadhi": "कुमति",
+      "sanskrit": "कुमतिम्",
+      "english": "Evil intellect",
+      "notes": ""
+    },
+    {
+      "awadhi": "निवार",
+      "sanskrit": "निवारकः",
+      "english": "Dispeller / Remover",
+      "notes": "Meter trap: short 'i'"
+    },
+    {
+      "awadhi": "सुमति",
+      "sanskrit": "सुमतीनाम्",
+      "english": "Good intellect",
+      "notes": ""
+    },
+    {
+      "awadhi": "संगी",
+      "sanskrit": "सङ्गी / सखा",
+      "english": "Companion",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "म",
+          "weight": 1
+        },
+        {
+          "char": "हा",
+          "weight": 2
+        },
+        {
+          "char": "बी",
+          "weight": 2
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "बि",
+          "weight": 2
+        },
+        {
+          "char": "क्र",
+          "weight": 1
+        },
+        {
+          "char": "म",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ब",
+          "weight": 1
+        },
+        {
+          "char": "ज",
+          "weight": 1
+        },
+        {
+          "char": "रं",
+          "weight": 2
+        },
+        {
+          "char": "गी",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "कु",
+          "weight": 1
+        },
+        {
+          "char": "म",
+          "weight": 1
+        },
+        {
+          "char": "ति",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "नि",
+          "weight": 1
+        },
+        {
+          "char": "वा",
+          "weight": 2
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "सु",
+          "weight": 1
+        },
+        {
+          "char": "म",
+          "weight": 1
+        },
+        {
+          "char": "ति",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "के",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "सं",
+          "weight": 2
+        },
+        {
+          "char": "गी",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "Choosing Good Company",
+      "description": "Physical strength (a Vajra body) is dangerous without a clear mind. Hanuman's greatest power is that he dispels toxic, negative thoughts (Kumati) and actively brings us into the company of good thoughts and wise people (Sumati ke Sangi). True strength is maintaining a disciplined mind.",
+      "motivating_text": "",
+      "citation": ""
+    },
+    {
+      "type": "gotchabox",
+      "items": [
+        "The Triple व → ब Shift: This line is the ultimate test of the Awadhi rule! वीर (Veera) → बीर (Beera). विक्रम (Vikrama) → बिक्रम (Bikrama).",
+        "Swara-Bhakti (वज्र → बजर): The harsh conjunct 'jra' in वज्र (Vajra) is broken apart by inserting a neutralizing 'a' vowel, stretching it from Vaj-ra to Ba-ja-ra. This preserves the mouth's flow.",
+        "Meter Trap: Keep the 'i' short in निवार (Nivaara). If you elongate it to नीवार (Neevaara), you add a beat and break the 16-matra math!"
+      ]
+    }
+  ]
+}

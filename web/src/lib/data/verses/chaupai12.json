@@ -1,0 +1,215 @@
+{
+  "id": "chaupai12",
+  "type": "chaupai",
+  "number": 12,
+  "text": {
+    "awadhi": "रघुपति कीन्ही बहुत बड़ाई। तुम मम प्रिय भरतहि सम भाई॥",
+    "telugu": "రఘుపతి కీన్హీ బహుత బడాయీ। తుమ మమ ప్రియ భరతహి సమ భాయీ॥",
+    "iast": "raghupati kīnhī bahuta baṛāī | tuma mama priya bharatahi sama bhāī ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "रघुपति",
+      "sanskrit": "रघुपतिः",
+      "english": "Lord Rama",
+      "notes": ""
+    },
+    {
+      "awadhi": "कीन्ही",
+      "sanskrit": "कृतवान्",
+      "english": "Did",
+      "notes": "Awadhi past tense verb"
+    },
+    {
+      "awadhi": "बहुत",
+      "sanskrit": "अतीव / बहु",
+      "english": "Much / Lots of",
+      "notes": ""
+    },
+    {
+      "awadhi": "बड़ाई",
+      "sanskrit": "प्रशंसा / महिमा",
+      "english": "Praise / Greatness",
+      "notes": ""
+    },
+    {
+      "awadhi": "तुम",
+      "sanskrit": "त्वम्",
+      "english": "You",
+      "notes": ""
+    },
+    {
+      "awadhi": "मम",
+      "sanskrit": "मम",
+      "english": "My",
+      "notes": "Pure Sanskrit!"
+    },
+    {
+      "awadhi": "प्रिय",
+      "sanskrit": "प्रियः",
+      "english": "Dear",
+      "notes": "Pure Sanskrit!"
+    },
+    {
+      "awadhi": "भरतहि",
+      "sanskrit": "भरताय / भरतेन",
+      "english": "Bharata",
+      "notes": "Objective suffix `-hi`"
+    },
+    {
+      "awadhi": "सम",
+      "sanskrit": "समानः",
+      "english": "Equal / Like",
+      "notes": ""
+    },
+    {
+      "awadhi": "भाई",
+      "sanskrit": "भ्राता",
+      "english": "Brother",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "घु",
+          "weight": 1
+        },
+        {
+          "char": "प",
+          "weight": 1
+        },
+        {
+          "char": "ति",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "कीं",
+          "weight": 2
+        },
+        {
+          "char": "न्ही",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "ब",
+          "weight": 1
+        },
+        {
+          "char": "हु",
+          "weight": 1
+        },
+        {
+          "char": "त",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ब",
+          "weight": 1
+        },
+        {
+          "char": "ड़ा",
+          "weight": 2
+        },
+        {
+          "char": "ई",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "तु",
+          "weight": 1
+        },
+        {
+          "char": "म",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "म",
+          "weight": 1
+        },
+        {
+          "char": "म",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "प्रि",
+          "weight": 1
+        },
+        {
+          "char": "य",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "भ",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "त",
+          "weight": 1
+        },
+        {
+          "char": "हि",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "स",
+          "weight": 1
+        },
+        {
+          "char": "म",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "भा",
+          "weight": 2
+        },
+        {
+          "char": "ई",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "Recognition of Merit",
+      "description": "Lord Rama praised Hanuman by stating he was equal to his own royal brother Bharata. A true leader creates a meritocracy. They judge people by their character, loyalty, and hard work, not by their family background, species, or social status.",
+      "motivating_text": "",
+      "citation": ""
+    }
+  ]
+}

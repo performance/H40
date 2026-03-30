@@ -1,0 +1,189 @@
+{
+  "id": "chaupai38",
+  "type": "chaupai",
+  "number": 38,
+  "text": {
+    "awadhi": "जो सत बार पाठ कर कोई। छूटहि बंदि महा सुख होई॥",
+    "telugu": "జో సత బార పాఠ కర కోఈ। ఛూటహి బంది మహా సుఖ హోఈ॥",
+    "iast": "jo sata bāra pāṭha kara koī | chūṭahi baṃdi mahā sukha hoī ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "जो कोई",
+      "sanskrit": "यः कश्चित्",
+      "english": "Whoever",
+      "notes": ""
+    },
+    {
+      "awadhi": "सत बार",
+      "sanskrit": "शत-वारम्",
+      "english": "100 Times",
+      "notes": ""
+    },
+    {
+      "awadhi": "पाठ कर",
+      "sanskrit": "पाठं करोति",
+      "english": "Recites",
+      "notes": ""
+    },
+    {
+      "awadhi": "छूटहि",
+      "sanskrit": "मुच्यते",
+      "english": "Is freed / breaks",
+      "notes": "Awadhi passive `-hi`"
+    },
+    {
+      "awadhi": "बंदि",
+      "sanskrit": "बन्धनात्",
+      "english": "From bondage (prison)",
+      "notes": ""
+    },
+    {
+      "awadhi": "महा सुख",
+      "sanskrit": "महान् सुखम्",
+      "english": "Great happiness",
+      "notes": ""
+    },
+    {
+      "awadhi": "होई",
+      "sanskrit": "भवति",
+      "english": "Happens",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "जो",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "स",
+          "weight": 1
+        },
+        {
+          "char": "त",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "बा",
+          "weight": 2
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "पा",
+          "weight": 2
+        },
+        {
+          "char": "ठ",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "क",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "को",
+          "weight": 2
+        },
+        {
+          "char": "ई",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "छू",
+          "weight": 2
+        },
+        {
+          "char": "ट",
+          "weight": 1
+        },
+        {
+          "char": "हि",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "बं",
+          "weight": 2
+        },
+        {
+          "char": "दि",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "म",
+          "weight": 1
+        },
+        {
+          "char": "हा",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "सु",
+          "weight": 1
+        },
+        {
+          "char": "ख",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "हो",
+          "weight": 2
+        },
+        {
+          "char": "ई",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Power of Repetition",
+      "description": "Sata Baar (100 times) represents unwavering consistency. Mastery in education, sports, or personal growth doesn't come overnight. True success and liberation from failure are only built through relentless, daily, repetitive practice.",
+      "motivating_text": "",
+      "citation": ""
+    },
+    {
+      "type": "gotchabox",
+      "items": [
+        "The श/ष → स Shift: Yet another perfect example of palatal softening! The strict Sanskrit शत (Shata/100) becomes the pure, flowing Awadhi सत (Sata)."
+      ]
+    }
+  ]
+}

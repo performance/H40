@@ -1,0 +1,191 @@
+{
+  "id": "chaupai26",
+  "type": "chaupai",
+  "number": 26,
+  "text": {
+    "awadhi": "संकट तें हनुमान छुड़ावै। मन क्रम बचन ध्यान जो लावै॥",
+    "telugu": "సంకట తేఁ హనుమాన ఛుడావై। మన క్రమ బచన ధ్యాన జో లావై॥",
+    "iast": "saṃkaṭa teṃ hanumāna chuṛāvai | mana krama bacana dhyāna jo lāvai ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "संकट तें",
+      "sanskrit": "सङ्कटात्",
+      "english": "From crisis",
+      "notes": "Ablative postposition `-teṃ`"
+    },
+    {
+      "awadhi": "हनुमान",
+      "sanskrit": "हनुमान्",
+      "english": "Hanuman",
+      "notes": ""
+    },
+    {
+      "awadhi": "छुड़ावै",
+      "sanskrit": "मोचयति",
+      "english": "Rescues/Frees",
+      "notes": ""
+    },
+    {
+      "awadhi": "मन",
+      "sanskrit": "मनसा",
+      "english": "With mind",
+      "notes": ""
+    },
+    {
+      "awadhi": "क्रम",
+      "sanskrit": "कर्मणा",
+      "english": "With actions",
+      "notes": "Metathesis of Karma"
+    },
+    {
+      "awadhi": "बचन",
+      "sanskrit": "वचनेन",
+      "english": "With words",
+      "notes": ""
+    },
+    {
+      "awadhi": "ध्यान",
+      "sanskrit": "ध्यानम्",
+      "english": "Meditation",
+      "notes": ""
+    },
+    {
+      "awadhi": "जो लावै",
+      "sanskrit": "यः करोति (आनयति)",
+      "english": "Whoever applies",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "सं",
+          "weight": 2
+        },
+        {
+          "char": "क",
+          "weight": 1
+        },
+        {
+          "char": "ट",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "तें",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "ह",
+          "weight": 1
+        },
+        {
+          "char": "नु",
+          "weight": 1
+        },
+        {
+          "char": "मा",
+          "weight": 2
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "छु",
+          "weight": 1
+        },
+        {
+          "char": "ड़ा",
+          "weight": 2
+        },
+        {
+          "char": "वै",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "म",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "क्र",
+          "weight": 1
+        },
+        {
+          "char": "म",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ब",
+          "weight": 1
+        },
+        {
+          "char": "च",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ध्या",
+          "weight": 2
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "जो",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "ला",
+          "weight": 2
+        },
+        {
+          "char": "वै",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Perfect Alignment",
+      "description": "When your mind (Mana), words (Bachan), and actions (Krama) are perfectly aligned toward a single goal, you can navigate your way out of any crisis (Sankat). Hypocrisy and distraction are the true enemies of success.",
+      "motivating_text": "",
+      "citation": ""
+    }
+  ]
+}

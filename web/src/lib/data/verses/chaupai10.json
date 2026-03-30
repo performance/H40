@@ -1,0 +1,129 @@
+{
+  "id": "chaupai10",
+  "type": "chaupai",
+  "number": 10,
+  "text": {
+    "awadhi": "भीम रूप धरि असुर सँहारे। रामचंद्र के काज सँवारे॥",
+    "telugu": "భీమ రూప ధరి అసుర సఁహారే। రామచంద్ర కే కాజ సఁవారే॥",
+    "iast": "bhīma rūpa dhari asura saṃhāre | rāmacandra ke kāja saṃvāre ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "भीम रूप",
+      "sanskrit": "भीम-रूपम्",
+      "english": "Massive / fearsome form",
+      "notes": ""
+    },
+    {
+      "awadhi": "धरि",
+      "sanskrit": "धृत्वा",
+      "english": "Having assumed",
+      "notes": ""
+    },
+    {
+      "awadhi": "असुर",
+      "sanskrit": "असुरान्",
+      "english": "Demons",
+      "notes": ""
+    },
+    {
+      "awadhi": "सँहारे",
+      "sanskrit": "संहारितवान्",
+      "english": "Destroyed",
+      "notes": ""
+    },
+    {
+      "awadhi": "रामचंद्र के",
+      "sanskrit": "श्रीरामचन्द्रस्य",
+      "english": "Ramachandra's",
+      "notes": "Genitive case marker `ke`"
+    },
+    {
+      "awadhi": "काज",
+      "sanskrit": "कार्याणि",
+      "english": "Works/Missions",
+      "notes": "Prakrit shift ()"
+    },
+    {
+      "awadhi": "सँवारे",
+      "sanskrit": "साधितवान्",
+      "english": "Accomplished",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "भी",
+          "weight": 2
+        },
+        {
+          "char": "म",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "रू",
+          "weight": 2
+        },
+        {
+          "char": "प",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ध",
+          "weight": 1
+        },
+        {
+          "char": "रि",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "अ",
+          "weight": 1
+        },
+        {
+          "char": "सु",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "सँ",
+          "weight": 1
+        },
+        {
+          "char": "हा",
+          "weight": 2
+        },
+        {
+          "char": "रे",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "Standing Up to Bullies",
+      "description": "Hanuman was inherently peaceful, but when his boundaries were repeatedly broken by toxic forces (Asura), he assumed a terrifying, massive form (Bhima Rupa) to protect his mission. True strength means being gentle by default, but having the courage and ferocity to stand up decisively to bullies and injustice when necessary.",
+      "motivating_text": "",
+      "citation": ""
+    }
+  ]
+}

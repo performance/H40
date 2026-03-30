@@ -1,0 +1,328 @@
+{
+  "id": "doha1",
+  "type": "doha",
+  "number": 1,
+  "text": {
+    "awadhi": "श्रीगुरु चरन सरोज रज निज मनु मुकुरु सुधारि। बरनउँ रघुबर बिमल जसु जो दायकु फल चारि॥",
+    "telugu": "శ్రీగురు చరన సరోజ రజ నిజ మను ముకురు సుధారి। బరనఉఁ రఘుబర బిమల జసు జో దాయకు ఫల చారి॥",
+    "iast": "śrīguru carana saroja raja, nija manu mukuru sudhāri | baranauṃ raghubara bimala jasu, jo dāyaku phala cāri ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "श्रीगुरु",
+      "sanskrit": "श्रीगुरोः",
+      "english": "Venerable Guru's",
+      "notes": "Genitive (-ḥ)"
+    },
+    {
+      "awadhi": "चरन",
+      "sanskrit": "चरण",
+      "english": "Feet",
+      "notes": ""
+    },
+    {
+      "awadhi": "सरोज",
+      "sanskrit": "कमल",
+      "english": "Lotus",
+      "notes": ""
+    },
+    {
+      "awadhi": "रज",
+      "sanskrit": "धूलिः / रजः",
+      "english": "Dust",
+      "notes": ""
+    },
+    {
+      "awadhi": "निज",
+      "sanskrit": "स्व / आत्मीय",
+      "english": "Own",
+      "notes": ""
+    },
+    {
+      "awadhi": "मनु",
+      "sanskrit": "मनः",
+      "english": "Mind",
+      "notes": ""
+    },
+    {
+      "awadhi": "मुकुरु",
+      "sanskrit": "दर्पणम्",
+      "english": "Mirror",
+      "notes": "Nominative -u ending"
+    },
+    {
+      "awadhi": "सुधारि",
+      "sanskrit": "स्वच्छं कृत्वा (संशोध्य)",
+      "english": "Having cleaned/purified",
+      "notes": ""
+    },
+    {
+      "awadhi": "बरनउँ",
+      "sanskrit": "वर्णयामि",
+      "english": "I describe / narrate",
+      "notes": ""
+    },
+    {
+      "awadhi": "रघुबर",
+      "sanskrit": "श्रीरघुनाथस्य",
+      "english": "Lord Rama's",
+      "notes": ""
+    },
+    {
+      "awadhi": "बिमल",
+      "sanskrit": "निर्मलम्",
+      "english": "Pure",
+      "notes": ""
+    },
+    {
+      "awadhi": "जसु",
+      "sanskrit": "यशः",
+      "english": "Glory",
+      "notes": ""
+    },
+    {
+      "awadhi": "जो",
+      "sanskrit": "यत्",
+      "english": "Which",
+      "notes": ""
+    },
+    {
+      "awadhi": "दायकु",
+      "sanskrit": "दायकम् (फलप्रदम्)",
+      "english": "Bestower / Giver",
+      "notes": "Nominative -u ending"
+    },
+    {
+      "awadhi": "फल चारि",
+      "sanskrit": "चत्वारि फलानि",
+      "english": "Four fruits",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "श्री",
+          "weight": 2
+        },
+        {
+          "char": "गु",
+          "weight": 1
+        },
+        {
+          "char": "रु",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "च",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "स",
+          "weight": 1
+        },
+        {
+          "char": "रो",
+          "weight": 2
+        },
+        {
+          "char": "ज",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "ज",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "नि",
+          "weight": 1
+        },
+        {
+          "char": "ज",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "म",
+          "weight": 1
+        },
+        {
+          "char": "नु",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "मु",
+          "weight": 1
+        },
+        {
+          "char": "कु",
+          "weight": 1
+        },
+        {
+          "char": "रु",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "सु",
+          "weight": 1
+        },
+        {
+          "char": "धा",
+          "weight": 2
+        },
+        {
+          "char": "रि",
+          "weight": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "ब",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        },
+        {
+          "char": "उँ",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "घु",
+          "weight": 1
+        },
+        {
+          "char": "ब",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "बि",
+          "weight": 1
+        },
+        {
+          "char": "म",
+          "weight": 1
+        },
+        {
+          "char": "ल",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ज",
+          "weight": 1
+        },
+        {
+          "char": "सु",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "जो",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "दा",
+          "weight": 2
+        },
+        {
+          "char": "य",
+          "weight": 1
+        },
+        {
+          "char": "कु",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "फ",
+          "weight": 1
+        },
+        {
+          "char": "ल",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "चा",
+          "weight": 2
+        },
+        {
+          "char": "रि",
+          "weight": 1
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Frame of Mind & Dedication",
+      "description": "Why begin with Guru Vandana (respecting the teacher)? Because actively thinking about purifying one's mind (Mukuru Sudhari) immediately puts the student in a positive, receptive frame of mind to learn. Hanuman perfectly modeled this respect for education: to learn the scriptures from Surya (the Sun), he flew backward all day across the blazing sky just to keep his eyes respectfully on his teacher. It shows supreme dedication to learning.",
+      "motivating_text": "",
+      "citation": ""
+    },
+    {
+      "type": "gotchabox",
+      "items": [
+        "The -u Ending (Nominative Case): The short 'u' on मुकुरु (Mukuru), जसु (Jasu), and दायकु (Dayaku) doesn't mean it's a verb---it is the classical Apabhramsha nominative case marker derived from the Sanskrit '-aḥ' ending.",
+        "Meter Alert: Keep the 'i' short in सुधारि (Sudhaari) and चारि (Chaari) to maintain the exact 11-beat math of the Doha's second half! Both end in the classic Guru-Laghu (2-1) drop."
+      ]
+    }
+  ]
+}

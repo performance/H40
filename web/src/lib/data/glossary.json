@@ -1,0 +1,155 @@
+[
+  {
+    "category": "The Eight Siddhis",
+    "sanskrit_name": "Ashta-Siddhi",
+    "description": "}\nIn the 31st Chaupai, Mother Sita blesses Hanuman with the ability to grant the *Ashta-Siddhi* (the eight supernatural Yogic powers). A master of these Siddhis can manipulate the fundamental building blocks of matter and space.",
+    "items": [
+      {
+        "name": "**Anima**",
+        "sanskrit": "अणिमा",
+        "description": "The power to shrink one's body to the size of an atom or sub-atomic particle (used to secretly enter Lanka)."
+      },
+      {
+        "name": "**Mahima**",
+        "sanskrit": "महिमा",
+        "description": "The power to expand one's body to an infinitely large, gargantuan size (used to terrify the demoness Surasa)."
+      },
+      {
+        "name": "**Garima**",
+        "sanskrit": "गरिमा",
+        "description": "The power to become infinitely heavy (used when Bhima could not lift even Hanuman's tail)."
+      },
+      {
+        "name": "**Laghima**",
+        "sanskrit": "लघिमा",
+        "description": "The power to become almost weightless or lighter than air (used for levitation and swift flight across the ocean)."
+      },
+      {
+        "name": "**Prapti**",
+        "sanskrit": "प्राप्ति",
+        "description": "The power to instantly acquire or reach anything anywhere, regardless of physical barriers."
+      },
+      {
+        "name": "**Prakamya**",
+        "sanskrit": "प्राकाम्य",
+        "description": "The power to realize any desire, achieve irresistible willpower, and instantly materialize objects."
+      },
+      {
+        "name": "**Ishitva**",
+        "sanskrit": "ईशित्व",
+        "description": "The power of absolute lordship and supreme dominance over nature and living beings."
+      },
+      {
+        "name": "**Vashitva**",
+        "sanskrit": "वशित्व",
+        "description": "The ultimate power to conquer, subjugate, or mesmerize any entity to follow one's will."
+      }
+    ]
+  },
+  {
+    "category": "The Nine Nidhis",
+    "sanskrit_name": "Nava-Nidhi",
+    "description": "}\nAlongside the 8 Siddhis, Sita also granted Hanuman dominion over the *Nava-Nidhi* (the nine divine, inexhaustible treasures of Kubera, the god of wealth). These are not merely financial riches, but profound spiritual and cosmic abundances.",
+    "items": [
+      {
+        "name": "**Mahapadma**",
+        "sanskrit": "महापद्म",
+        "description": "The ''Great Lotus Casket'' containing immense wealth, generating generations of prosperity and philanthropy."
+      },
+      {
+        "name": "**Padma**",
+        "sanskrit": "पद्म",
+        "description": "The ''Lotus Casket'' offering abundant material riches, sattvic tendencies, and untainted gifts."
+      },
+      {
+        "name": "**Shankha**",
+        "sanskrit": "शङ्ख",
+        "description": "The ''Conch Shell'' bringing self-sustaining wealth, typically enjoyed and isolated by the owner."
+      },
+      {
+        "name": "**Makara**",
+        "sanskrit": "मकर",
+        "description": "The ''Crocodile'' granting martial proficiency, strategic intellect, and dominance in warfare/arms."
+      },
+      {
+        "name": "**Kacchapa**",
+        "sanskrit": "कच्छप",
+        "description": "The ''Tortoise'' establishing wealth accumulated slowly, hidden secretly, and passed down carefully."
+      },
+      {
+        "name": "**Mukunda**",
+        "sanskrit": "मुकुन्द",
+        "description": "The ''Quicksilver'' or ''Kettle'' bringing an aesthetic inclination towards fine arts, music, and royal patronage."
+      },
+      {
+        "name": "**Kunda**",
+        "sanskrit": "कुन्द",
+        "description": "The ''Jasmine'' representing wealth related to morality, spiritual upliftment, and charitable endowments."
+      },
+      {
+        "name": "**Nila**",
+        "sanskrit": "नील",
+        "description": "The ''Sapphire'' giving massive resources related to trade, commerce, and material exchange."
+      },
+      {
+        "name": "**Kharva**",
+        "sanskrit": "खर्व",
+        "description": "The ''Dwarf'' representing wealth intertwined with mixed (both auspicious and complex) desires."
+      }
+    ]
+  },
+  {
+    "category": "The Four Yugas",
+    "sanskrit_name": "Chatur-Yuga",
+    "description": "}\nIn the 29th Chaupai, Tulsidas proclaims that Hanuman's glory is famous across all four ages (*Yugas*). According to Vedic cosmology, time is cyclical, divided into four grand planetary epochs.",
+    "items": [
+      {
+        "name": "**Satya Yuga**",
+        "sanskrit": "सत्ययुग",
+        "description": "The Age of Truth and absolute Purity. Humanity is deeply spiritual, peaceful, and perfectly completely aligned with Dharma."
+      },
+      {
+        "name": "**Treta Yuga**",
+        "sanskrit": "त्रेतायुग",
+        "description": "The Silver Age. Dharma slightly declines. This is the era in which Lord Rama and Hanuman incarnated to establish righteousness."
+      },
+      {
+        "name": "**Dvapara Yuga**",
+        "sanskrit": "द्वापरयुग",
+        "description": "The Bronze Age. Morality drops to 50\\%. This era featured the Mahabharata war and the incarnation of Lord Krishna."
+      },
+      {
+        "name": "**Kali Yuga**",
+        "sanskrit": "कलियुग",
+        "description": "The Iron Age (our current era). An age of deep ignorance, conflict, and spiritual amnesia. Hanuman remains immortal (*Chiranjeevi*) physically present on Earth specifically to guide seekers through this dark age."
+      }
+    ]
+  },
+  {
+    "category": "The Four Fruits of Life",
+    "sanskrit_name": "Phala Chaari",
+    "description": "}\nIn the very first opening Doha, Tulsidas prays for the ''four fruits'' (*Phala Chaari*). In Vedic philosophy, these are the *Purusharthas*—the four fundamental grand goals or aims of human life that lead to complete fulfillment.",
+    "items": [
+      {
+        "name": "**Dharma**",
+        "sanskrit": "धर्म",
+        "description": "Righteousness, moral duty, and living in cosmic law and harmony. The foundational aim of a noble life."
+      },
+      {
+        "name": "**Artha**",
+        "sanskrit": "अर्थ",
+        "description": "Material prosperity, wealth, economic security, and physical well-being required to sustain life and family."
+      },
+      {
+        "name": "**Kama**",
+        "sanskrit": "काम",
+        "description": "Desire, pleasure, emotional fulfillment, aesthetics, and the enjoyment of the world in a balanced way."
+      },
+      {
+        "name": "**Moksha**",
+        "sanskrit": "मोक्ष",
+        "description": "The ultimate liberation. Freedom from the cycle of birth and death (*Samsara*) and union with the divine."
+      }
+    ]
+  }
+]

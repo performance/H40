@@ -1,0 +1,191 @@
+{
+  "id": "chaupai28",
+  "type": "chaupai",
+  "number": 28,
+  "text": {
+    "awadhi": "और मनोरथ जो कोइ लावै। सोइ अमित जीवन फल पावै॥",
+    "telugu": "ఔర మనోరథ జో కోఇ లావై। సోఇ అమిత జీవన ఫల పావై॥",
+    "iast": "aura manoratha jo koī lāvai | soi amita jīvana phala pāvai ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "और",
+      "sanskrit": "अन्य / अपरः",
+      "english": "And / Other",
+      "notes": ""
+    },
+    {
+      "awadhi": "मनोरथ",
+      "sanskrit": "मनोरथम्",
+      "english": "Desire / Wish",
+      "notes": ""
+    },
+    {
+      "awadhi": "जो कोइ",
+      "sanskrit": "यः कश्चित्",
+      "english": "Whoever",
+      "notes": ""
+    },
+    {
+      "awadhi": "लावै",
+      "sanskrit": "आनयति",
+      "english": "Brings",
+      "notes": ""
+    },
+    {
+      "awadhi": "सोइ",
+      "sanskrit": "सः एव",
+      "english": "That very person",
+      "notes": "Awadhi pronoun"
+    },
+    {
+      "awadhi": "अमित",
+      "sanskrit": "अमितम् / असीमम्",
+      "english": "Limitless / Infinite",
+      "notes": ""
+    },
+    {
+      "awadhi": "जीवन फल",
+      "sanskrit": "जीवन-फलम्",
+      "english": "Fruit of life",
+      "notes": ""
+    },
+    {
+      "awadhi": "पावै",
+      "sanskrit": "प्राप्नोति",
+      "english": "Obtains",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "औ",
+          "weight": 2
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "म",
+          "weight": 1
+        },
+        {
+          "char": "नो",
+          "weight": 2
+        },
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "थ",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "जो",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "को",
+          "weight": 2
+        },
+        {
+          "char": "इ",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ला",
+          "weight": 2
+        },
+        {
+          "char": "वै",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "सो",
+          "weight": 2
+        },
+        {
+          "char": "इ",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "अ",
+          "weight": 1
+        },
+        {
+          "char": "मि",
+          "weight": 1
+        },
+        {
+          "char": "त",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "जी",
+          "weight": 2
+        },
+        {
+          "char": "व",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "फ",
+          "weight": 1
+        },
+        {
+          "char": "ल",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "पा",
+          "weight": 2
+        },
+        {
+          "char": "वै",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "Meaningful Ambitions",
+      "description": "True success isn't just about wishing for petty material things; it is about developing the clarity to seek the Amit Jeevan Phal—the limitless fruit of a deeply purposeful, well-lived, and meaningful life.",
+      "motivating_text": "",
+      "citation": ""
+    }
+  ]
+}

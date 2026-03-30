@@ -1,0 +1,140 @@
+{
+  "id": "chaupai17",
+  "type": "chaupai",
+  "number": 17,
+  "text": {
+    "awadhi": "तुम्हरो मंत्र बिभीषन माना। लंकेस्वर भए सब जग जाना॥",
+    "telugu": "తుమ్హరో మంత్ర బిభీషన మానా। లంకేశ్వర భఏ సబ జగ జానా॥",
+    "iast": "tumharo maṃtra bibhīṣana mānā | laṃkesvara bhae saba jaga jānā ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "तु",
+          "weight": 1
+        },
+        {
+          "char": "म्ह",
+          "weight": 1
+        },
+        {
+          "char": "रो",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "मं",
+          "weight": 2
+        },
+        {
+          "char": "त्र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "बि",
+          "weight": 1
+        },
+        {
+          "char": "भी",
+          "weight": 2
+        },
+        {
+          "char": "ष",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "मा",
+          "weight": 2
+        },
+        {
+          "char": "ना",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "लं",
+          "weight": 2
+        },
+        {
+          "char": "के",
+          "weight": 2
+        },
+        {
+          "char": "स्व",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "भ",
+          "weight": 1
+        },
+        {
+          "char": "ए",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "स",
+          "weight": 1
+        },
+        {
+          "char": "ब",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ज",
+          "weight": 1
+        },
+        {
+          "char": "ग",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "जा",
+          "weight": 2
+        },
+        {
+          "char": "ना",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Power of Good Counsel",
+      "description": "Vibhishana was surrounded by a toxic, negative environment in Lanka, but he chose to listen to Hanuman's wise advice (Mantra), which ultimately saved his life and made him king. Success heavily depends on seeking out and listening to positive, wise mentors.",
+      "motivating_text": "",
+      "citation": ""
+    }
+  ]
+}

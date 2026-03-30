@@ -1,0 +1,179 @@
+{
+  "id": "chaupai40",
+  "type": "chaupai",
+  "number": 40,
+  "text": {
+    "awadhi": "तुलसीदास सदा हरि चेरा। कीजै नाथ हृदय महँ डेरा॥",
+    "telugu": "తులసీదాస సదా హరి చేరా। కీజై నాథ హృదయ మహఁ డేరా॥",
+    "iast": "tulasīdāsa sadā hari cerā | kījai nātha hṛdaya mahaṃ ḍerā ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "तुलसीदास",
+      "sanskrit": "तुलसीदासः",
+      "english": "Tulsidas (The Author)",
+      "notes": ""
+    },
+    {
+      "awadhi": "सदा",
+      "sanskrit": "सर्वदा",
+      "english": "Always",
+      "notes": ""
+    },
+    {
+      "awadhi": "हरि चेरा",
+      "sanskrit": "हरेः सेवकः",
+      "english": "Servant of God",
+      "notes": "`Chera` is pure Awadhi for servant"
+    },
+    {
+      "awadhi": "कीजै",
+      "sanskrit": "कुर्यात् / करोतु",
+      "english": "Please do / Make",
+      "notes": "Respectful Imperative"
+    },
+    {
+      "awadhi": "नाथ",
+      "sanskrit": "नाथ",
+      "english": "O Lord",
+      "notes": ""
+    },
+    {
+      "awadhi": "हृदय महँ",
+      "sanskrit": "हृदय-मध्ये",
+      "english": "In the heart",
+      "notes": "Locative postposition `mahan`"
+    },
+    {
+      "awadhi": "डेरा",
+      "sanskrit": "आवासम्",
+      "english": "Camp / Dwelling",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "तु",
+          "weight": 1
+        },
+        {
+          "char": "ल",
+          "weight": 1
+        },
+        {
+          "char": "सी",
+          "weight": 2
+        },
+        {
+          "char": "दा",
+          "weight": 2
+        },
+        {
+          "char": "स",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "स",
+          "weight": 1
+        },
+        {
+          "char": "दा",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "ह",
+          "weight": 1
+        },
+        {
+          "char": "रि",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "चे",
+          "weight": 2
+        },
+        {
+          "char": "रा",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "की",
+          "weight": 2
+        },
+        {
+          "char": "जै",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "ना",
+          "weight": 2
+        },
+        {
+          "char": "थ",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "हृ",
+          "weight": 1
+        },
+        {
+          "char": "द",
+          "weight": 1
+        },
+        {
+          "char": "य",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "म",
+          "weight": 1
+        },
+        {
+          "char": "हँ",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "डे",
+          "weight": 2
+        },
+        {
+          "char": "रा",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Humble Heart",
+      "description": "Instead of demanding massive recognition or building monuments to ego, true greatness and peace begin with an unassuming, hospitable, and humble mind (Hriday Mahan Dera).",
+      "motivating_text": "",
+      "citation": ""
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": "chaupai35",
+  "type": "chaupai",
+  "number": 35,
+  "text": {
+    "awadhi": "और देवता चित्त न धरई। हनुमत सेइ सर्ब सुख करई॥",
+    "telugu": "ఔర దేవతా చిత్త న ధరఈ। హనుమత సేఇ సర్బ సుఖ కరఈ॥",
+    "iast": "aura devatā citta na dharaī | hanumata sei sarba sukha karaī ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "और",
+      "sanskrit": "अन्य / परः",
+      "english": "Other",
+      "notes": ""
+    },
+    {
+      "awadhi": "देवता",
+      "sanskrit": "देवता",
+      "english": "Deity / Gods",
+      "notes": ""
+    },
+    {
+      "awadhi": "चित्त",
+      "sanskrit": "चित्ते / मनसि",
+      "english": "In the mind",
+      "notes": ""
+    },
+    {
+      "awadhi": "न धरई",
+      "sanskrit": "न धरति",
+      "english": "Does not hold/keep",
+      "notes": "`y` → `ee` verb"
+    },
+    {
+      "awadhi": "हनुमंत",
+      "sanskrit": "हनुमन्तम्",
+      "english": "Hanuman",
+      "notes": ""
+    },
+    {
+      "awadhi": "सेइ",
+      "sanskrit": "सेवया / आराध्य",
+      "english": "By serving",
+      "notes": "Absolutive `-i` ending"
+    },
+    {
+      "awadhi": "सर्ब सुख",
+      "sanskrit": "सर्व-सुखानि",
+      "english": "All happiness",
+      "notes": ""
+    },
+    {
+      "awadhi": "करई",
+      "sanskrit": "करोति",
+      "english": "Achieves / Does",
+      "notes": "`y` → `ee` verb"
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "औ",
+          "weight": 2
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "दे",
+          "weight": 2
+        },
+        {
+          "char": "व",
+          "weight": 1
+        },
+        {
+          "char": "ता",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "चि",
+          "weight": 2
+        },
+        {
+          "char": "त्त",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ध",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "ई",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "ह",
+          "weight": 1
+        },
+        {
+          "char": "नु",
+          "weight": 1
+        },
+        {
+          "char": "म",
+          "weight": 1
+        },
+        {
+          "char": "त",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "से",
+          "weight": 2
+        },
+        {
+          "char": "इ",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "स",
+          "weight": 2
+        },
+        {
+          "char": "र्ब",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "सु",
+          "weight": 1
+        },
+        {
+          "char": "ख",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "क",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "ई",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "One-Pointed Focus",
+      "description": "A magnifying glass only starts a fire if held completely still. True academic or career success demands absolute, laser-focused dedication to one primary goal (Ananya Bhakti) rather than constantly bouncing between different distractions.",
+      "motivating_text": "",
+      "citation": ""
+    }
+  ]
+}

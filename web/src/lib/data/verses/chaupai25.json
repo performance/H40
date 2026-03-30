@@ -1,0 +1,196 @@
+{
+  "id": "chaupai25",
+  "type": "chaupai",
+  "number": 25,
+  "text": {
+    "awadhi": "नासै रोग हरै सब पीरा। जपत निरन्तर हनुमत बीरा॥",
+    "telugu": "నాసై రోగ హరై సబ పీరా। జపత నిరంతర హనుమత బీరా॥",
+    "iast": "nāsai roga harai saba pīrā | japata nirantara hanumata bīrā ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "नासै",
+      "sanskrit": "नश्यति",
+      "english": "Is destroyed",
+      "notes": "Verb ending in `-ai`"
+    },
+    {
+      "awadhi": "रोग",
+      "sanskrit": "रोगाः",
+      "english": "Diseases",
+      "notes": ""
+    },
+    {
+      "awadhi": "हरै",
+      "sanskrit": "हरति",
+      "english": "Takes away / destroys",
+      "notes": "Verb ending in `-ai`"
+    },
+    {
+      "awadhi": "सब पीरा",
+      "sanskrit": "सर्वाः पीडाः",
+      "english": "All pain",
+      "notes": "पीडा → पीरा"
+    },
+    {
+      "awadhi": "जपत",
+      "sanskrit": "जपन्",
+      "english": "Chanting",
+      "notes": "Continuous action `-ta`"
+    },
+    {
+      "awadhi": "निरन्तर",
+      "sanskrit": "निरन्तरम्",
+      "english": "Continuously",
+      "notes": ""
+    },
+    {
+      "awadhi": "हनुमत",
+      "sanskrit": "हनुमन्",
+      "english": "Hanuman",
+      "notes": ""
+    },
+    {
+      "awadhi": "बीरा",
+      "sanskrit": "वीरः",
+      "english": "Brave/Hero",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "ना",
+          "weight": 2
+        },
+        {
+          "char": "सै",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "रो",
+          "weight": 2
+        },
+        {
+          "char": "ग",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ह",
+          "weight": 1
+        },
+        {
+          "char": "रै",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "स",
+          "weight": 1
+        },
+        {
+          "char": "ब",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "पी",
+          "weight": 2
+        },
+        {
+          "char": "रा",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "ज",
+          "weight": 1
+        },
+        {
+          "char": "प",
+          "weight": 1
+        },
+        {
+          "char": "त",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "नि",
+          "weight": 1
+        },
+        {
+          "char": "रं",
+          "weight": 2
+        },
+        {
+          "char": "त",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ह",
+          "weight": 1
+        },
+        {
+          "char": "नु",
+          "weight": 1
+        },
+        {
+          "char": "म",
+          "weight": 1
+        },
+        {
+          "char": "त",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "बी",
+          "weight": 2
+        },
+        {
+          "char": "रा",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "Consistency is the Cure",
+      "description": "Just as studying requires daily effort, maintaining mental health and overcoming life's pains (Peera) requires constant (Nirantara), disciplined practice. You cannot cram for character; it must be built consistently over time.",
+      "motivating_text": "",
+      "citation": ""
+    },
+    {
+      "type": "gotchabox",
+      "items": [
+        "The ड → र Shift: The Sanskrit word for pain is पीडा (Peedaa). Over time, the retroflex 'D' softens into a rolling 'R' sound, giving the beautiful Awadhi word पीरा (Peeraa).",
+        "Verbs ending in -ai: Just like गावैं and लहै, the verbs नासै (Destroy) and हरै (Remove) are standard present-tense conjugations in Awadhi poetry."
+      ]
+    }
+  ]
+}

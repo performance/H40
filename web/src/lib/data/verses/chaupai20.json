@@ -1,0 +1,195 @@
+{
+  "id": "chaupai20",
+  "type": "chaupai",
+  "number": 20,
+  "text": {
+    "awadhi": "दुर्गम काज जगत के जेते। सुगम अनुग्रह तुम्हरे तेते॥",
+    "telugu": "దుర్గమ కాజ జగత కే జేతే। సుగమ అనుగ్రహ తుమ్హరే తేతే॥",
+    "iast": "durgama kāja jagata ke jete | sugama anugraha tumhare tete ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "दुर्गम",
+      "sanskrit": "दुर्गमानि",
+      "english": "Difficult / Hard to cross",
+      "notes": ""
+    },
+    {
+      "awadhi": "काज",
+      "sanskrit": "कार्याणि",
+      "english": "Tasks / Work",
+      "notes": ""
+    },
+    {
+      "awadhi": "जगत के",
+      "sanskrit": "जगतः",
+      "english": "Of the world",
+      "notes": "Genitive Postposition `ke`"
+    },
+    {
+      "awadhi": "जेते",
+      "sanskrit": "यावन्ति",
+      "english": "However many",
+      "notes": "Rhymes with `tete`"
+    },
+    {
+      "awadhi": "सुगम",
+      "sanskrit": "सुगमानि",
+      "english": "Accessible / Easy",
+      "notes": ""
+    },
+    {
+      "awadhi": "अनुग्रह",
+      "sanskrit": "अनुग्रहेण",
+      "english": "By grace / blessing",
+      "notes": ""
+    },
+    {
+      "awadhi": "तुम्हरे",
+      "sanskrit": "भवतः",
+      "english": "Your",
+      "notes": ""
+    },
+    {
+      "awadhi": "तेते",
+      "sanskrit": "तावन्ति",
+      "english": "That many",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "दु",
+          "weight": 2
+        },
+        {
+          "char": "र्ग",
+          "weight": 1
+        },
+        {
+          "char": "म",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "का",
+          "weight": 2
+        },
+        {
+          "char": "ज",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ज",
+          "weight": 1
+        },
+        {
+          "char": "ग",
+          "weight": 1
+        },
+        {
+          "char": "त",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "के",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "जे",
+          "weight": 2
+        },
+        {
+          "char": "ते",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "सु",
+          "weight": 1
+        },
+        {
+          "char": "ग",
+          "weight": 1
+        },
+        {
+          "char": "म",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "अ",
+          "weight": 1
+        },
+        {
+          "char": "नु",
+          "weight": 2
+        },
+        {
+          "char": "ग्र",
+          "weight": 1
+        },
+        {
+          "char": "ह",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "तु",
+          "weight": 1
+        },
+        {
+          "char": "म्ह",
+          "weight": 1
+        },
+        {
+          "char": "रे",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "ते",
+          "weight": 2
+        },
+        {
+          "char": "ते",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Ultimate Problem Solver",
+      "description": "He takes 'impossible' tasks (Durgam) and makes them manageable (Sugam). When students face overwhelming exams, massive projects, or complex challenges, remembering his laser-like focus and unmatched work ethic provides a blueprint for making the impossible solvable.",
+      "motivating_text": "",
+      "citation": ""
+    },
+    {
+      "type": "gotchabox",
+      "items": [
+        "Aspirated Consonants (म्ह and न्ह): In words like तुम्हरे (Tumhare) and कीन्हा (Keenhaa), the `h` merges with `m` and `n` to form a single aspirated sound. In classical Awadhi meter, this does not make the preceding short vowel heavy. Therefore, तु (tu) in Tumhare remains exactly 1 beat!"
+      ]
+    }
+  ]
+}

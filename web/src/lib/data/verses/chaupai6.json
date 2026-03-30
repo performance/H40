@@ -1,0 +1,200 @@
+{
+  "id": "chaupai6",
+  "type": "chaupai",
+  "number": 6,
+  "text": {
+    "awadhi": "संकर सुवन केसरी नंदन। तेज प्रताप महा जग बंदन॥",
+    "telugu": "సంకర సువన కేసరీ నందన। తేజ ప్రతాప మహా జగ బందన॥",
+    "iast": "saṃkara suvana kesarī naṃdana | teja pratāpa mahā jaga baṃdana ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "संकर",
+      "sanskrit": "शङ्करस्य",
+      "english": "Of Shiva",
+      "notes": ""
+    },
+    {
+      "awadhi": "सुवन",
+      "sanskrit": "सुवनः / अवतारः",
+      "english": "Incarnation/Son",
+      "notes": ""
+    },
+    {
+      "awadhi": "केसरी नंदन",
+      "sanskrit": "केसरी-नन्दनः",
+      "english": "Son of Kesari",
+      "notes": ""
+    },
+    {
+      "awadhi": "तेज",
+      "sanskrit": "तेजः",
+      "english": "Radiance",
+      "notes": ""
+    },
+    {
+      "awadhi": "प्रताप",
+      "sanskrit": "प्रतापः",
+      "english": "Valor / Majesty",
+      "notes": ""
+    },
+    {
+      "awadhi": "महा",
+      "sanskrit": "महान्",
+      "english": "Great",
+      "notes": ""
+    },
+    {
+      "awadhi": "जग",
+      "sanskrit": "जगत्",
+      "english": "Universe",
+      "notes": ""
+    },
+    {
+      "awadhi": "बंदन",
+      "sanskrit": "वन्द्यः / वन्दनम्",
+      "english": "Revered / Worshipped",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "सं",
+          "weight": 2
+        },
+        {
+          "char": "क",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "सु",
+          "weight": 1
+        },
+        {
+          "char": "व",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "के",
+          "weight": 2
+        },
+        {
+          "char": "स",
+          "weight": 1
+        },
+        {
+          "char": "री",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "नं",
+          "weight": 2
+        },
+        {
+          "char": "द",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "ते",
+          "weight": 2
+        },
+        {
+          "char": "ज",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "प्र",
+          "weight": 1
+        },
+        {
+          "char": "ता",
+          "weight": 2
+        },
+        {
+          "char": "प",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "म",
+          "weight": 1
+        },
+        {
+          "char": "हा",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "ज",
+          "weight": 1
+        },
+        {
+          "char": "ग",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "बं",
+          "weight": 2
+        },
+        {
+          "char": "द",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Radiance of Grounded Service",
+      "description": "Shankara represents the highest spiritual intellect and ego-less discipline, while Kesari represents a highly practical, grounded, forest-dwelling leader. Hanuman embodies the perfect balance of both: he possesses the brilliant mind of a supreme thinker, yet uses his fierce protective energy (Teja Pratapa) entirely for the selfless service of others rather than personal gain. The world reveres him (Jaga Bandana) because he proves that true majestic radiance comes from balancing high-minded vision with practical, ego-less dedication to your community.",
+      "motivating_text": "",
+      "citation": ""
+    },
+    {
+      "type": "gotchabox",
+      "items": [
+        "Phonetic Shifts: Sanskrit शङ्कर (Shankara) seamlessly shifts into the Awadhi संकर (Sankara) losing the palatal 'sh'. Likewise, वन्दन (Vandana) hardens into बंदन (Bandana) with the व → ब shift.",
+        "The Secret of सुवन (The Glide / श्रुति): If वन्दन becomes बंदन, why didn't सुवन become सुबन? The word सुवन comes from the Sanskrit root सू (to beget) plus the noun suffix अन. Saying सू and अन rapidly together naturally creates a soft 'w/v' sound as a breath-bridge (a Glide or व-श्रुति). Because this व is just a fluid phonetic bridge between two vowels—and not a heavy structural consonant—the Awadhi speakers kept it soft instead of hammering it into a hard ब."
+      ]
+    }
+  ]
+}

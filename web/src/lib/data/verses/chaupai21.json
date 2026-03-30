@@ -1,0 +1,175 @@
+{
+  "id": "chaupai21",
+  "type": "chaupai",
+  "number": 21,
+  "text": {
+    "awadhi": "राम दुआरे तुम रखवारे। होत न आज्ञा बिनु पैसारे॥",
+    "telugu": "రామ దుఆరే తుమ రఖవారే। హోత న ఆజ్ఞా బిను పైసారే॥",
+    "iast": "rāma duāre tuma rakhavāre | hota na ājñā binu paisāre ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "राम दुआरे",
+      "sanskrit": "रामस्य द्वारे",
+      "english": "At Rama's door",
+      "notes": "`duaare` is locative"
+    },
+    {
+      "awadhi": "तुम",
+      "sanskrit": "त्वम्",
+      "english": "You",
+      "notes": ""
+    },
+    {
+      "awadhi": "रखवारे",
+      "sanskrit": "रक्षकः",
+      "english": "Protector / Guard",
+      "notes": ""
+    },
+    {
+      "awadhi": "होत न",
+      "sanskrit": "न भवति",
+      "english": "Does not happen",
+      "notes": ""
+    },
+    {
+      "awadhi": "आज्ञा",
+      "sanskrit": "आज्ञाम्",
+      "english": "Command / Permission",
+      "notes": ""
+    },
+    {
+      "awadhi": "बिनु",
+      "sanskrit": "विना",
+      "english": "Without",
+      "notes": ""
+    },
+    {
+      "awadhi": "पैसारे",
+      "sanskrit": "प्रवेशः",
+      "english": "Entry / Passage",
+      "notes": "Awadhi noun"
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "रा",
+          "weight": 2
+        },
+        {
+          "char": "म",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "दु",
+          "weight": 1
+        },
+        {
+          "char": "आ",
+          "weight": 2
+        },
+        {
+          "char": "रे",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "तु",
+          "weight": 1
+        },
+        {
+          "char": "म",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "ख",
+          "weight": 1
+        },
+        {
+          "char": "वा",
+          "weight": 2
+        },
+        {
+          "char": "रे",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "हो",
+          "weight": 2
+        },
+        {
+          "char": "त",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "आ",
+          "weight": 2
+        },
+        {
+          "char": "ज्ञा",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "बि",
+          "weight": 1
+        },
+        {
+          "char": "नु",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "पै",
+          "weight": 2
+        },
+        {
+          "char": "सा",
+          "weight": 2
+        },
+        {
+          "char": "रे",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Gatekeeper of Discipline",
+      "description": "He guards the door to success (Ram Duaare Tum Rakhvare). Nothing worthwhile in life is achieved without passing through the gates of discipline. Hanuman represents the hard work, routine, and discipline required before anyone can attain mastery or peace.",
+      "motivating_text": "",
+      "citation": ""
+    }
+  ]
+}

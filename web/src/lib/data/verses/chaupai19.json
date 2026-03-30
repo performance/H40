@@ -1,0 +1,201 @@
+{
+  "id": "chaupai19",
+  "type": "chaupai",
+  "number": 19,
+  "text": {
+    "awadhi": "प्रभु मुद्रिका मेलि मुख माहीं। जलधि लांघि गये अचरज नाहीं॥",
+    "telugu": "ప్రభు ముద్రికా మేలి ముఖ మాహీఁ। జలధి లాంఘి గయే అచరజ నాహీఁ॥",
+    "iast": "prabhu mudrikā meli mukha māhīṃ | jaladhi lāṃghi gaye acaraja nāhīṃ ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "प्रभु",
+      "sanskrit": "प्रभोः / रामस्य",
+      "english": "Lord's",
+      "notes": ""
+    },
+    {
+      "awadhi": "मुद्रिका",
+      "sanskrit": "मुद्रिका / अङ्गुलीयकम्",
+      "english": "Ring",
+      "notes": ""
+    },
+    {
+      "awadhi": "मेलि",
+      "sanskrit": "निधाय",
+      "english": "Having kept",
+      "notes": "Absolutive `-i` ending"
+    },
+    {
+      "awadhi": "मुख माहीं",
+      "sanskrit": "मुख-मध्ये",
+      "english": "Inside the mouth",
+      "notes": ""
+    },
+    {
+      "awadhi": "जलधि",
+      "sanskrit": "जलधिः (समुद्रः)",
+      "english": "Ocean",
+      "notes": ""
+    },
+    {
+      "awadhi": "लांघि",
+      "sanskrit": "उल्लङ्घ्य",
+      "english": "Having crossed/leapt",
+      "notes": ""
+    },
+    {
+      "awadhi": "गये",
+      "sanskrit": "गतवान्",
+      "english": "Went",
+      "notes": ""
+    },
+    {
+      "awadhi": "अचरज",
+      "sanskrit": "आश्चर्यम्",
+      "english": "Surprise",
+      "notes": "Swara-bhakti"
+    },
+    {
+      "awadhi": "नाहीं",
+      "sanskrit": "नास्ति",
+      "english": "Is not",
+      "notes": ""
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "प्र",
+          "weight": 1
+        },
+        {
+          "char": "भु",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "मु",
+          "weight": 2
+        },
+        {
+          "char": "द्रि",
+          "weight": 1
+        },
+        {
+          "char": "का",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "मे",
+          "weight": 2
+        },
+        {
+          "char": "लि",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "मु",
+          "weight": 1
+        },
+        {
+          "char": "ख",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "मा",
+          "weight": 2
+        },
+        {
+          "char": "हीं",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "ज",
+          "weight": 1
+        },
+        {
+          "char": "ल",
+          "weight": 1
+        },
+        {
+          "char": "धि",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "लां",
+          "weight": 2
+        },
+        {
+          "char": "घि",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ग",
+          "weight": 1
+        },
+        {
+          "char": "ये",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "अ",
+          "weight": 1
+        },
+        {
+          "char": "च",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        },
+        {
+          "char": "ज",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ना",
+          "weight": 2
+        },
+        {
+          "char": "हीं",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "Focus Under Pressure",
+      "description": "He carried the absolute weight of a massive responsibility (Rama's signet ring) across a terrifying, treacherous ocean without dropping it. Taking on great responsibility in education or life requires unshakeable focus and the determination not to let distractions sink your goals.",
+      "motivating_text": "",
+      "citation": ""
+    }
+  ]
+}

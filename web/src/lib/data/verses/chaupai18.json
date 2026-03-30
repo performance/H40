@@ -1,0 +1,197 @@
+{
+  "id": "chaupai18",
+  "type": "chaupai",
+  "number": 18,
+  "text": {
+    "awadhi": "जुग सहस्र जोजन पर भानू। लील्यो ताहि मधुर फल जानू॥",
+    "telugu": "జుగ సహస్ర జోజన పర భానూ। లీల్యో తాహి మధుర ఫల జానూ॥",
+    "iast": "juga sahasra jojana para bhānū | līlyo tāhi madhura phala jānū ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "जुग",
+      "sanskrit": "युग",
+      "english": "Yuga (Era/Distance)",
+      "notes": ""
+    },
+    {
+      "awadhi": "सहस्र",
+      "sanskrit": "सहस्र",
+      "english": "Thousand",
+      "notes": ""
+    },
+    {
+      "awadhi": "जोजन",
+      "sanskrit": "योजन",
+      "english": "Yojana (approx 8 miles)",
+      "notes": ""
+    },
+    {
+      "awadhi": "पर",
+      "sanskrit": "दूरे / परत्र",
+      "english": "Away / At a distance",
+      "notes": ""
+    },
+    {
+      "awadhi": "भानू",
+      "sanskrit": "भानुम्",
+      "english": "The Sun",
+      "notes": "Long `ū` for rhyme"
+    },
+    {
+      "awadhi": "लील्यो",
+      "sanskrit": "लीलया निगीर्णवान्",
+      "english": "Swallowed playfully",
+      "notes": ""
+    },
+    {
+      "awadhi": "ताहि",
+      "sanskrit": "तम्",
+      "english": "It (the sun)",
+      "notes": "Awadhi objective"
+    },
+    {
+      "awadhi": "मधुर फल",
+      "sanskrit": "मधुर-फलम्",
+      "english": "Sweet fruit",
+      "notes": ""
+    },
+    {
+      "awadhi": "जानू",
+      "sanskrit": "ज्ञात्वा / मत्वा",
+      "english": "Knowing / Thinking",
+      "notes": "Long `ū` for rhyme"
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "जु",
+          "weight": 1
+        },
+        {
+          "char": "ग",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "स",
+          "weight": 1
+        },
+        {
+          "char": "ह",
+          "weight": 2
+        },
+        {
+          "char": "स्र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "जो",
+          "weight": 2
+        },
+        {
+          "char": "ज",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "प",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "भा",
+          "weight": 2
+        },
+        {
+          "char": "नू",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "ली",
+          "weight": 2
+        },
+        {
+          "char": "ल्यो",
+          "weight": 2
+        }
+      ],
+      [
+        {
+          "char": "ता",
+          "weight": 2
+        },
+        {
+          "char": "हि",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "म",
+          "weight": 1
+        },
+        {
+          "char": "धु",
+          "weight": 1
+        },
+        {
+          "char": "र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "फ",
+          "weight": 1
+        },
+        {
+          "char": "ल",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "जा",
+          "weight": 2
+        },
+        {
+          "char": "नू",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "Fearless Curiosity",
+      "description": "As a child, he literally leaped for the sun because he wanted to understand it. Fearless curiosity and ambition are the primary engines of learning. Students should never be afraid to reach high or ask bold questions, even if they occasionally make mistakes along the way.",
+      "motivating_text": "",
+      "citation": ""
+    }
+  ]
+}

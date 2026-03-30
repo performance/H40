@@ -1,0 +1,195 @@
+{
+  "id": "chaupai2",
+  "type": "chaupai",
+  "number": 2,
+  "text": {
+    "awadhi": "राम दूत अतुलित बल धामा। अंजनि-पुत्र पवन सुत नामा॥",
+    "telugu": "రామ దూత అతులిత బల ధామా। అంజని పుత్ర పవన సుత నామా॥",
+    "iast": "rāma dūta atulita bala dhāmā | añjani putra pavana suta nāmā ||"
+  },
+  "translation": {
+    "sanskrit": "",
+    "english": ""
+  },
+  "word_meanings": [
+    {
+      "awadhi": "राम दूत",
+      "sanskrit": "श्रीरामस्य दूतः",
+      "english": "Emissary of Rama",
+      "notes": ""
+    },
+    {
+      "awadhi": "अतुलित",
+      "sanskrit": "अतुलितम्",
+      "english": "Incomparable",
+      "notes": ""
+    },
+    {
+      "awadhi": "बल",
+      "sanskrit": "बलम्",
+      "english": "Strength",
+      "notes": ""
+    },
+    {
+      "awadhi": "धामा",
+      "sanskrit": "धाम / आश्रयः",
+      "english": "Abode / Repository",
+      "notes": "Meter: Added 'aa' for rhyme"
+    },
+    {
+      "awadhi": "अंजनि पुत्र",
+      "sanskrit": "अञ्जनायाः पुत्रः",
+      "english": "Son of Anjani",
+      "notes": ""
+    },
+    {
+      "awadhi": "पवन सुत",
+      "sanskrit": "पवनस्य सुतः",
+      "english": "Son of the Wind",
+      "notes": ""
+    },
+    {
+      "awadhi": "नामा",
+      "sanskrit": "नाम्ना",
+      "english": "By the name",
+      "notes": "Meter: Added 'aa' for rhyme"
+    }
+  ],
+  "rhythm_map": [
+    [
+      [
+        {
+          "char": "रा",
+          "weight": 2
+        },
+        {
+          "char": "म",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "दू",
+          "weight": 2
+        },
+        {
+          "char": "त",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "अ",
+          "weight": 1
+        },
+        {
+          "char": "तु",
+          "weight": 1
+        },
+        {
+          "char": "लि",
+          "weight": 1
+        },
+        {
+          "char": "त",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ब",
+          "weight": 1
+        },
+        {
+          "char": "ल",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "धा",
+          "weight": 2
+        },
+        {
+          "char": "मा",
+          "weight": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "char": "अं",
+          "weight": 2
+        },
+        {
+          "char": "ज",
+          "weight": 1
+        },
+        {
+          "char": "नि",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "पु",
+          "weight": 2
+        },
+        {
+          "char": "त्र",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "प",
+          "weight": 1
+        },
+        {
+          "char": "व",
+          "weight": 1
+        },
+        {
+          "char": "न",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "सु",
+          "weight": 1
+        },
+        {
+          "char": "त",
+          "weight": 1
+        }
+      ],
+      [
+        {
+          "char": "ना",
+          "weight": 2
+        },
+        {
+          "char": "मा",
+          "weight": 2
+        }
+      ]
+    ]
+  ],
+  "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Ultimate Reliable Executive",
+      "description": "He is called the ultimate Messenger (Rama Duta). When millions of soldiers were dispatched to find Sita, Lord Rama handed his personal signet ring to Hanuman alone. Leadership means identifying and encouraging people to be the best they can be and capable of taking on hard challenges. Hanuman inspires us to be our best by example, as he was relied upon to execute the hardest mission of reaching Lanka and finding Sita.",
+      "motivating_text": "",
+      "citation": ""
+    },
+    {
+      "type": "gotchabox",
+      "items": [
+        "Conjunct Consonant Weight (पुत्र): The short 'u' in पु gets weighed down and becomes a 2-beat Guru because it crashes into the conjunct consonant त्र (t+ra)."
+      ]
+    }
+  ]
+}
