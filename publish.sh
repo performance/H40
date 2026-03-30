@@ -21,7 +21,6 @@ echo "    ✓ web/src/lib/data/ updated"
 
 echo "🏗️  Step 4/5 — Building web app..."
 cd web && npm run build > /dev/null && cd ..
-cp web/static/Hanuman_Chalisa_Study_Guide.pdf web/build/Hanuman_Chalisa_Study_Guide.pdf
 echo "    ✓ web/build/ ready"
 
 echo "📝 Step 5/5 — Committing and pushing..."
