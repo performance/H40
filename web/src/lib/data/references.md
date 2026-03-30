@@ -1,5 +1,7 @@
 # References \& Academic Sources
 The educational material, grammatical rules, and narrative anecdotes provided in this guide are deeply rooted in rigorous, authoritative scholarship.
+### AI Assistance
+Typesetting, web development, and structural editing for this project were heavily assisted by Anthropic's [Claude](https://claude.ai) and Google's [Gemini](https://gemini.google.com) models.
 ### The Valmiki Ramayana
 All character-building anecdotes and contextual stories are strictly sourced from the first six Kandas of the **Valmiki Ramayana**, intentionally avoiding contested texts or later additions (such as the Uttara Kanda).
 -  [**IIT Kanpur Valmiki Ramayana Portal**](https://www.valmiki.iitk.ac.in): Our primary digital repository for exact Shloka verification and English translations.
