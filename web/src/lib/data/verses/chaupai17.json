@@ -16,49 +16,49 @@
       "awadhi": "तुम्हरो",
       "sanskrit": "भवतः",
       "english": "Your",
-      "notes": "तु(1) म्ह(1) रो(2)"
+      "notes": "Awadhi possessive; syncopated from तुम्हारो"
     },
     {
       "awadhi": "मंत्र",
       "sanskrit": "मन्त्रम् (उपदेशम्)",
-      "english": "Word / Advice",
-      "notes": "मं(2) त्र(1)"
+      "english": "Word / Counsel",
+      "notes": ""
     },
     {
       "awadhi": "बिभीषन",
       "sanskrit": "विभीषणः",
       "english": "Vibhishana",
-      "notes": "बि(1) भी(2) ष(1) न(1)"
+      "notes": "v → b"
     },
     {
       "awadhi": "माना",
       "sanskrit": "अङ्गीकृतवान्",
       "english": "Accepted / Heeded",
-      "notes": "मा(2) ना(2)"
+      "notes": ""
     },
     {
       "awadhi": "लंकेस्वर",
       "sanskrit": "लङ्केश्वरः",
       "english": "King of Lanka",
-      "notes": "लं(2) के(2) स्व(1) र(1)"
+      "notes": "Compound: लंका + ईश्वर"
     },
     {
       "awadhi": "भए",
       "sanskrit": "अभवत्",
       "english": "Became",
-      "notes": "भ(1) ए(1)"
+      "notes": ""
     },
     {
       "awadhi": "सब जग",
       "sanskrit": "सर्वं जगत्",
       "english": "The whole world",
-      "notes": "स(1) ब(1) ज(1) ग(1)"
+      "notes": ""
     },
     {
       "awadhi": "जाना",
       "sanskrit": "जानाति",
       "english": "Knows",
-      "notes": "जा(2) ना(2)"
+      "notes": ""
     }
   ],
   "rhythm_map": [
