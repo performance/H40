@@ -33,8 +33,8 @@
 		{/if}
 	</div>
 
-	<!-- Dictionary Toggle -->
-	{#if verse.word_meanings && verse.word_meanings.length > 0}
+	<!-- Dictionary Toggle — hidden for Dohas which have no word table -->
+	{#if verse.type !== 'doha' && verse.word_meanings && verse.word_meanings.length > 0}
 		<div class="dictionary-section">
 			<button class="dict-toggle" onclick={() => showDictionary = !showDictionary}>
 				{showDictionary ? 'Hide' : 'Show'} Word-for-Word Dictionary

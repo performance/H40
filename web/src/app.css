@@ -1,45 +1,46 @@
 :root {
-  /* Color Palette */
-  --bg-color: #0d0f1a;
-  --bg-gradient: radial-gradient(circle at 10% 20%, #151b32, #0d0f1a);
-  --glass-bg: rgba(255, 255, 255, 0.03);
-  --glass-border: rgba(255, 255, 255, 0.08);
-  --glass-glow: rgba(255, 255, 255, 0.02);
+  /* Color Palette — Warm Devotional Dark */
+  --bg-color: #1a0f0a;
+  --bg-gradient: radial-gradient(circle at 15% 20%, #2a1208, #1a0f0a 60%, #0f0a0a);
+  --glass-bg: rgba(255, 200, 150, 0.04);
+  --glass-border: rgba(255, 180, 100, 0.1);
+  --glass-glow: rgba(249, 115, 22, 0.06);
   
-  --primary: #f97316; /* Saffron Orange */
-  --primary-glow: rgba(249, 115, 22, 0.3);
-  --secondary: #3b82f6; /* Deep Blue */
-  --secondary-glow: rgba(59, 130, 246, 0.3);
+  --primary: #f97316;         /* Saffron */
+  --primary-glow: rgba(249, 115, 22, 0.35);
+  --secondary: #fbbf24;       /* Turmeric Gold */
+  --secondary-glow: rgba(251, 191, 36, 0.3);
   
-  --text-main: #f8fafc;
-  --text-muted: #94a3b8;
-  --text-devanagari: #f1f5f9;
+  --text-main: #fef3e2;
+  --text-muted: #c4a882;
+  --text-devanagari: #fff8ee;
   
   /* Rhythm Colors */
-  --rhythm-laghu: #f97316; /* Orange for short */
-  --rhythm-guru: #3b82f6;  /* Blue for long */
+  --rhythm-laghu: #f97316;
+  --rhythm-guru: #fbbf24;
 
   --font-sans: 'Outfit', sans-serif;
   --font-deva: 'Noto Serif Devanagari', serif;
   --font-telu: 'Noto Sans Telugu', sans-serif;
   
-  --nav-bg: rgba(13, 15, 26, 0.8);
+  --nav-bg: rgba(26, 15, 10, 0.85);
 }
 
 :root[data-theme="light"] {
-  --bg-color: #f8fafc;
-  --bg-gradient: radial-gradient(circle at 10% 20%, #ffffff, #e2e8f0);
-  --glass-bg: rgba(255, 255, 255, 0.7);
-  --glass-border: rgba(0, 0, 0, 0.1);
-  --glass-glow: rgba(0, 0, 0, 0.05);
-  --nav-bg: rgba(255, 255, 255, 0.8);
+  /* Warm Parchment Light */
+  --bg-color: #fdf6ec;
+  --bg-gradient: radial-gradient(circle at 10% 20%, #fffaf3, #fdf0dc);
+  --glass-bg: rgba(255, 255, 255, 0.75);
+  --glass-border: rgba(180, 100, 20, 0.12);
+  --glass-glow: rgba(249, 115, 22, 0.08);
+  --nav-bg: rgba(253, 246, 236, 0.88);
   
-  --primary-glow: rgba(249, 115, 22, 0.15);
-  --secondary-glow: rgba(59, 130, 246, 0.15);
+  --primary-glow: rgba(249, 115, 22, 0.2);
+  --secondary-glow: rgba(251, 191, 36, 0.2);
   
-  --text-main: #0f172a;
-  --text-muted: #475569;
-  --text-devanagari: #1e293b;
+  --text-main: #2d1a06;
+  --text-muted: #7c5a2e;
+  --text-devanagari: #1e0f02;
 }
 
 :root[data-theme="light"] .prose strong { color: #000; }
