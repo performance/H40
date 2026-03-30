@@ -43,6 +43,11 @@ A Doha is an अर्धसममात्रिक छन्द (Half-Even Met
 -  **Column 2 (Sanskrit):** The classical root word from which the Awadhi term evolved.
 -  **Column 3 (English):** The explicit definition.
 -  **Column 4 (Notes):** Grammatical info. If you see a **Lightbulb** (), the word follows a shift from the Master Rule Sheet. A **Book** () indicates a detailed theological entry in the **Glossary Appendix**.
+## The IAST Transliteration Scheme
+To aid pronunciation for those unfamiliar with the Devanagari script, this guide utilizes the **International Alphabet of Sanskrit Transliteration** (IAST) with a rigorous phonological approach suited for the Awadhi language.
+-  **The Anusvara (The Nasal Dot):** In Sanskrit and Awadhi orthography, a dot above a letter (ं) implies a nasal sound that assimilates to the consonant immediately following it. Rather than using a generic `ṃ' for every dot, our IAST rendering uses the exact strict linguistic "class nasal" for phonetic precision. For example, before a 'k' (क), the dot becomes a velar 'ṅ' (संकर → *saṅkara*); before a 'c' (च), it becomes a palatal 'ñ' (कंचन → *kañcana*); and before a 'd' (द), it becomes a dental 'n' (नंदन → *nandana*).
+-  **The Chandrabindu (The Nasalized Vowel):** A moon-and-dot symbol (ँ) represents the nasalization of the vowel itself, rather than a distinct nasal consonant.
+This is represented by placing a tilde directly over the transliterated vowel (e.g., तिहुँ → *tihũ* ; काँपै → *kā̃pai*).  It is read as if that vowel is pronounced normally, but resonating with the help of the nose too.
 ## Ramayana Context Boxes
 Beneath the translation of every verse, you will find an anecdote box. These boxes highlight practical, character-building lessons drawn directly from Hanuman's actions. At the bottom right of each box, a specific citation is provided from the authoritative *Valmiki Ramayana*. These citations are formatted as **Kanda, Sarga:Shloka**. For example, *Sundara Kanda, 1:170* refers to the Sundara Kanda, Sarga (Chapter) 1, Shloka (Verse) 170.
 ## The Semantic Learning Plan

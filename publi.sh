@@ -1,7 +1,14 @@
 #!/usr/bin/env bash
-# publish.sh — Full build and deploy for Hanuman Chalisa Study Guide
+# publi.sh — Full build and deploy for Hanuman Chalisa Study Guide
 # Run from the repo root. See CONTRIBUTING.md for step-by-step details.
 set -e  # stop on first error
+
+if [[ "$1" != "--local" && "$1" != "--github" ]]; then
+    echo "Usage: ./publi.sh [--local | --github]"
+    echo "  --local   : Build PDF, extract JSON data, and compile web app locally."
+    echo "  --github  : Execute local build + commit to release-v1 and deploy to gh-pages."
+    exit 1
+fi
 
 echo "📄 Step 1/5 — Compiling PDF (xelatex, 2 passes)..."
 xelatex -interaction=nonstopmode main.tex > /dev/null || true
@@ -23,6 +30,12 @@ echo "    ✓ web/src/lib/data/ updated"
 echo "🏗️  Step 4/5 — Building web app..."
 cd web && BASE_PATH=/H40 npm run build > /dev/null && cd ..
 echo "    ✓ web/build/ ready (base path: /H40)"
+
+if [[ "$1" == "--local" ]]; then
+    echo ""
+    echo "✅ Local build complete! Run 'cd web && npm run dev' to preview."
+    exit 0
+fi
 
 echo "📝 Step 5/5 — Committing and pushing..."
 git add -A

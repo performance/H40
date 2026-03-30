@@ -5,7 +5,7 @@
   "text": {
     "awadhi": "बुद्धिहीन तनु जानिके सुमिरौं पवन कुमार। बल बुधि बिद्या देहु मोहिं हरहु कलेस बिकार॥",
     "telugu": "బుద్ధిహీన తను జానికే సుమిరౌఁ పవన కుమార। బల బుధి బిద్యా దేహు మోహిఁ హరహు కలేస బికార॥",
-    "iast": "buddhihīna tanu jānike, sumirau pavana kumāra | bala budhi bidyā dehu mohiṃ, harahu kalesa bikāra ||"
+    "iast": "buddhihīna tanu jānike, sumiraũ pavana kumāra | bala budhi bidyā dehu mohĩ, harahu kalesa bikāra ||"
   },
   "translation": {
     "sanskrit": "",
@@ -285,7 +285,7 @@
       "type": "gotchabox",
       "items": [
         "Verbs ending in -hu (देहु, हरहु): Adding -hu (-ahu) to a root is the Awadhi equivalent of the Sanskrit imperative mood (making a request/command).",
-        "Dative Suffix -hiṃ (मोहिं): Maps to Sanskrit Mahyam (\"to me\"). \"Dehu mohiṃ\" = Give to me.",
+        "Dative Suffix -hiṃ (मोहिं): Maps to Sanskrit Mahyam (\"to me\"). \"Dehu mohĩ\" = Give to me.",
         "Anusvara vs Chandrabindu (मोहिं / మోహిఁ): Why does Devanagari use a dot (ं) while Telugu uses a half-circle (ఁ) for the exact same nasal sound? In Devanagari orthography, when a vowel matra extends above the top line (like ि, ी, े, ो), there is physically no vertical space to draw the full Chandrabindu (ँ). So, purely for typographical convenience, writers use the Anusvara dot (ं) even though it is pronounced as a nasalized vowel. However, if the vowel matra goes below or beside the line (like the 'u' in तिहुँ), the space above is empty, so the full Chandrabindu ँ is correctly written! Telugu script has no top-line constraint, so it always correctly uses the Ara-sunna (ఁ).",
         "Meter Tetris (बुद्धि vs बुधि): Line 1 heavily weights बुद्धि (bu + conjunct ddhi) to make it 2+1+2+1=6 beats. Line 2 uses light Awadhi बुधि (1+1=2 beats) to save space!",
         "The 'e' vowel weight (जानिके): The sound 'e' is historically a compound vowel (a + i = e) and physically requires twice as much breath to produce, making it an automatic 2-beat Guru."
