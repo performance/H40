@@ -33,30 +33,30 @@
 		{/if}
 	</div>
 
-	<!-- Dictionary Toggle — hidden for Dohas which have no word table -->
-	{#if verse.type !== 'doha' && verse.word_meanings && verse.word_meanings.length > 0}
+	<!-- Dictionary Toggle -->
+	{#if verse.word_meanings && verse.word_meanings.length > 0}
 		<div class="dictionary-section">
 			<button class="dict-toggle" onclick={() => showDictionary = !showDictionary}>
 				{showDictionary ? 'Hide' : 'Show'} Word-for-Word Dictionary
 			</button>
 
 			{#if showDictionary}
-				<div class="dictionary-table">
-					<div class="dict-header">
-						<span>Awadhi</span>
-						<span>Sanskrit</span>
-						<span>English</span>
-					</div>
-					{#each verse.word_meanings as entry}
-						<div class="dict-row">
-							<span class="devanagari">{entry.awadhi}</span>
-							<span class="devanagari">{entry.sanskrit}</span>
-							<span>{entry.english} 
-								{#if entry.notes}<br/><small style="color: var(--primary);">{entry.notes}</small>{/if}
-							</span>
-						</div>
-					{/each}
+			<div class="dictionary-table">
+				<div class="dict-header">
+					<span>Awadhi</span>
+					<span>Sanskrit</span>
+					<span>English</span>
 				</div>
+				{#each verse.word_meanings as entry}
+					<div class="dict-row">
+						<span class="devanagari">{entry.awadhi}</span>
+						<span class="devanagari">{entry.sanskrit}</span>
+						<span>{entry.english} 
+							{#if entry.notes}<br/><small style="color: var(--primary);">{entry.notes}</small>{/if}
+						</span>
+					</div>
+				{/each}
+			</div>
 			{/if}
 		</div>
 	{/if}
