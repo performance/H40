@@ -33,7 +33,14 @@ echo "Pushing source branch (release-v1)..."
 git push origin release-v1
 
 echo "Pushing website (gh-pages)..."
-git push origin \`git subtree split --prefix web/build release-v1\`:refs/heads/gh-pages --force
+REMOTE_URL=$(git remote get-url origin)
+cd web/build
+git init -b gh-pages-deploy > /dev/null 2>&1
+git add -A > /dev/null
+git commit -m "deploy: $(date '+%Y-%m-%d %H:%M')" > /dev/null
+git push -f "$REMOTE_URL" HEAD:gh-pages
+cd ../..
+rm -rf web/build/.git
 
 echo ""
 echo "✅ Done! Source → release-v1 | Website → gh-pages"
