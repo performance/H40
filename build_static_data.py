@@ -6,11 +6,23 @@ LATEX_DIR = '/Users/awesome/edu/H40/sections'
 OUTPUT_DIR = '/Users/awesome/edu/H40/web/src/lib/data'
 
 def clean_latex_macros(text):
-    # Strip macro commands leaving the text intact
+    # Strip simple diacritics first so they don't break the brace matching loop
+    text = re.sub(r'\\[=~\.\^]\{([a-zA-Z])\}', r'\1', text)
+    
+    # Handle nested macros from the inside out using a loop
+    prev = ""
+    while text != prev:
+        prev = text
+        text = re.sub(r'\\textbf\{([^{}]+)\}', r'**\1**', text)
+        text = re.sub(r'\\textit\{([^{}]+)\}', r'*\1*', text)
+        text = re.sub(r'\\href\{([^{}]+)\}\{([^{}]+)\}', r'[\2](\1)', text)
+        text = re.sub(r'\\(?:deva|telu|guru|laghu)\{([^{}]+)\}', r'\1', text)
+
+    # Strip any remaining un-nested or malformed macros
     text = re.sub(r'\\(?:deva|telu|guru|laghu)\{([^}]*)\}', r'\1', text)
-    # Handle bold and italic by converting to Markdown
     text = re.sub(r'\\textbf\{([^}]*)\}', r'**\1**', text)
     text = re.sub(r'\\textit\{([^}]*)\}', r'*\1*', text)
+    
     # Replace LaTeX commands with empty strings or equivalents
     text = re.sub(r'\\[a-zA-Z]+icon\b', '', text)
     text = re.sub(r'\\addcontentsline\{[^}]*\}\{[^}]*\}\{[^}]*\}', '', text)
@@ -18,8 +30,9 @@ def clean_latex_macros(text):
     text = re.sub(r'\\newline', ' ', text)
     text = re.sub(r'\\vspace\{[^}]*\}', '\n', text)
     text = re.sub(r'\\newpage', '', text)
+    text = re.sub(r'\\phantomsection', '', text)
     text = re.sub(r'\\textcolor\{[^}]*\}\{([^}]*)\}', r'\1', text)
-    text = re.sub(r'\\hr', '---', text)
+    text = re.sub(r'\\hr\b', '---', text)
     text = re.sub(r'\\rightarrow', '→', text)
     text = re.sub(r'\$', '', text)
     
@@ -120,6 +133,34 @@ def parse_glossary():
         
     print(f"Parsed {len(entries)} glossary categories into glossary.json")
 
+def parse_references():
+    filepath = os.path.join(LATEX_DIR, 'references.tex')
+    with open(filepath, 'r') as f:
+        content = f.read()
+        
+    # Convert section/subsection to Markdown headers
+    content = re.sub(r'\\section\*?\{([^}]*)\}', r'# \1\n', content)
+    content = re.sub(r'\\subsection\*?\{([^}]*)\}', r'### \1\n', content)
+    
+    # Convert itemize to Markdown lists
+    content = re.sub(r'\\begin\{itemize\}', '', content)
+    content = re.sub(r'\\end\{itemize\}', '', content)
+    
+    # Handle \item
+    content = re.sub(r'\\item', r'- ', content)
+    
+    # Strip comments
+    content = re.sub(r'(?m)^%.*$', '', content)
+    
+    md_content = clean_latex_macros(content)
+    
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    with open(os.path.join(OUTPUT_DIR, 'references.md'), 'w') as f:
+        f.write(md_content)
+        
+    print(f"Parsed references into references.md")
+
 if __name__ == '__main__':
     parse_preface()
     parse_glossary()
+    parse_references()
