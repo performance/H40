@@ -1,22 +1,29 @@
 <script>
 	import indexData from '$lib/data/index.json';
 	import { page } from '$app/stores';
+	import { base } from '$app/paths';
 
 	let { position = 'bottom' } = $props();
 
 	let navList = [
-		{ path: '/', title: 'Introduction' },
+		{ path: `${base}/`, title: 'Introduction' },
 		...indexData.map(v => ({ 
-			path: `/verses/${v.id}`, 
+			path: `${base}/verses/${v.id}`, 
 			title: v.id.replace('chaupai', 'Chaupai ').replace('doha', 'Doha ').replace('concluding_Doha ', 'Concluding Doha') 
 		})),
-		{ path: '/glossary', title: 'Glossary' },
-		{ path: '/references', title: 'References' }
+		{ path: `${base}/glossary`, title: 'Glossary' },
+		{ path: `${base}/references`, title: 'References' }
 	];
 
-	let currentIndex = $derived(navList.findIndex(item => item.path === $page.url.pathname));
-	let prev = $derived(currentIndex > 0 ? navList[currentIndex - 1] : null);
-	let next = $derived(currentIndex !== -1 && currentIndex < navList.length - 1 ? navList[currentIndex + 1] : null);
+	let currentIndex = $derived(
+		navList.findIndex(item =>
+			$page.url.pathname === item.path ||
+			$page.url.pathname === item.path.replace(/\/$/, '') // handle trailing slash variants
+		)
+	);
+	// Circular: wrap from last → first and first → last
+	let prev = $derived(currentIndex > 0 ? navList[currentIndex - 1] : currentIndex === 0 ? navList[navList.length - 1] : null);
+	let next = $derived(currentIndex >= 0 && currentIndex < navList.length - 1 ? navList[currentIndex + 1] : currentIndex === navList.length - 1 ? navList[0] : null);
 </script>
 
 <div class={`pagination-nav ${position}`}>
