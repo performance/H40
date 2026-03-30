@@ -16,7 +16,8 @@ const config = {
 			base: process.env.BASE_PATH ?? ''
 		},
 		prerender: {
-			handleHttpError: 'warn'
+			handleHttpError: 'warn',
+			handleUnseenRoutes: 'warn'
 		}
 	}
 };
