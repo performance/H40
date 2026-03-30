@@ -1,15 +1,22 @@
 {
   "id": "chaupai30",
+  "title": "त्रिंशत्तम चौपाई (Thirtieth Chaupai)",
   "type": "chaupai",
   "number": 30,
   "text": {
-    "awadhi": "साधु सन्त के तुम रखवारे। असुर निकंदन राम दुलारे॥",
-    "telugu": "సాధు సన్త కే తుమ రఖవారే। అసుర నికందన రామ దులారే॥",
-    "iast": "sādhu santa ke tuma rakhavāre | asura nikandana rāma dulāre ||"
+    "awadhi": "साधु सन्त के तुम रखवारे।\nअसुर निकंदन राम दुलारे॥",
+    "telugu": "సాధు సన్త కే తుమ రఖవారే।\nఅసుర నికందన రామ దులారే॥",
+    "iast": "sādhu santa ke tuma rakhavāre |\nasura nikandana rāma dulāre ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "साधूनां सन्तानां च भवान् रक्षकः अस्ति।",
+      "भवान् असुराणां विनाशकः, श्रीरामस्य प्रियः च अस्ति॥"
+    ],
+    "english": [
+      "You are the protector of sages and saints.",
+      "You are the destroyer of demons, and the darling of Lord Rama."
+    ]
   },
   "word_meanings": [
     {

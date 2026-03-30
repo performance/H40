@@ -9,7 +9,7 @@
 </script>
 
 <svelte:head>
-	<title>Hanuman Chalisa | {verse ? verse.id.replace('chaupai', 'Chaupai ').replace('doha', 'Doha ') : 'Error'}</title>
+	<title>Hanuman Chalisa | {verse ? verse.title : 'Error'}</title>
 </svelte:head>
 
 {#if data.error}
@@ -22,7 +22,8 @@
 	<div class="verse-layout">
 		<header class="verse-header">
 			<a href="{base}/verses" class="back-link">← Index</a>
-			<h1 class="verse-title">{verse.id.replace('chaupai', 'Chaupai ').replace('doha', 'Doha ')}</h1>
+			<h1 class="verse-title" style="font-family: var(--font-deva); font-size: 2.2rem;">{verse.title}</h1>
+			<div></div>
 		</header>
 
 		<!-- Main Verse Text & Translations -->
@@ -54,9 +55,9 @@
 	}
 
 	.verse-header {
-		display: flex;
+		display: grid;
+		grid-template-columns: 1fr auto 1fr;
 		align-items: center;
-		justify-content: space-between;
 		border-bottom: 1px solid var(--glass-border);
 		padding-bottom: 1rem;
 	}
@@ -65,11 +66,13 @@
 		margin: 0;
 		text-transform: capitalize;
 		color: var(--secondary);
+		text-align: center;
 	}
 
 	.back-link {
 		color: var(--text-muted);
 		font-weight: 600;
+		justify-self: start;
 	}
 
 	.boxes-container {

@@ -1,15 +1,22 @@
 {
   "id": "chaupai37",
+  "title": "सप्तत्रिंशत्तम चौपाई (Thirty-Seventh Chaupai)",
   "type": "chaupai",
   "number": 37,
   "text": {
-    "awadhi": "जै जै जै हनुमान गोसाईं। कृपा करहु गुरु देव की नाईं॥",
-    "telugu": "జై జై జై హనుమాన గోసాయీఁ। కృపా కరహు గురు దేవ కీ నాయీఁ॥",
-    "iast": "jai jai jai hanumāna gosāī̃ | kṛpā karahu guru deva kī nāī̃ ||"
+    "awadhi": "जै जै जै हनुमान गोसाईं।\nकृपा करहु गुरु देव की नाईं॥",
+    "telugu": "జై జై జై హనుమాన గోసాయీఁ।\nకృపా కరహు గురు దేవ కీ నాయీఁ॥",
+    "iast": "jai jai jai hanumāna gosāī̃ |\nkṛpā karahu guru deva kī nāī̃ ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "हे गोस्वामिन् (इन्द्रियाणां स्वामिन्) हनुमन्! भवतः जयः, जयः, जयः अस्तु।",
+      "भवान् मम उपरि इष्ट-गुरुदेवः इव कृपां करोतु॥"
+    ],
+    "english": [
+      "Hail, Hail, All Hail to you, Lord Hanuman, Master of the Senses!",
+      "Please bestow your grace upon me, just like a Supreme Guru."
+    ]
   },
   "word_meanings": [
     {

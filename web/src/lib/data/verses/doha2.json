@@ -1,15 +1,22 @@
 {
   "id": "doha2",
+  "title": "द्वितीय दोहा (Second Doha)",
   "type": "doha",
   "number": 2,
   "text": {
-    "awadhi": "बुद्धिहीन तनु जानिके सुमिरौं पवन कुमार। बल बुधि बिद्या देहु मोहिं हरहु कलेस बिकार॥",
-    "telugu": "బుద్ధిహీన తను జానికే సుమిరౌఁ పవన కుమార। బల బుధి బిద్యా దేహు మోహిఁ హరహు కలేస బికార॥",
-    "iast": "buddhihīna tanu jānike, sumiraũ pavana kumāra | bala budhi bidyā dehu mohĩ, harahu kalesa bikāra ||"
+    "awadhi": "बुद्धिहीन तनु जानिके\nसुमिरौं पवन कुमार।\nबल बुधि बिद्या देहु मोहिं\nहरहु कलेस बिकार॥",
+    "telugu": "బుద్ధిహీన తను జానికే\nసుమిరౌఁ పవన కుమార।\nబల బుధి బిద్యా దేహు మోహిఁ\nహరహు కలేస బికార॥",
+    "iast": "buddhihīna tanu jānike, sumiraũ pavana kumāra |\nbala budhi bidyā dehu mohĩ, harahu kalesa bikāra ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "हे पवनकुमार! मां बुद्धिहीनं ज्ञात्वा (मत्वा) अहं त्वां स्मरामि।",
+      "मह्यं बलं, बुद्धिं, विद्यां च यच्छ (देहि), मम सर्वान् क्लेशान् विकारान् (दोषान्) च दूरीकुरु।"
+    ],
+    "english": [
+      "Knowing myself to be devoid of intelligence, O Son of the Wind, I remember you.",
+      "Grant me strength, wisdom, and knowledge, and remove all my afflictions and impurities."
+    ]
   },
   "word_meanings": [
     {

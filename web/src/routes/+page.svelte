@@ -10,8 +10,15 @@
 </svelte:head>
 
 <div style="text-align: center; margin-bottom: 3rem;">
-	<h1 style="font-size: 3.5rem; color: var(--primary); margin-bottom: 0.5rem;">Shri Hanuman Chalisa</h1>
-	<p style="font-size: 1.3rem; color: var(--text-muted); max-width: 600px; margin: 0 auto;">A comprehensive linguistic, theological, and rhythmic guide.</p>
+	<h1 style="font-size: 2.5rem; color: var(--primary); margin-bottom: 0.5rem; line-height: 1.3;">
+		श्री हनुमान चालीसा<br/>
+		శ్రీ హనుమాన చాలీసా<br/>
+		śrī hanumān cālīsā
+	</h1>
+	<p style="font-size: 1.3rem; color: var(--text-muted); max-width: 600px; margin: 0 auto; line-height: 1.4;">
+		A Linguistic & Structural Study Guide<br/>
+		<span style="font-size: 1rem; opacity: 0.8;">Compiled for easy learning</span>
+	</p>
 </div>
 
 <div class="glass-card prose" style="max-width: 1000px;">

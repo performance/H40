@@ -1,15 +1,22 @@
 {
   "id": "chaupai16",
+  "title": "षोडश चौपाई \\(Sixteenth Chaupai\\)",
   "type": "chaupai",
   "number": 16,
   "text": {
-    "awadhi": "तुम उपकार सुग्रीवहिं कीन्हा। राम मिलाय राज पद दीन्हा॥",
-    "telugu": "తుమ ఉపకార సుగ్రీవహిఁ కీన్హా। రామ మిలాయ రాజ పద దీన్హా॥",
-    "iast": "tuma upakāra sugrīvahĩ kīnhā | rāma milāya rāja pada dīnhā ||"
+    "awadhi": "तुम उपकार सुग्रीवहिं कीन्हा।\nराम मिलाय राज पद दीन्हा॥",
+    "telugu": "తుమ ఉపకార సుగ్రీవహిఁ కీన్హా।\nరామ మిలాయ రాజ పద దీన్హా॥",
+    "iast": "tuma upakāra sugrīvahĩ kīnhā |\nrāma milāya rāja pada dīnhā ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "भवान् सुग्रीवाय महान्तम् उपकारं कृतवान्।",
+      "श्रीरामचन्द्रेण सह तस्य मेलनं कारयित्वा, तस्मै राजपदं दत्तवान्।"
+    ],
+    "english": [
+      "You did a great favor for Sugriva.",
+      "By uniting him with Lord Rama, you bestowed the royal throne upon him."
+    ]
   },
   "word_meanings": [
     {

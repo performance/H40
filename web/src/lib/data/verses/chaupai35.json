@@ -1,15 +1,22 @@
 {
   "id": "chaupai35",
+  "title": "पञ्चत्रिंशत्तम चौपाई (Thirty-Fifth Chaupai)",
   "type": "chaupai",
   "number": 35,
   "text": {
-    "awadhi": "और देवता चित्त न धरई। हनुमत सेइ सर्ब सुख करई॥",
-    "telugu": "ఔర దేవతా చిత్త న ధరఈ। హనుమత సేఇ సర్బ సుఖ కరఈ॥",
-    "iast": "aura devatā citta na dharaī | hanumata sei sarba sukha karaī ||"
+    "awadhi": "और देवता चित्त न धरई।\nहनुमत सेइ सर्ब सुख करई॥",
+    "telugu": "ఔర దేవతా చిత్త న ధరఈ।\nహనుమత సేఇ సర్బ సుఖ కరఈ॥",
+    "iast": "aura devatā citta na dharaī |\nhanumata sei sarba sukha karaī ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "मनसि कस्यापि अन्यस्य देवतायाः ध्यानं न धर्तव्यम्।",
+      "केवलं हनुमतः सेवया (भक्त्या) एव सर्वाणि सुखानि प्राप्यन्ते॥"
+    ],
+    "english": [
+      "Let not the mind hold or rely on any other deity.",
+      "By serving Hanuman alone, one attains all possible happiness."
+    ]
   },
   "word_meanings": [
     {

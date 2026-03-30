@@ -1,15 +1,22 @@
 {
   "id": "chaupai32",
+  "title": "द्वात्रिंशत्तम चौपाई (Thirty-Second Chaupai)",
   "type": "chaupai",
   "number": 32,
   "text": {
-    "awadhi": "राम रसायन तुम्हरे पासा। सदा रहो रघुपति के दासा॥",
-    "telugu": "రామ రసాయన తుమ్హరే పాసా। సదా రహో రఘుపతి కే దాసా॥",
-    "iast": "rāma rasāyana tumhare pāsā | sadā raho raghupati ke dāsā ||"
+    "awadhi": "राम रसायन तुम्हरे पासा।\nसदा रहो रघुपति के दासा॥",
+    "telugu": "రామ రసాయన తుమ్హరే పాసా।\nసదా రహో రఘుపతి కే దాసా॥",
+    "iast": "rāma rasāyana tumhare pāsā |\nsadā raho raghupati ke dāsā ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "भवतः पार्श्वे \"राम-नाम\" रूपी रसायनम् (औषधम्) अस्ति।",
+      "भवान् सर्वदा रघुपतेः (श्रीरामस्य) दासः भूत्वा एव तिष्ठति॥"
+    ],
+    "english": [
+      "You possess the ultimate elixir, the essence of Lord Rama.",
+      "May you always remain the devoted servant of Lord Rama."
+    ]
   },
   "word_meanings": [
     {

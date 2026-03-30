@@ -1,15 +1,22 @@
 {
   "id": "chaupai2",
+  "title": "द्वितीय चौपाई (Second Chaupai)",
   "type": "chaupai",
   "number": 2,
   "text": {
-    "awadhi": "राम दूत अतुलित बल धामा। अंजनि-पुत्र पवन सुत नामा॥",
-    "telugu": "రామ దూత అతులిత బల ధామా। అంజని పుత్ర పవన సుత నామా॥",
-    "iast": "rāma dūta atulita bala dhāmā | añjani-putra pavana suta nāmā ||"
+    "awadhi": "राम दूत अतुलित बल धामा।\nअंजनि-पुत्र पवन सुत नामा॥",
+    "telugu": "రామ దూత అతులిత బల ధామా।\nఅంజని పుత్ర పవన సుత నామా॥",
+    "iast": "rāma dūta atulita bala dhāmā |\nañjani-putra pavana suta nāmā ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "हे रामदूत! त्वम् अतुलित-बलस्य धाम (आश्रयः) असि।",
+      "हे अञ्जनिपुत्र! त्वं पवनसुत-नाम्ना प्रसिद्धः असि॥"
+    ],
+    "english": [
+      "O Emissary of Rama! You are the abode of incomparable strength.",
+      "O Son of Anjani! You are famous by the name 'Son of the Wind'."
+    ]
   },
   "word_meanings": [
     {

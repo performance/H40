@@ -1,15 +1,22 @@
 {
   "id": "chaupai11",
+  "title": "एकादश चौपाई (Eleventh Chaupai)",
   "type": "chaupai",
   "number": 11,
   "text": {
-    "awadhi": "लाय सजीवन लखन जियाये। श्रीरघुबीर हरषि उर लाये॥",
-    "telugu": "లాయ సజీవన లఖన జియాయే। శ్రీరఘుబీర హరషి ఉర లాయే॥",
-    "iast": "lāya sajīvana lakhana jiyāye | śrīraghubīra haraṣi ura lāye ||"
+    "awadhi": "लाय सजीवन लखन जियाये।\nश्रीरघुबीर हरषि उर लाये॥",
+    "telugu": "లాయ సజీవన లఖన జియాయే।\nశ్రీరఘుబీర హరషి ఉర లాయే॥",
+    "iast": "lāya sajīvana lakhana jiyāye |\nśrīraghubīra haraṣi ura lāye ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "भवान् सञ्जीवनी-बूटीम् आनीय लक्ष्मणस्य प्राणान् रक्षितवान् (जियाये)।",
+      "तत् दृष्ट्वा श्रीरामः (रघुवीरः) हर्षितः सन् भवन्तं वक्षसि (उर) स्थापितवान् (आलिङ्गनं कृतवान्)॥"
+    ],
+    "english": [
+      "Bringing the Sanjeevani herb, you resurrected Lakshmana.",
+      "Seeing this, Lord Rama joyfully embraced you to his chest/heart."
+    ]
   },
   "word_meanings": [
     {

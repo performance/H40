@@ -1,15 +1,22 @@
 {
   "id": "chaupai28",
+  "title": "अष्टाविंशतितम चौपाई (Twenty-Eighth Chaupai)",
   "type": "chaupai",
   "number": 28,
   "text": {
-    "awadhi": "और मनोरथ जो कोइ लावै। सोइ अमित जीवन फल पावै॥",
-    "telugu": "ఔర మనోరథ జో కోఇ లావై। సోఇ అమిత జీవన ఫల పావై॥",
-    "iast": "aura manoratha jo koi lāvai | soi amita jīvana phala pāvai ||"
+    "awadhi": "और मनोरथ जो कोइ लावै।\nसोइ अमित जीवन फल पावै॥",
+    "telugu": "ఔర మనోరథ జో కోఇ లావై।\nసోఇ అమిత జీవన ఫల పావై॥",
+    "iast": "aura manoratha jo koi lāvai |\nsoi amita jīvana phala pāvai ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "यः कश्चित् अन्यम् अपि मनोरथम् (इच्छां) आनयति",
+      "सः जीवने अमितम् (असीमं) फलं प्राप्नोति॥"
+    ],
+    "english": [
+      "Whoever brings any other desire or wish to you",
+      "that person obtains limitless fruits in their life."
+    ]
   },
   "word_meanings": [
     {

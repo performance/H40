@@ -1,15 +1,22 @@
 {
   "id": "chaupai18",
+  "title": "अष्टादश चौपाई \\(Eighteenth Chaupai\\)",
   "type": "chaupai",
   "number": 18,
   "text": {
-    "awadhi": "जुग सहस्र जोजन पर भानू। लील्यो ताहि मधुर फल जानू॥",
-    "telugu": "జుగ సహస్ర జోజన పర భానూ। లీల్యో తాహి మధుర ఫల జానూ॥",
-    "iast": "juga sahasra jojana para bhānū | līlyo tāhi madhura phala jānū ||"
+    "awadhi": "जुग सहस्र जोजन पर भानू।\nलील्यो ताहि मधुर फल जानू॥",
+    "telugu": "జుగ సహస్ర జోజన పర భానూ।\nలీల్యో తాహి మధుర ఫల జానూ॥",
+    "iast": "juga sahasra jojana para bhānū |\nlīlyo tāhi madhura phala jānū ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "युग-सहस्र-योजन-दूरे स्थितं भानुं (सूर्यम्)",
+      "मधुरं फलम् इति मत्वा भवान् लीलया निगीर्णवान् (भक्षितवान्)।"
+    ],
+    "english": [
+      "The sun, situated thousands of Yojanas away",
+      "thinking it to be a sweet fruit, you playfully swallowed it."
+    ]
   },
   "word_meanings": [
     {

@@ -1,15 +1,22 @@
 {
   "id": "chaupai8",
+  "title": "अष्टम चौपाई (Eighth Chaupai)",
   "type": "chaupai",
   "number": 8,
   "text": {
-    "awadhi": "प्रभु चरित्र सुनिबे को रसिया। राम लखन सीता मन बसिया॥",
-    "telugu": "ప్రభు చరిత్ర సునిబే కో రసియా। రామ లఖన సీతా మన బసియా॥",
-    "iast": "prabhu caritra sunibe ko rasiyā | rāma lakhana sītā mana basiyā ||"
+    "awadhi": "प्रभु चरित्र सुनिबे को रसिया।\nराम लखन सीता मन बसिया॥",
+    "telugu": "ప్రభు చరిత్ర సునిబే కో రసియా।\nరామ లఖన సీతా మన బసియా॥",
+    "iast": "prabhu caritra sunibe ko rasiyā |\nrāma lakhana sītā mana basiyā ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "भवान् प्रभोः (श्रीरामस्य) चरित्रं श्रोतुं रसिकः अस्ति।",
+      "श्रीरामः, लक्ष्मणः, सीता च भवतः मनसि वसन्ति।"
+    ],
+    "english": [
+      "You delight in listening to the stories and glories of the Lord.",
+      "Rama, Lakshmana, and Sita reside in your mind."
+    ]
   },
   "word_meanings": [
     {

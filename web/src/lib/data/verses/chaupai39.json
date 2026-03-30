@@ -1,15 +1,22 @@
 {
   "id": "chaupai39",
+  "title": "एकोनचत्वारिंशत्तम चौपाई (Thirty-Ninth Chaupai)",
   "type": "chaupai",
   "number": 39,
   "text": {
-    "awadhi": "जो यह पढ़ै हनुमान चलीसा। होय सिद्धि साखी गौरीसा॥",
-    "telugu": "జో యహ పఢై హనుమాన చలీసా। హోయ సిద్ధి సాఖీ గౌరీసా॥",
-    "iast": "jo yaha paṛhai hanumāna calīsā | hoya siddhi sākhī gaurīsā ||"
+    "awadhi": "जो यह पढ़ै हनुमान चलीसा।\nहोय सिद्धि साखी गौरीसा॥",
+    "telugu": "జో యహ పఢై హనుమాన చలీసా।\nహోయ సిద్ధి సాఖీ గౌరీసా॥",
+    "iast": "jo yaha paṛhai hanumāna calīsā |\nhoya siddhi sākhī gaurīsā ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "यः एतत् \"हनुमान-चालीसा\" स्तोत्रं पठति",
+      "सः सिद्धिं प्राप्नोति, अत्र गौरीशः (शिवः) एव साक्षी अस्ति॥"
+    ],
+    "english": [
+      "Whoever reads this Hanuman Chalisa will attain perfection and success.",
+      "Lord Shiva (husband of Gauri) is witness to this!"
+    ]
   },
   "word_meanings": [
     {

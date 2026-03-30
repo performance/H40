@@ -1,15 +1,22 @@
 {
   "id": "chaupai17",
+  "title": "सप्तदश चौपाई \\(Seventeenth Chaupai\\)",
   "type": "chaupai",
   "number": 17,
   "text": {
-    "awadhi": "तुम्हरो मंत्र बिभीषन माना। लंकेस्वर भए सब जग जाना॥",
-    "telugu": "తుమ్హరో మంత్ర బిభీషన మానా। లంకేశ్వర భఏ సబ జగ జానా॥",
-    "iast": "tumharo mantra bibhīṣana mānā | laṅkesvara bhae saba jaga jānā ||"
+    "awadhi": "तुम्हरो मंत्र बिभीषन माना।\nलंकेस्वर भए सब जग जाना॥",
+    "telugu": "తుమ్హరో మంత్ర బిభీషన మానా।\nలంకేశ్వర భఏ సబ జగ జానా॥",
+    "iast": "tumharo mantra bibhīṣana mānā |\nlaṅkesvara bhae saba jaga jānā ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "भवतः मन्त्रं (परामर्शं / उपदेशं) विभीषणः अङ्गीकृतवान्।",
+      "तेन सः लङ्केश्वरः (लङ्कायाः राजा) अभवत् इति सर्वं जगत् जानाति।"
+    ],
+    "english": [
+      "Vibhishana heeded your counsel.",
+      "By doing so, he became the King of Lanka, a fact the entire world knows."
+    ]
   },
   "word_meanings": [
     {

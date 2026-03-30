@@ -1,15 +1,22 @@
 {
   "id": "chaupai34",
+  "title": "चतुस्त्रिंशत्तम चौपाई (Thirty-Fourth Chaupai)",
   "type": "chaupai",
   "number": 34,
   "text": {
-    "awadhi": "अंत काल रघुबर पुर जाई। जहाँ जन्म हरि-भक्त कहाई॥",
-    "telugu": "అంత కాల రఘుబర పుర జాయీ। జహాఁ జన్మ హరి-భక్త కహాయీ॥",
-    "iast": "anta kāla raghubara pura jāī | jahā̃ janma hari-bhakta kahāī ||"
+    "awadhi": "अंत काल रघुबर पुर जाई।\nजहाँ जन्म हरि-भक्त कहाई॥",
+    "telugu": "అంత కాల రఘుబర పుర జాయీ।\nజహాఁ జన్మ హరి-భక్త కహాయీ॥",
+    "iast": "anta kāla raghubara pura jāī |\njahā̃ janma hari-bhakta kahāī ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "सः अन्त्यकाले श्रीरामस्य धाम (वैकुण्ठं) गच्छति।",
+      "यत्र तस्य जन्म भवति चेत्, सः भगवतः भक्तः इति उच्यते॥"
+    ],
+    "english": [
+      "At the end of time/life, one goes to the celestial abode of Lord Rama.",
+      "And wherever they might be born anew, they are renowned as a devotee of Hari/God."
+    ]
   },
   "word_meanings": [
     {

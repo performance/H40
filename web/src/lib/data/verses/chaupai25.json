@@ -1,15 +1,22 @@
 {
   "id": "chaupai25",
+  "title": "पञ्चविंशतितम चौपाई (Twenty-Fifth Chaupai)",
   "type": "chaupai",
   "number": 25,
   "text": {
-    "awadhi": "नासै रोग हरै सब पीरा। जपत निरन्तर हनुमत बीरा॥",
-    "telugu": "నాసై రోగ హరై సబ పీరా। జపత నిరంతర హనుమత బీరా॥",
-    "iast": "nāsai roga harai saba pīrā | japata nirantara hanumata bīrā ||"
+    "awadhi": "नासै रोग हरै सब पीरा।\nजपत निरन्तर हनुमत बीरा॥",
+    "telugu": "నాసై రోగ హరై సబ పీరా।\nజపత నిరంతర హనుమత బీరా॥",
+    "iast": "nāsai roga harai saba pīrā |\njapata nirantara hanumata bīrā ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "सर्वे रोगाः नश्यन्ति, सर्वाः पीडाः च हरिताः भवन्ति",
+      "यः निरन्तरं हे वीर हनुमन्! भवतः नाम जपति॥"
+    ],
+    "english": [
+      "All diseases are destroyed, and all suffering/pain is taken away",
+      "for one who continuously chants your name, O brave Hanuman!"
+    ]
   },
   "word_meanings": [
     {

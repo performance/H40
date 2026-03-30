@@ -1,15 +1,22 @@
 {
   "id": "chaupai3",
+  "title": "तृतीय चौपाई (Third Chaupai)",
   "type": "chaupai",
   "number": 3,
   "text": {
-    "awadhi": "महाबीर बिक्रम बजरंगी। कुमति निवार सुमति के संगी॥",
-    "telugu": "మహాబీర బిక్రమ బజరంగీ। కుమతి నివార సుమతి కే సంగీ॥",
-    "iast": "mahābīra bikrama bajaraṅgī | kumati nivāra sumati ke saṅgī ||"
+    "awadhi": "महाबीर बिक्रम बजरंगी।\nकुमति निवार सुमति के संगी॥",
+    "telugu": "మహాబీర బిక్రమ బజరంగీ।\nకుమతి నివార సుమతి కే సంగీ॥",
+    "iast": "mahābīra bikrama bajaraṅgī |\nkumati nivāra sumati ke saṅgī ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "हे महावीर! त्वं पराक्रमी वज्राङ्गी (वज्र-समान-अङ्गवान्) च असि।",
+      "त्वं कुमतिं निवारयसि, सुमतीनां च सङ्गी (रक्षकः) असि॥"
+    ],
+    "english": [
+      "O Great Hero! You are valiant and possess a body as strong as a thunderbolt.",
+      "You dispel evil thoughts, and you are the companion of good thoughts."
+    ]
   },
   "word_meanings": [
     {

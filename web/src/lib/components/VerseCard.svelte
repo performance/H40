@@ -5,11 +5,23 @@
 </script>
 
 <div class="glass-card card-container">
+	{#snippet renderScript(textStr)}
+		{#each textStr.split('\n') as line, i}
+			<div class="line" class:doha-offset={verse.type === 'doha' && i % 2 === 1}>{line}</div>
+		{/each}
+	{/snippet}
+
 	<!-- Awadhi Text -->
 	<div class="text-block main-script">
-		<div class="devanagari script-line">{verse.text.awadhi}</div>
-		<div class="telugu script-line">{verse.text.telugu}</div>
-		<div class="iast script-line">{verse.text.iast}</div>
+		<div class="devanagari script-line">
+			{@render renderScript(verse.text.awadhi)}
+		</div>
+		<div class="telugu script-line">
+			{@render renderScript(verse.text.telugu)}
+		</div>
+		<div class="iast script-line">
+			{@render renderScript(verse.text.iast)}
+		</div>
 	</div>
 
 	<hr class="divider" />
@@ -75,9 +87,15 @@
 
 	.script-line {
 		margin-bottom: 0.5rem;
-		white-space: nowrap;
-		overflow-x: auto;
 		padding-bottom: 0.5rem;
+	}
+
+	.line {
+		transition: padding 0.2s;
+	}
+
+	.doha-offset {
+		padding-left: 4rem;
 	}
 
 	.divider {

@@ -1,15 +1,22 @@
 {
   "id": "chaupai40",
+  "title": "चत्वारिंशत्तम चौपाई (Fortieth Chaupai)",
   "type": "chaupai",
   "number": 40,
   "text": {
-    "awadhi": "तुलसीदास सदा हरि चेरा। कीजै नाथ हृदय महँ डेरा॥",
-    "telugu": "తులసీదాస సదా హరి చేరా। కీజై నాథ హృదయ మహఁ డేరా॥",
-    "iast": "tulasīdāsa sadā hari cerā | kījai nātha hṛdaya mahã ḍerā ||"
+    "awadhi": "तुलसीदास सदा हरि चेरा।\nकीजै नाथ हृदय महँ डेरा॥",
+    "telugu": "తులసీదాస సదా హరి చేరా।\nకీజై నాథ హృదయ మహఁ డేరా॥",
+    "iast": "tulasīdāsa sadā hari cerā |\nkījai nātha hṛdaya mahã ḍerā ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "हे नाथ! तुलसीदासः सर्वदा भगवतः हरिः (श्रीरामस्य) परिचारकः (सेवकः) अस्ति।",
+      "अतः हे स्वामिन्! भवान् मम हृदये एव स्वकीयम् आवासं (डेरा) करोतु॥"
+    ],
+    "english": [
+      "Tulsidas is, and will always remain, the servant of Lord Hari (God).",
+      "Therefore, O Lord! Please make my heart your permanent dwelling."
+    ]
   },
   "word_meanings": [
     {

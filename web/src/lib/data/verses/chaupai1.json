@@ -1,15 +1,22 @@
 {
   "id": "chaupai1",
+  "title": "प्रथम चौपाई (First Chaupai)",
   "type": "chaupai",
   "number": 1,
   "text": {
-    "awadhi": "जय हनुमान ज्ञान गुन सागर। जय कपीस तिहुँ लोक उजागर॥",
-    "telugu": "జయ హనుమాన జ్ఞాన గున సాగర। జయ కపీస తిహుఁ లోక ఉజాగర॥",
-    "iast": "jaya hanumāna jñāna guna sāgara | jaya kapīsa tihũ loka ujāgara ||"
+    "awadhi": "जय हनुमान ज्ञान गुन सागर।\nजय कपीस तिहुँ लोक उजागर॥",
+    "telugu": "జయ హనుమాన జ్ఞాన గున సాగర।\nజయ కపీస తిహుఁ లోక ఉజాగర॥",
+    "iast": "jaya hanumāna jñāna guna sāgara |\njaya kapīsa tihũ loka ujāgara ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "हे हनुमान्! भवतः जयः भवतु, यः ज्ञानस्य गुणानां च सागरः अस्ति।",
+      "हे कपीश (वानराणां स्वामिन्)! भवतः जयः भवतु, यः त्रिषु लोकेषु (स्वर्गे, भूमौ, पाताले) प्रकाशमानः (प्रसिद्धः) अस्ति।"
+    ],
+    "english": [
+      "Victory to you, O Hanuman, who is the ocean of knowledge and virtues.",
+      "Victory to the Lord of the Monkeys, who illuminates the three worlds."
+    ]
   },
   "word_meanings": [
     {

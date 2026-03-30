@@ -1,15 +1,22 @@
 {
   "id": "chaupai24",
+  "title": "चतुर्विंशतितम चौपाई \\(Twenty-Fourth Chaupai\\)",
   "type": "chaupai",
   "number": 24,
   "text": {
-    "awadhi": "भूत पिसाच निकट नहिं आवै। महाबीर जब नाम सुनावै॥",
-    "telugu": "భూత పిసాచ నికట నహిఁ ఆవై। మహాబీర జబ నామ సునావై॥",
-    "iast": "bhūta pisāca nikaṭa nahĩ āvai | mahābīra jaba nāma sunāvai ||"
+    "awadhi": "भूत पिसाच निकट नहिं आवै।\nमहाबीर जब नाम सुनावै॥",
+    "telugu": "భూత పిసాచ నికట నహిఁ ఆవై।\nమహాబీర జబ నామ సునావై॥",
+    "iast": "bhūta pisāca nikaṭa nahĩ āvai |\nmahābīra jaba nāma sunāvai ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "भूताः पिशाचाः च समीपम् अपि न आगच्छन्ति",
+      "यदा कोऽपि \"महावीर\" इति भवतः नाम श्रावयति (जपति)॥"
+    ],
+    "english": [
+      "Ghosts and evil spirits do not even come near",
+      "whenever your name 'Mahaveer' is chanted aloud."
+    ]
   },
   "word_meanings": [
     {

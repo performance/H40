@@ -1,15 +1,22 @@
 {
   "id": "chaupai7",
+  "title": "सप्तम चौपाई (Seventh Chaupai)",
   "type": "chaupai",
   "number": 7,
   "text": {
-    "awadhi": "बिद्यावान गुनी अति चातुर। राम काज करिबे को आतुर॥",
-    "telugu": "బిద్యావాన గునీ అతి చాతుర। రామ కాజ కరిబే కో ఆతుర॥",
-    "iast": "bidyāvāna gunī ati cātura | rāma kāja karibe ko ātura ||"
+    "awadhi": "बिद्यावान गुनी अति चातुर।\nराम काज करिबे को आतुर॥",
+    "telugu": "బిద్యావాన గునీ అతి చాతుర।\nరామ కాజ కరిబే కో ఆతుర॥",
+    "iast": "bidyāvāna gunī ati cātura |\nrāma kāja karibe ko ātura ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "भवान् विद्यावान्, गुणवान्, अतीव चतुरः च अस्ति।",
+      "श्रीरामस्य कार्यं कर्तुं भवान् सदैव आतुरः (उत्सुकः) अस्ति।"
+    ],
+    "english": [
+      "You are highly learned, virtuous, and extremely clever/skillful.",
+      "You are always eager and ready to execute Lord Rama's work."
+    ]
   },
   "word_meanings": [
     {

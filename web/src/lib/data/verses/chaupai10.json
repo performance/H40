@@ -1,15 +1,22 @@
 {
   "id": "chaupai10",
+  "title": "दशम चौपाई (Tenth Chaupai)",
   "type": "chaupai",
   "number": 10,
   "text": {
-    "awadhi": "भीम रूप धरि असुर सँहारे। रामचंद्र के काज सँवारे॥",
-    "telugu": "భీమ రూప ధరి అసుర సఁహారే। రామచంద్ర కే కాజ సఁవారే॥",
-    "iast": "bhīma rūpa dhari asura sãhāre | rāmacandra ke kāja sãvāre ||"
+    "awadhi": "भीम रूप धरि असुर सँहारे।\nरामचंद्र के काज सँवारे॥",
+    "telugu": "భీమ రూప ధరి అసుర సఁహారే।\nరామచంద్ర కే కాజ సఁవారే॥",
+    "iast": "bhīma rūpa dhari asura sãhāre |\nrāmacandra ke kāja sãvāre ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "भवान् भयंकरं (भीमं) रूपं धृत्वा असुरान् संहारितवान्।",
+      "श्रीरामचन्द्रस्य सर्वाणि कार्याणि भवान् साधितवान् (सफलानि कृतवान्)।"
+    ],
+    "english": [
+      "Assuming a massive/terrifying form, you destroyed the demons.",
+      "And thus, you successfully accomplished the missions of Lord Ramachandra."
+    ]
   },
   "word_meanings": [
     {

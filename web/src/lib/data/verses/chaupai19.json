@@ -1,15 +1,22 @@
 {
   "id": "chaupai19",
+  "title": "एकोनविंशतितम चौपाई \\(Nineteenth Chaupai\\)",
   "type": "chaupai",
   "number": 19,
   "text": {
-    "awadhi": "प्रभु मुद्रिका मेलि मुख माहीं। जलधि लांघि गये अचरज नाहीं॥",
-    "telugu": "ప్రభు ముద్రికా మేలి ముఖ మాహీఁ। జలధి లాంఘి గయే అచరజ నాహీఁ॥",
-    "iast": "prabhu mudrikā meli mukha māhī̃ | jaladhi lāṅghi gaye acaraja nāhīṃ ||"
+    "awadhi": "प्रभु मुद्रिका मेलि मुख माहीं।\nजलधि लांघि गये अचरज नाहीं॥",
+    "telugu": "ప్రభు ముద్రికా మేలి ముఖ మాహీఁ।\nజలధి లాంఘి గయే అచరజ నాహీఁ॥",
+    "iast": "prabhu mudrikā meli mukha māhī̃ |\njaladhi lāṅghi gaye acaraja nāhīṃ ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "प्रभोः अङ्गुलीयकं (मुद्रिकाम्) मुखे निधाय",
+      "भवान् समुद्रं (जलधिं) उल्लङ्घितवान्, अत्र किञ्चित् आश्चर्यं नास्ति।"
+    ],
+    "english": [
+      "Keeping the Lord's ring in your mouth you leaped across the vast ocean,",
+      "and there is no surprise in this!"
+    ]
   },
   "word_meanings": [
     {

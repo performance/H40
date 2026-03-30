@@ -1,15 +1,22 @@
 {
   "id": "chaupai5",
+  "title": "पञ्चम चौपाई (Fifth Chaupai)",
   "type": "chaupai",
   "number": 5,
   "text": {
-    "awadhi": "हाथ बज्र औ ध्वजा बिराजै। काँधे मूँज जनेऊ साजै॥",
-    "telugu": "హాథ బజ్ర ఔ ధ్వజా బిరాజై। కాఁధే మూఁజ జనేఊ సాజై॥",
-    "iast": "hātha bajra au dhvajā birājai | kā̃dhe mū̃ja janeū sājai ||"
+    "awadhi": "हाथ बज्र औ ध्वजा बिराजै।\nकाँधे मूँज जनेऊ साजै॥",
+    "telugu": "హాథ బజ్ర ఔ ధ్వజా బిరాజై।\nకాఁధే మూఁజ జనేఊ సాజై॥",
+    "iast": "hātha bajra au dhvajā birājai |\nkā̃dhe mū̃ja janeū sājai ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "भवतः हस्ते वज्रं ध्वजः च विराजते।",
+      "भवतः स्कन्धे मौञ्जी-यज्ञोपवीतं शोभते॥"
+    ],
+    "english": [
+      "In your hand shines the thunderbolt and the banner.",
+      "On your shoulder, the sacred thread of Munja grass looks beautiful."
+    ]
   },
   "word_meanings": [
     {

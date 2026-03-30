@@ -1,15 +1,22 @@
 {
   "id": "chaupai23",
+  "title": "त्रयोविंशतितम चौपाई \\(Twenty-Third Chaupai\\)",
   "type": "chaupai",
   "number": 23,
   "text": {
-    "awadhi": "आपन तेज सम्हारो आपै। तीनों लोक हाँक तें काँपै॥",
-    "telugu": "ఆపన తేజ సమ్హారో ఆపై। తీనోం లోక హాఁక తేఁ కాఁపై॥",
-    "iast": "āpana teja samhāro āpai | tīnõ loka hā̃ka tẽ kā̃pai ||"
+    "awadhi": "आपन तेज सम्हारो आपै।\nतीनों लोक हाँक तें काँपै॥",
+    "telugu": "ఆపన తేజ సమ్హారో ఆపై।\nతీనోం లోక హాఁక తేఁ కాఁపై॥",
+    "iast": "āpana teja samhāro āpai |\ntīnõ loka hā̃ka tẽ kā̃pai ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "भवतः प्रचण्डं तेजः भवान् स्वयम् एव सम्भालितुं शक्नोति।",
+      "भवतः एकया गर्जनया (हुङ्कारेण) त्रयः लोकाः कम्पन्ते॥"
+    ],
+    "english": [
+      "Only you yourself can control your own immense splendor and power.",
+      "At your single roar, all three worlds tremble."
+    ]
   },
   "word_meanings": [
     {

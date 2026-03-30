@@ -1,15 +1,22 @@
 {
   "id": "chaupai26",
+  "title": "षड्विंशतितम चौपाई (Twenty-Sixth Chaupai)",
   "type": "chaupai",
   "number": 26,
   "text": {
-    "awadhi": "संकट तें हनुमान छुड़ावै। मन क्रम बचन ध्यान जो लावै॥",
-    "telugu": "సంకట తేఁ హనుమాన ఛుడావై। మన క్రమ బచన ధ్యాన జో లావై॥",
-    "iast": "saṅkaṭa tẽ hanumāna chuṛāvai | mana krama bacana dhyāna jo lāvai ||"
+    "awadhi": "संकट तें हनुमान छुड़ावै।\nमन क्रम बचन ध्यान जो लावै॥",
+    "telugu": "సంకట తేఁ హనుమాన ఛుడావై।\nమన క్రమ బచన ధ్యాన జో లావై॥",
+    "iast": "saṅkaṭa tẽ hanumāna chuṛāvai |\nmana krama bacana dhyāna jo lāvai ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "सङ्कटात् तमेव हनुमान् मोचयति",
+      "यः मनसा, कर्मणा, वचनेन च तस्य ध्यानं करोति॥"
+    ],
+    "english": [
+      "Hanuman rescues that person from crisis and danger",
+      "who meditates on him with mind, action, and words/speech."
+    ]
   },
   "word_meanings": [
     {

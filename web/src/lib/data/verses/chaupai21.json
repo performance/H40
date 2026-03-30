@@ -1,15 +1,22 @@
 {
   "id": "chaupai21",
+  "title": "एकविंशतितम चौपाई \\(Twenty-First Chaupai\\)",
   "type": "chaupai",
   "number": 21,
   "text": {
-    "awadhi": "राम दुआरे तुम रखवारे। होत न आज्ञा बिनु पैसारे॥",
-    "telugu": "రామ దుఆరే తుమ రఖవారే। హోత న ఆజ్ఞా బిను పైసారే॥",
-    "iast": "rāma duāre tuma rakhavāre | hota na ājñā binu paisāre ||"
+    "awadhi": "राम दुआरे तुम रखवारे।\nहोत न आज्ञा बिनु पैसारे॥",
+    "telugu": "రామ దుఆరే తుమ రఖవారే।\nహోత న ఆజ్ఞా బిను పైసారే॥",
+    "iast": "rāma duāre tuma rakhavāre |\nhota na ājñā binu paisāre ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "श्रीरामस्य द्वारे भवान् एव रक्षकः (द्वारपालः) अस्ति।",
+      "भवतः आज्ञां विना तत्र प्रवेशः न भवति॥"
+    ],
+    "english": [
+      "At the door of Lord Rama, you are the protector/guard.",
+      "Without your permission, entry is not possible."
+    ]
   },
   "word_meanings": [
     {

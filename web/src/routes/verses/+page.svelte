@@ -8,14 +8,14 @@
 </svelte:head>
 
 <div style="text-align: center; margin-bottom: 3rem;">
-	<h1 style="font-size: 3rem; color: var(--primary);">Index of Verses</h1>
+	<h1 style="font-size: 3rem; color: var(--primary);">Table of Contents</h1>
 	<p style="font-size: 1.2rem; color: var(--text-muted);">Explore the visual rhythm, grammar, and profound meaning of every verse.</p>
 </div>
 
 <div class="grid">
 	{#each indexData as verse}
 		<a href={`${base}/verses/${verse.id}`} class="glass-card verse-link">
-			<div class="type-badge">{verse.id.replace('chaupai', 'Chaupai ').replace('doha', 'Doha ').replace('concluding_Doha ', 'Concluding Doha')}</div>
+			<div class="type-badge" style="font-family: var(--font-deva);">{verse.title}</div>
 			<div class="arrow">→</div>
 		</a>
 	{/each}

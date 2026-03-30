@@ -14,18 +14,19 @@ def strip_latex(text):
     # catch nested or double
     text = re.sub(r'\\(?:textbf|textit|deva|telu|guru|laghu)\{([^}]*)\}', r'\1', text)
     # clean newlines or spacing commands
-    text = re.sub(r'\\vspace\{[^}]*\}', ' ', text)
-    text = re.sub(r'\\newline', ' ', text)
+    text = re.sub(r'\\vspace\{[^}]*\}', '', text)
+    text = re.sub(r'\\newline', '\n', text)
     text = re.sub(r'\\null\\hfill', ' ', text)
-    text = re.sub(r'\\par', ' ', text)
-    text = re.sub(r'\\\\', ' ', text)
+    text = re.sub(r'\\par', '\n', text)
+    text = re.sub(r'\s*\\\\\s*', '\n', text)
     text = re.sub(r'\\rightarrow', '→', text)
     text = re.sub(r'\$', '', text)
     # clean \gotchaicon, etc
     text = re.sub(r'\\[a-zA-Z]+icon\b', '', text)
-    # cleanup extra whitespace
-    text = re.sub(r'\s+', ' ', text).strip()
-    return text
+    # cleanup extra whitespace but preserve newlines
+    text = re.sub(r'[ \t]+', ' ', text)
+    text = re.sub(r'\n\s+', '\n', text)
+    return text.strip()
 
 def parse_boxes(content):
     boxes = []
@@ -157,6 +158,10 @@ def parse_file(filepath):
     else:
         return None
 
+    # Extract Verse Title
+    title_match = re.search(r'^[ \t]*\\(?:sub)?section\*?\{(.*)\}[ \t]*$', content, re.MULTILINE)
+    vtitle = strip_latex(title_match.group(1)) if title_match else ""
+
     # Parse text blocks
     # Devanagari — first \linespread{1.5} block
     deva_match = re.search(r'\{[^{}]*\\linespread\{1\.5\}\\selectfont(.*?)\\par\}', content, re.DOTALL)
@@ -174,12 +179,12 @@ def parse_file(filepath):
     iast_text = strip_latex(iast_match.group(1)) if iast_match else ""
     
     # Simple Sanskrit Translation
-    sans_eng_match = re.search(r'\\subsubsection\*\{\\textbf\{\\deva\{सरल-संस्कृतम्\} :\}\}(.*?)(?:\\vspace|\Z)', content, re.DOTALL)
-    sans_text = ""
-    eng_text = ""
+    sans_eng_match = re.search(r'\\textbf\{\s*\\deva\{सरल-संस्कृतम्\}\s*:\}\\*(.*?)(?:\\vspace|\\newpage|\\textbf\{)', content, re.DOTALL)
+    sans_text = []
+    eng_text = []
     if sans_eng_match:
         se_raw = sans_eng_match.group(1).strip()
-        lines = [l.strip() for l in se_raw.split('\\\\') if l.strip()]
+        lines = [l.strip() for l in se_raw.split('\n') if l.strip()]
         
         # reconstruct lines
         s_lines = []
@@ -196,6 +201,7 @@ def parse_file(filepath):
 
     data = {
         "id": fid,
+        "title": vtitle,
         "type": vtype,
         "number": vnum,
         "text": {
@@ -248,7 +254,7 @@ def build_all():
         
     verses.sort(key=get_seq)
     
-    index_data = [{"id": v["id"], "type": v["type"], "number": v["number"]} for v in verses]
+    index_data = [{"id": v["id"], "title": v.get("title", ""), "type": v["type"], "number": v["number"]} for v in verses]
     with open(os.path.join(OUTPUT_DIR, 'index.json'), 'w', encoding='utf-8') as f:
         json.dump(index_data, f, ensure_ascii=False, indent=2)
         

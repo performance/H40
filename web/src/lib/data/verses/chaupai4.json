@@ -1,15 +1,22 @@
 {
   "id": "chaupai4",
+  "title": "चतुर्थ चौपाई (Fourth Chaupai)",
   "type": "chaupai",
   "number": 4,
   "text": {
-    "awadhi": "कंचन बरन बिराज सुबेसा। कानन कुंडल कुंचित केसा॥",
-    "telugu": "కంచన బరన బిరాజ సుబేసా। కానన కుండల కుంచిత కేసా॥",
-    "iast": "kañcana barana birāja subesā | kānana kuṇḍala kuñcita kesā ||"
+    "awadhi": "कंचन बरन बिराज सुबेसा।\nकानन कुंडल कुंचित केसा॥",
+    "telugu": "కంచన బరన బిరాజ సుబేసా।\nకానన కుండల కుంచిత కేసా॥",
+    "iast": "kañcana barana birāja subesā |\nkānana kuṇḍala kuñcita kesā ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "भवतः कञ्चन-वर्णः (सुवर्ण-वर्णः) अस्ति, भवान् सुन्दर-वेषेण च विराजते।",
+      "भवतः कर्णयोः कुण्डले स्तः, केशाः च कुञ्चिताः सन्ति॥"
+    ],
+    "english": [
+      "Your complexion is golden, and you are adorned with beautiful attire.",
+      "You wear earrings on your ears, and your hair is curly."
+    ]
   },
   "word_meanings": [
     {

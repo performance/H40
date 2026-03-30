@@ -1,15 +1,21 @@
 {
   "id": "chaupai36",
+  "title": "षट्त्रिंशत्तम चौपाई (Thirty-Sixth Chaupai)",
   "type": "chaupai",
   "number": 36,
   "text": {
-    "awadhi": "संकट कटै मिटै सब पीरा। जो सुमिरै हनुमत बलबीरा॥",
-    "telugu": "సంకట కటై మిటై సబ పీరా। జో సుమిరై హనుమత బలబీరా॥",
-    "iast": "saṅkaṭa kaṭai miṭai saba pīrā | jo sumirai hanumata balabīrā ||"
+    "awadhi": "संकट कटै मिटै सब पीरा।\nजो सुमिरै हनुमत बलबीरा॥",
+    "telugu": "సంకట కటై మిటై సబ పీరా।\nజో సుమిరై హనుమత బలబీరా॥",
+    "iast": "saṅkaṭa kaṭai miṭai saba pīrā |\njo sumirai hanumata balabīrā ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "तस्य सर्वाणि सङ्कटानि छिद्यन्ते, सर्वाः पीडाः च नश्यन्ति",
+      "यः बलवीरं (महाबल-शालिनं) हनूमन्तं स्मरति॥"
+    ],
+    "english": [
+      "All crises are cut away, and all pain is erased for whoever remembers the mighty and brave Hanuman."
+    ]
   },
   "word_meanings": [
     {

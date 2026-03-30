@@ -1,15 +1,22 @@
 {
   "id": "chaupai13",
+  "title": "त्रयोदश चौपाई (Thirteenth Chaupai)",
   "type": "chaupai",
   "number": 13,
   "text": {
-    "awadhi": "सहस बदन तुम्हरो जस गावैं। अस कहि श्रीपति कंठ लगावैं॥",
-    "telugu": "సహస బదన తుమ్హరో జస గావైఁ। అస కహి శ్రీపతి కంఠ లగావైఁ॥",
-    "iast": "sahasa badana tumharo jasa gāvaĩ | asa kahi śrīpati kaṇṭha lagāvaĩ ||"
+    "awadhi": "सहस बदन तुम्हरो जस गावैं।\nअस कहि श्रीपति कंठ लगावैं॥",
+    "telugu": "సహస బదన తుమ్హరో జస గావైఁ।\nఅస కహి శ్రీపతి కంఠ లగావైఁ॥",
+    "iast": "sahasa badana tumharo jasa gāvaĩ |\nasa kahi śrīpati kaṇṭha lagāvaĩ ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "\"सहस्रं (1000) मुखानि (शेषानागः) भवतः यशः गायन्ति।\"",
+      "एवं उक्त्वा श्रियः-पतिः (श्रीरामः) भवन्तं कण्ठे आलिङ्गितवान्।"
+    ],
+    "english": [
+      "\"The thousand-faced serpent (Shesha Naga) sings your glory\"",
+      "Thus saying, Sri Rama embraced you to his neck."
+    ]
   },
   "word_meanings": [
     {

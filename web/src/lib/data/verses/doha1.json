@@ -1,15 +1,22 @@
 {
   "id": "doha1",
+  "title": "प्रथम दोहा (First Doha)",
   "type": "doha",
   "number": 1,
   "text": {
-    "awadhi": "श्रीगुरु चरन सरोज रज निज मनु मुकुरु सुधारि। बरनउँ रघुबर बिमल जसु जो दायकु फल चारि॥",
-    "telugu": "శ్రీగురు చరన సరోజ రజ నిజ మను ముకురు సుధారి। బరనఉఁ రఘుబర బిమల జసు జో దాయకు ఫల చారి॥",
-    "iast": "śrīguru carana saroja raja, nija manu mukuru sudhāri | baranaũ raghubara bimala jasu, jo dāyaku phala cāri ||"
+    "awadhi": "श्रीगुरु चरन सरोज रज\nनिज मनु मुकुरु सुधारि।\nबरनउँ रघुबर बिमल जसु\nजो दायकु फल चारि॥",
+    "telugu": "శ్రీగురు చరన సరోజ రజ\nనిజ మను ముకురు సుధారి।\nబరనఉఁ రఘుబర బిమల జసు\nజో దాయకు ఫల చారి॥",
+    "iast": "śrīguru carana saroja raja, nija manu mukuru sudhāri |\nbaranaũ raghubara bimala jasu, jo dāyaku phala cāri ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "श्रीगुरोः चरण-कमल-धूल्या स्व-मनः-रूपी-दर्पणं स्वच्छं कृत्वा",
+      "अहं श्रीरघुनाथस्य निर्मलं यशः वर्णयामि, यत् यशः चत्वारि फलानि (धर्म-अर्थ-काम-मोक्षान्) ददाति।"
+    ],
+    "english": [
+      "Having cleansed the mirror of my mind with the dust of my Guru's lotus feet",
+      "I narrate the pure glory of Lord Rama, which bestows the four fruits of life."
+    ]
   },
   "word_meanings": [
     {

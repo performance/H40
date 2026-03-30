@@ -1,15 +1,21 @@
 {
   "id": "chaupai38",
+  "title": "अष्टत्रिंशत्तम चौपाई (Thirty-Eighth Chaupai)",
   "type": "chaupai",
   "number": 38,
   "text": {
-    "awadhi": "जो सत बार पाठ कर कोई। छूटहि बंदि महा सुख होई॥",
-    "telugu": "జో సత బార పాఠ కర కోఈ। ఛూటహి బంది మహా సుఖ హోఈ॥",
-    "iast": "jo sata bāra pāṭha kara koī | chūṭahi bandi mahā sukha hoī ||"
+    "awadhi": "जो सत बार पाठ कर कोई।\nछूटहि बंदि महा सुख होई॥",
+    "telugu": "జో సత బార పాఠ కర కోఈ।\nఛూటహి బంది మహా సుఖ హోఈ॥",
+    "iast": "jo sata bāra pāṭha kara koī |\nchūṭahi bandi mahā sukha hoī ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "यः कश्चित् शत-वारम् अस्य पाठं करोति",
+      "सः बन्धनात् मुच्यते, तस्य महान् सुखं च भवति॥"
+    ],
+    "english": [
+      "Whoever recites this one hundred times is freed from all bondage and experiences immense happiness."
+    ]
   },
   "word_meanings": [
     {

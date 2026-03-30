@@ -1,15 +1,22 @@
 {
   "id": "chaupai27",
+  "title": "सप्तविंशतितम चौपाई (Twenty-Seventh Chaupai)",
   "type": "chaupai",
   "number": 27,
   "text": {
-    "awadhi": "सब पर राम तपस्वी राजा। तिन के काज सकल तुम साजा॥",
-    "telugu": "సబ పర రామ తపస్వీ రాజా। తిన కే కాజ సకల తుమ సాజా॥",
-    "iast": "saba para rāma tapasvī rājā | tina ke kāja sakala tuma sājā ||"
+    "awadhi": "सब पर राम तपस्वी राजा।\nतिन के काज सकल तुम साजा॥",
+    "telugu": "సబ పర రామ తపస్వీ రాజా।\nతిన కే కాజ సకల తుమ సాజా॥",
+    "iast": "saba para rāma tapasvī rājā |\ntina ke kāja sakala tuma sājā ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "सर्वेषामुपरि तपस्वी राजा श्रीरामः अस्ति।",
+      "तस्य अपि सर्वाणि कार्याणि भवान् एव सिद्धानि कृतवान् (साधितवान्)॥"
+    ],
+    "english": [
+      "Above all beings is Lord Rama, the ascetic King.",
+      "Yet, you are the one who accomplished all of even His tasks!"
+    ]
   },
   "word_meanings": [
     {

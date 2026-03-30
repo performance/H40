@@ -1,15 +1,22 @@
 {
   "id": "chaupai33",
+  "title": "त्रयस्त्रिंशत्तम चौपाई (Thirty-Third Chaupai)",
   "type": "chaupai",
   "number": 33,
   "text": {
-    "awadhi": "तुम्हरे भजन राम को पावै। जनम जनम के दुख बिसरावै॥",
-    "telugu": "తుమ్హరే భజన రామ కో పావై। జనమ జనమ కే దుఖ బిసరావై॥",
-    "iast": "tumhare bhajana rāma ko pāvai | janama janama ke dukha bisarāvai ||"
+    "awadhi": "तुम्हरे भजन राम को पावै।\nजनम जनम के दुख बिसरावै॥",
+    "telugu": "తుమ్హరే భజన రామ కో పావై।\nజనమ జనమ కే దుఖ బిసరావై॥",
+    "iast": "tumhare bhajana rāma ko pāvai |\njanama janama ke dukha bisarāvai ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "भवतः भजनेन भक्तः श्रीरामं प्राप्नोति।",
+      "तथा जन्म-जन्मान्तराणां दुःखानि विस्मरति॥"
+    ],
+    "english": [
+      "By singing your hymns, one attains Lord Rama.",
+      "And forgets the sorrows of many lifetimes."
+    ]
   },
   "word_meanings": [
     {

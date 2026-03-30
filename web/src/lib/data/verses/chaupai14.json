@@ -1,15 +1,22 @@
 {
   "id": "chaupai14",
+  "title": "चतुर्दश चौपाई (Fourteenth Chaupai)",
   "type": "chaupai",
   "number": 14,
   "text": {
-    "awadhi": "सनकादिक ब्रह्मादि मुनीसा। नारद सारद सहित अहीसा॥",
-    "telugu": "సనకాదిక బ్రహ్మాది మునీసా। నారద సారద సహిత అహీసా॥",
-    "iast": "sanakādika brahmādi munīsā | nārada sārada sahita ahīsā ||"
+    "awadhi": "सनकादिक ब्रह्मादि मुनीसा।\nनारद सारद सहित अहीसा॥",
+    "telugu": "సనకాదిక బ్రహ్మాది మునీసా।\nనారద సారద సహిత అహీసా॥",
+    "iast": "sanakādika brahmādi munīsā |\nnārada sārada sahita ahīsā ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "सनकादयः (सनक-सनन्दन-सनातन-सनत्कुमाराः), ब्रह्मा-आदयः देवाः, मुनीशाः च",
+      "नारदः, देवी सरस्वती (शारदा), शेषनाग-सहिताः (अहीशः) अपि यस्य यशः सम्यक् वर्णयितुं न शक्नुवन्ति।"
+    ],
+    "english": [
+      "Sages like Sanaka, gods like Brahma, and great ascetics",
+      "even Narada, Saraswati, and the Lord of Serpents."
+    ]
   },
   "word_meanings": [
     {
@@ -172,7 +179,7 @@
       "type": "gotchabox",
       "items": [
         "The श/ष → स Shift in Action: Beautiful symmetry here! Sanskrit मुनीश (Muneesha), शारदा (Shaarada), and अहीश (Aheesha) drop their heavy palatal श (sh) and soften into the pure Awadhi rhymes: मुनीसा (Muneesaa), सारद (Saarad), and अहीसा (Aheesaa).",
-        "The 'Aadi' (आदि) suffix: The suffix आदि (ādi) is used to denote \"and others like them\" or \"starting from\". This chaupai starts a list of greats, but we will know about why they are mentioned here in the next chaupai."
+        "The 'Aadi' (आदि) suffix: The suffix आदि (ādi) is used to denote \"and others like them\" or \"starting from\". \nThis chaupai starts a list of greats, but we will know about why they are mentioned here in the next chaupai."
       ]
     }
   ]

@@ -1,216 +1,259 @@
 [
   {
     "id": "doha1",
+    "title": "प्रथम दोहा (First Doha)",
     "type": "doha",
     "number": 1
   },
   {
     "id": "doha2",
+    "title": "द्वितीय दोहा (Second Doha)",
     "type": "doha",
     "number": 2
   },
   {
     "id": "chaupai1",
+    "title": "प्रथम चौपाई (First Chaupai)",
     "type": "chaupai",
     "number": 1
   },
   {
     "id": "chaupai2",
+    "title": "द्वितीय चौपाई (Second Chaupai)",
     "type": "chaupai",
     "number": 2
   },
   {
     "id": "chaupai3",
+    "title": "तृतीय चौपाई (Third Chaupai)",
     "type": "chaupai",
     "number": 3
   },
   {
     "id": "chaupai4",
+    "title": "चतुर्थ चौपाई (Fourth Chaupai)",
     "type": "chaupai",
     "number": 4
   },
   {
     "id": "chaupai5",
+    "title": "पञ्चम चौपाई (Fifth Chaupai)",
     "type": "chaupai",
     "number": 5
   },
   {
     "id": "chaupai6",
+    "title": "षष्ठ चौपाई (Sixth Chaupai)",
     "type": "chaupai",
     "number": 6
   },
   {
     "id": "chaupai7",
+    "title": "सप्तम चौपाई (Seventh Chaupai)",
     "type": "chaupai",
     "number": 7
   },
   {
     "id": "chaupai8",
+    "title": "अष्टम चौपाई (Eighth Chaupai)",
     "type": "chaupai",
     "number": 8
   },
   {
     "id": "chaupai9",
+    "title": "नवम चौपाई (Ninth Chaupai)",
     "type": "chaupai",
     "number": 9
   },
   {
     "id": "chaupai10",
+    "title": "दशम चौपाई (Tenth Chaupai)",
     "type": "chaupai",
     "number": 10
   },
   {
     "id": "chaupai11",
+    "title": "एकादश चौपाई (Eleventh Chaupai)",
     "type": "chaupai",
     "number": 11
   },
   {
     "id": "chaupai12",
+    "title": "द्वादश चौपाई (Twelfth Chaupai)",
     "type": "chaupai",
     "number": 12
   },
   {
     "id": "chaupai13",
+    "title": "त्रयोदश चौपाई (Thirteenth Chaupai)",
     "type": "chaupai",
     "number": 13
   },
   {
     "id": "chaupai14",
+    "title": "चतुर्दश चौपाई (Fourteenth Chaupai)",
     "type": "chaupai",
     "number": 14
   },
   {
     "id": "chaupai15",
+    "title": "पञ्चदश चौपाई (Fifteenth Chaupai)",
     "type": "chaupai",
     "number": 15
   },
   {
     "id": "chaupai16",
+    "title": "षोडश चौपाई \\(Sixteenth Chaupai\\)",
     "type": "chaupai",
     "number": 16
   },
   {
     "id": "chaupai17",
+    "title": "सप्तदश चौपाई \\(Seventeenth Chaupai\\)",
     "type": "chaupai",
     "number": 17
   },
   {
     "id": "chaupai18",
+    "title": "अष्टादश चौपाई \\(Eighteenth Chaupai\\)",
     "type": "chaupai",
     "number": 18
   },
   {
     "id": "chaupai19",
+    "title": "एकोनविंशतितम चौपाई \\(Nineteenth Chaupai\\)",
     "type": "chaupai",
     "number": 19
   },
   {
     "id": "chaupai20",
+    "title": "विंशतितम चौपाई \\(Twentieth Chaupai\\)",
     "type": "chaupai",
     "number": 20
   },
   {
     "id": "chaupai21",
+    "title": "एकविंशतितम चौपाई \\(Twenty-First Chaupai\\)",
     "type": "chaupai",
     "number": 21
   },
   {
     "id": "chaupai22",
+    "title": "द्वाविंशतितम चौपाई \\(Twenty-Second Chaupai\\)",
     "type": "chaupai",
     "number": 22
   },
   {
     "id": "chaupai23",
+    "title": "त्रयोविंशतितम चौपाई \\(Twenty-Third Chaupai\\)",
     "type": "chaupai",
     "number": 23
   },
   {
     "id": "chaupai24",
+    "title": "चतुर्विंशतितम चौपाई \\(Twenty-Fourth Chaupai\\)",
     "type": "chaupai",
     "number": 24
   },
   {
     "id": "chaupai25",
+    "title": "पञ्चविंशतितम चौपाई (Twenty-Fifth Chaupai)",
     "type": "chaupai",
     "number": 25
   },
   {
     "id": "chaupai26",
+    "title": "षड्विंशतितम चौपाई (Twenty-Sixth Chaupai)",
     "type": "chaupai",
     "number": 26
   },
   {
     "id": "chaupai27",
+    "title": "सप्तविंशतितम चौपाई (Twenty-Seventh Chaupai)",
     "type": "chaupai",
     "number": 27
   },
   {
     "id": "chaupai28",
+    "title": "अष्टाविंशतितम चौपाई (Twenty-Eighth Chaupai)",
     "type": "chaupai",
     "number": 28
   },
   {
     "id": "chaupai29",
+    "title": "एकोनत्रिंशत्तम चौपाई (Twenty-Ninth Chaupai)",
     "type": "chaupai",
     "number": 29
   },
   {
     "id": "chaupai30",
+    "title": "त्रिंशत्तम चौपाई (Thirtieth Chaupai)",
     "type": "chaupai",
     "number": 30
   },
   {
     "id": "chaupai31",
+    "title": "एकत्रिंशत्तम चौपाई (Thirty-First Chaupai)",
     "type": "chaupai",
     "number": 31
   },
   {
     "id": "chaupai32",
+    "title": "द्वात्रिंशत्तम चौपाई (Thirty-Second Chaupai)",
     "type": "chaupai",
     "number": 32
   },
   {
     "id": "chaupai33",
+    "title": "त्रयस्त्रिंशत्तम चौपाई (Thirty-Third Chaupai)",
     "type": "chaupai",
     "number": 33
   },
   {
     "id": "chaupai34",
+    "title": "चतुस्त्रिंशत्तम चौपाई (Thirty-Fourth Chaupai)",
     "type": "chaupai",
     "number": 34
   },
   {
     "id": "chaupai35",
+    "title": "पञ्चत्रिंशत्तम चौपाई (Thirty-Fifth Chaupai)",
     "type": "chaupai",
     "number": 35
   },
   {
     "id": "chaupai36",
+    "title": "षट्त्रिंशत्तम चौपाई (Thirty-Sixth Chaupai)",
     "type": "chaupai",
     "number": 36
   },
   {
     "id": "chaupai37",
+    "title": "सप्तत्रिंशत्तम चौपाई (Thirty-Seventh Chaupai)",
     "type": "chaupai",
     "number": 37
   },
   {
     "id": "chaupai38",
+    "title": "अष्टत्रिंशत्तम चौपाई (Thirty-Eighth Chaupai)",
     "type": "chaupai",
     "number": 38
   },
   {
     "id": "chaupai39",
+    "title": "एकोनचत्वारिंशत्तम चौपाई (Thirty-Ninth Chaupai)",
     "type": "chaupai",
     "number": 39
   },
   {
     "id": "chaupai40",
+    "title": "चत्वारिंशत्तम चौपाई (Fortieth Chaupai)",
     "type": "chaupai",
     "number": 40
   },
   {
     "id": "concluding_doha",
+    "title": "अन्तिम दोहा (Concluding Doha)",
     "type": "doha",
     "number": 3
   }

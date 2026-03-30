@@ -1,15 +1,22 @@
 {
   "id": "chaupai31",
+  "title": "एकत्रिंशत्तम चौपाई (Thirty-First Chaupai)",
   "type": "chaupai",
   "number": 31,
   "text": {
-    "awadhi": "अष्ट सिद्धि नौ निधि के दाता। अस बर दीन जानकी माता॥",
-    "telugu": "అష్ట సిద్ధి నౌ నిధి కే దాతా। అస బర దీన జానకీ మాతా॥",
-    "iast": "aṣṭa siddhi nau nidhi ke dātā | asa bara dīna jānakī mātā ||"
+    "awadhi": "अष्ट सिद्धि नौ निधि के दाता।\nअस बर दीन जानकी माता॥",
+    "telugu": "అష్ట సిద్ధి నౌ నిధి కే దాతా।\nఅస బర దీన జానకీ మాతా॥",
+    "iast": "aṣṭa siddhi nau nidhi ke dātā |\nasa bara dīna jānakī mātā ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "भवान् अष्ट-सिद्धीनां नव-निधीनां च दाता अस्ति।",
+      "एतादृशः वरः माता-जानक्या भवतः कृते दत्तः॥"
+    ],
+    "english": [
+      "You are the bestower of the eight supernatural powers and nine divine treasures",
+      "Such was the boon given to you by Mother Janaki (Sita)."
+    ]
   },
   "word_meanings": [
     {

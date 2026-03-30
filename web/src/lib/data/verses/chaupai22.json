@@ -1,15 +1,22 @@
 {
   "id": "chaupai22",
+  "title": "द्वाविंशतितम चौपाई \\(Twenty-Second Chaupai\\)",
   "type": "chaupai",
   "number": 22,
   "text": {
-    "awadhi": "सब सुख लहै तुम्हारी सरना। तुम रच्छक काहू को डर ना॥",
-    "telugu": "సబ సుఖ లహై తుమ్హారీ సరనా। తుమ రచ్ఛక కాహూ కో డర నా॥",
-    "iast": "saba sukha lahai tumhārī saranā | tuma racchaka kāhū ko ḍara nā ||"
+    "awadhi": "सब सुख लहै तुम्हारी सरना।\nतुम रच्छक काहू को डर ना॥",
+    "telugu": "సబ సుఖ లహై తుమ్హారీ సరనా।\nతుమ రచ్ఛక కాహూ కో డర నా॥",
+    "iast": "saba sukha lahai tumhārī saranā |\ntuma racchaka kāhū ko ḍara nā ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "यः भवतः शरणम् आगच्छति, सः सर्वाणि सुखानि लभते।",
+      "यदा भवान् रक्षकः अस्ति, तदा कस्यापि भयं नास्ति॥"
+    ],
+    "english": [
+      "Whoever takes your shelter, obtains all comforts and joys.",
+      "When you are the protector, there is nothing to fear."
+    ]
   },
   "word_meanings": [
     {

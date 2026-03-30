@@ -1,15 +1,22 @@
 {
   "id": "chaupai20",
+  "title": "विंशतितम चौपाई \\(Twentieth Chaupai\\)",
   "type": "chaupai",
   "number": 20,
   "text": {
-    "awadhi": "दुर्गम काज जगत के जेते। सुगम अनुग्रह तुम्हरे तेते॥",
-    "telugu": "దుర్గమ కాజ జగత కే జేతే। సుగమ అనుగ్రహ తుమ్హరే తేతే॥",
-    "iast": "durgama kāja jagata ke jete | sugama anugraha tumhare tete ||"
+    "awadhi": "दुर्गम काज जगत के जेते।\nसुगम अनुग्रह तुम्हरे तेते॥",
+    "telugu": "దుర్గమ కాజ జగత కే జేతే।\nసుగమ అనుగ్రహ తుమ్హరే తేతే॥",
+    "iast": "durgama kāja jagata ke jete |\nsugama anugraha tumhare tete ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "जगतः यावन्ति अपि दुर्गमाणि (कठिनानि) कार्याणि सन्ति",
+      "तानि सर्वाणि भवतः अनुग्रहेण (कृपया) सुगमानि भवन्ति॥"
+    ],
+    "english": [
+      "Whatever difficult tasks exist in the world",
+      "they all become easily attainable by your grace."
+    ]
   },
   "word_meanings": [
     {

@@ -1,15 +1,22 @@
 {
   "id": "chaupai12",
+  "title": "द्वादश चौपाई (Twelfth Chaupai)",
   "type": "chaupai",
   "number": 12,
   "text": {
-    "awadhi": "रघुपति कीन्ही बहुत बड़ाई। तुम मम प्रिय भरतहि सम भाई॥",
-    "telugu": "రఘుపతి కీన్హీ బహుత బడాయీ। తుమ మమ ప్రియ భరతహి సమ భాయీ॥",
-    "iast": "raghupati kīnhī bahuta baṛāī | tuma mama priya bharatahi sama bhāī ||"
+    "awadhi": "रघुपति कीन्ही बहुत बड़ाई।\nतुम मम प्रिय भरतहि सम भाई॥",
+    "telugu": "రఘుపతి కీన్హీ బహుత బడాయీ।\nతుమ మమ ప్రియ భరతహి సమ భాయీ॥",
+    "iast": "raghupati kīnhī bahuta baṛāī |\ntuma mama priya bharatahi sama bhāī ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "श्रीरामः (रघुपतिः) भवतः अतीव प्रशंसां (बड़ाई) कृतवान्।",
+      "\"त्वं मम (भरतेन समानः) प्रिय-भ्राता असि\"॥"
+    ],
+    "english": [
+      "The Lord of the Raghus praised you immensely.",
+      "He said, \"You are as dear a brother to me as Bharata.\""
+    ]
   },
   "word_meanings": [
     {

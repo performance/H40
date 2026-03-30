@@ -1,15 +1,22 @@
 {
   "id": "chaupai9",
+  "title": "नवम चौपाई (Ninth Chaupai)",
   "type": "chaupai",
   "number": 9,
   "text": {
-    "awadhi": "सूक्ष्म रूप धरि सियहिं दिखावा। बिकट रूप धरि लंक जरावा॥",
-    "telugu": "సూక్ష్మ రూప ధరి సియహిఁ దిఖావా। బికట రూప ధరి లంక జరావా॥",
-    "iast": "sūkṣma rūpa dhari siyahĩ dikhāvā | bikaṭa rūpa dhari laṅka jarāvā ||"
+    "awadhi": "सूक्ष्म रूप धरि सियहिं दिखावा।\nबिकट रूप धरि लंक जरावा॥",
+    "telugu": "సూక్ష్మ రూప ధరి సియహిఁ దిఖావా।\nబికట రూప ధరి లంక జరావా॥",
+    "iast": "sūkṣma rūpa dhari siyahĩ dikhāvā |\nbikaṭa rūpa dhari laṅka jarāvā ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "भवान् सूक्ष्मं (लघु) रूपं धृत्वा सीतायै (सियहिं) दर्शनं दत्तवान्।",
+      "भवान् विकटं (भयानकं/विशालं) रूपं धृत्वा लङ्कां भस्मीकृतवान् (जरावा)।"
+    ],
+    "english": [
+      "Assuming a microscopic form, you revealed yourself to Mother Sita.",
+      "Assuming a massive/terrifying form, you burned down Lanka."
+    ]
   },
   "word_meanings": [
     {

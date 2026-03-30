@@ -1,15 +1,22 @@
 {
   "id": "chaupai29",
+  "title": "एकोनत्रिंशत्तम चौपाई (Twenty-Ninth Chaupai)",
   "type": "chaupai",
   "number": 29,
   "text": {
-    "awadhi": "चारों जुग परताप तुम्हारा। है परसिद्ध जगत उजियारा॥",
-    "telugu": "చారోఁ జుగ పరతాప తుమ్హారా। హై పరసిద్ధ జగత ఉజియారా॥",
-    "iast": "cārõ juga paratāpa tumhārā | hai parasiddha jagata ujiyārā ||"
+    "awadhi": "चारों जुग परताप तुम्हारा।\nहै परसिद्ध जगत उजियारा॥",
+    "telugu": "చారోఁ జుగ పరతాప తుమ్హారా।\nహై పరసిద్ధ జగత ఉజియారా॥",
+    "iast": "cārõ juga paratāpa tumhārā |\nhai parasiddha jagata ujiyārā ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "चतुर्षु युगेषु भवतः प्रतापः (महिमा) अस्ति।",
+      "संपूर्ण-जगति भवतः प्रकाशः प्रसिद्धः अस्ति॥"
+    ],
+    "english": [
+      "Your glory and majesty exist throughout the four Yugas / ages.",
+      "Your illuminating light is famous across the universe."
+    ]
   },
   "word_meanings": [
     {

@@ -1,15 +1,22 @@
 {
   "id": "chaupai15",
+  "title": "पञ्चदश चौपाई (Fifteenth Chaupai)",
   "type": "chaupai",
   "number": 15,
   "text": {
-    "awadhi": "जमु कुबेर दिगपाल जहाँ ते। कबि कोबिद कहि सके कहाँ ते॥",
-    "telugu": "జము కుబేర దిగపాల జహాఁ తే। కబి కోబిద కహి సకే కహాఁ తే॥",
-    "iast": "jamu kubera digapāla jahā̃ te | kabi kobida kahi sake kahā̃ te ||"
+    "awadhi": "जमु कुबेर दिगपाल जहाँ ते।\nकबि कोबिद कहि सके कहाँ ते॥",
+    "telugu": "జము కుబేర దిగపాల జహాఁ తే।\nకబి కోబిద కహి సకే కహాఁ తే॥",
+    "iast": "jamu kubera digapāla jahā̃ te |\nkabi kobida kahi sake kahā̃ te ||"
   },
   "translation": {
-    "sanskrit": "",
-    "english": ""
+    "sanskrit": [
+      "यत्र यमराजः, कुबेरः, दिक्पालाः च",
+      "(तव यशः वर्णयितुं न शक्नुवन्ति), ततः कथं कवयः कोविदाः (पण्डिताः) च तत् वक्तुं शक्नुवन्ति?"
+    ],
+    "english": [
+      "When Yama (God of Death), Kubera (God of Wealth), and the Guardians of the Directions",
+      "fail to describe your glory, then how can mere poets and scholars ever describe it?"
+    ]
   },
   "word_meanings": [
     {
