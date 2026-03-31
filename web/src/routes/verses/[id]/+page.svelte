@@ -74,6 +74,17 @@
 		font-weight: 600;
 		justify-self: start;
 	}
+	
+	@media (max-width: 600px) {
+		.verse-header {
+			grid-template-columns: 1fr;
+			gap: 1.5rem;
+			justify-items: center;
+		}
+		.back-link {
+			justify-self: center;
+		}
+	}
 
 	.boxes-container {
 		display: flex;

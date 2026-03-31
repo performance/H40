@@ -10,7 +10,7 @@
 </svelte:head>
 
 <div style="text-align: center; margin-bottom: 3rem;">
-	<h1 style="font-size: 2.5rem; color: var(--primary); margin-bottom: 0.5rem; line-height: 1.3;">
+	<h1 style="font-size: clamp(1.8rem, 6vw, 2.5rem); color: var(--primary); margin-bottom: 0.5rem; line-height: 1.3;">
 		श्री हनुमान चालीसा<br/>
 		శ్రీ హనుమాన చాలీసా<br/>
 		śrī hanumān cālīsā

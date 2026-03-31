@@ -48,6 +48,10 @@
 		justify-content: flex-start;
 		overflow-x: auto;
 		padding-bottom: 1rem;
+		scrollbar-width: none;
+	}
+	.rhythm-line::-webkit-scrollbar {
+		display: none;
 	}
 
 	.rhythm-word {

@@ -132,7 +132,7 @@
 		margin-top: 1rem;
 		background: var(--glass-bg);
 		border-radius: 8px;
-		overflow: hidden;
+		overflow-x: auto;
 		text-align: left;
 	}
 
@@ -145,6 +145,7 @@
 		font-weight: 600;
 		color: var(--text-muted);
 		border-bottom: 1px solid var(--glass-border);
+		min-width: 500px;
 	}
 
 	.dict-row {
@@ -153,6 +154,7 @@
 		gap: 1rem;
 		padding: 0.75rem 1rem;
 		border-bottom: 1px solid rgba(255,255,255,0.02);
+		min-width: 500px;
 	}
 	.dict-row:last-child {
 		border-bottom: none;

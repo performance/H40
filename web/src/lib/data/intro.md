@@ -11,7 +11,6 @@ Beyond the traditional फलश्रुति (Phalashruti), the benefits list
 -  **Spaced Recall:** Allocate the exact same time every day to spend 5 to 10 minutes focused on learning new verses. Later during the day, whenever you have a free minute or two, actively try to recite those verses from memory to the best of your ability. At the end of the day, do one final revision. Active recall builds the strongest neural pathways.
 -  **Cumulative Learning:** Master one Semantic Group at a time, always practicing from the very beginning to build "muscle memory."
 -  **Set the Tone:** Always begin with the invocatory *Dohas* to center your mind before the main recitation.
---- % Optional horizontal rule if defined in your preamble
 ## The Mathematical Heartbeat
 Before chanting, it is beneficial to understand the mathematical heartbeat of the text. Unlike classical Sanskrit or Telugu meters which follow strict syllable counts (अक्षरछन्दस्), the *Hanuman Chalisa* is an example of मात्राछन्दस्, a system based on **beats** (matras).
 **Syllable Weights \& Visual Rhythm Maps:**
