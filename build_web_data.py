@@ -9,6 +9,8 @@ def strip_latex(text):
     if not text: return ""
     # strip \makebox[\linewidth][l/c/r]{...} wrappers (used for doha 4-line layout)
     text = re.sub(r'\\makebox\[\\linewidth\]\[[lcr]\]\{([^}]*)\}', r'\1', text)
+    # strip \textcolor{color}{text}
+    text = re.sub(r'\\textcolor\{[^}]*\}\{([^}]*)\}', r'\1', text)
     # strip basic macros like \textbf, \textit, \deva, \telu
     text = re.sub(r'\\(?:textbf|textit|deva|telu|guru|laghu)\{([^}]*)\}', r'\1', text)
     # catch nested or double

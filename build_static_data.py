@@ -16,6 +16,8 @@ def clean_latex_macros(text):
         text = re.sub(r'\\textbf\{([^{}]+)\}', r'**\1**', text)
         text = re.sub(r'\\textit\{([^{}]+)\}', r'*\1*', text)
         text = re.sub(r'\\href\{([^{}]+)\}\{([^{}]+)\}', r'[\2](\1)', text)
+        # Handle \textcolor{color}{text} where neither parameter contains nested braces
+        text = re.sub(r'\\textcolor\{([^{}]+)\}\{([^{}]+)\}', r'\2', text)
         text = re.sub(r'\\(?:deva|telu|guru|laghu)\{([^{}]+)\}', r'\1', text)
 
     # Strip any remaining un-nested or malformed macros
@@ -98,7 +100,9 @@ def parse_glossary():
             transliteration = title_match.group(2).strip()
             
         # The remainder of the text before the table
-        body_match = re.search(r'\}(.*?)\\begin\{table\}', section, re.DOTALL)
+        section_lines = section.split('\n', 1)
+        body_raw = section_lines[1] if len(section_lines) > 1 else ""
+        body_match = re.search(r'(.*?)\\begin\{table\}', body_raw, re.DOTALL)
         body = body_match.group(1).strip() if body_match else ""
         body_cleaned = clean_latex_macros(body)
         

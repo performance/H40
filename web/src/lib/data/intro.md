@@ -14,8 +14,8 @@ Beyond the traditional फलश्रुति (Phalashruti), the benefits list
 ## The Mathematical Heartbeat
 Before chanting, it is beneficial to understand the mathematical heartbeat of the text. Unlike classical Sanskrit or Telugu meters which follow strict syllable counts (अक्षरछन्दस्), the *Hanuman Chalisa* is an example of मात्राछन्दस्, a system based on **beats** (matras).
 **Syllable Weights \& Visual Rhythm Maps:**
--  **लघु (Laghu : Short, light) = 1 Beat (\textcolor{laghuorange**{Orange}):} Short vowels like a, i, u (अ, इ, उ / అ, ఇ, ఉ).
--  **गुरु (Guru : Long, heavy) = 2 Beats (\textcolor{gurublue**{Blue}):} Long vowels like aa, ee, oo, e, o (आ, ई, ऊ, ए, ओ / ఆ, ఈ, ఊ, ఏ, ఓ), or any short vowel followed by a conjunct consonant or nasal dot.
+-  **लघु (Laghu : Short, light) = 1 Beat (Orange):** Short vowels like a, i, u (अ, इ, उ / అ, ఇ, ఉ).
+-  **गुरु (Guru : Long, heavy) = 2 Beats (Blue):** Long vowels like aa, ee, oo, e, o (आ, ई, ऊ, ए, ओ / ఆ, ఈ, ఊ, ఏ, ఓ), or any short vowel followed by a conjunct consonant or nasal dot.
 -  **Visual Breakdown:** Every line in this guide includes a Rhythm Map where individual syllables are colored (**Guru** / **Laghu**) so you can track the melody intuitively without manual counting.
 ## The चौपाई
 (Chaupai): The 16-Beat March
