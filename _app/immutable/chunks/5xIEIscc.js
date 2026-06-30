@@ -1,0 +1,1 @@
+import{w as y,x as o,a3 as u,a4 as _,i as t,C as g,o as i,B as l,s as n,n as p,j as m}from"./hqCs7120.js";function C(d,r){let s=null,E=t;var a;if(t){s=p;for(var e=m(document.head);e!==null&&(e.nodeType!==g||e.data!==d);)e=i(e);if(e===null)l(!1);else{var f=i(e);e.remove(),n(f)}}t||(a=document.head.appendChild(y()));try{o(()=>r(a),u|_)}finally{E&&(l(!0),n(s))}}export{C as h};
