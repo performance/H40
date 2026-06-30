@@ -21,42 +21,56 @@
   "word_meanings": [
     {
       "awadhi": "सनकादिक",
+      "telugu": "సనకాదిక",
+      "iast": "sanakādika",
       "sanskrit": "सनकादयः",
       "english": "Sages like Sanaka",
       "notes": ""
     },
     {
       "awadhi": "ब्रह्मादि",
+      "telugu": "బ్రహ్మాది",
+      "iast": "brahmādi",
       "sanskrit": "ब्रह्मादयः देवाः",
       "english": "Gods like Brahma",
       "notes": ""
     },
     {
       "awadhi": "मुनीसा",
+      "telugu": "మునీసా",
+      "iast": "munīsā",
       "sanskrit": "मुनीशाः (मुनि+ईश)",
       "english": "Chief sages",
       "notes": ""
     },
     {
       "awadhi": "नारद",
+      "telugu": "నారద",
+      "iast": "nārada",
       "sanskrit": "नारदः",
       "english": "Sage Narada",
       "notes": ""
     },
     {
       "awadhi": "सारद",
+      "telugu": "సారద",
+      "iast": "sārada",
       "sanskrit": "शारदा / सरस्वती",
       "english": "Goddess Saraswati",
       "notes": ""
     },
     {
       "awadhi": "सहित",
+      "telugu": "సహిత",
+      "iast": "sahita",
       "sanskrit": "सहिताः / सह",
       "english": "Along with",
       "notes": ""
     },
     {
       "awadhi": "अहीसा",
+      "telugu": "అహీసా",
+      "iast": "ahīsā",
       "sanskrit": "अहीशः (अहि+ईश)",
       "english": "Lord of Snakes (Shesha)",
       "notes": ""
@@ -175,6 +189,13 @@
     ]
   ],
   "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Universal Scholar",
+      "description": "Sages, gods, and cosmic figures (Sanaka, Brahma, Narada, Sarasvati, and Shesha) praise Hanuman's intellectual greatness. In the *Valmiki Ramayana* (*Kishkindha Kanda, 3:28-32*), Rama marvels at Hanuman's flawless speech and mastery of the Vedas and grammar, stating that even a king with such a brilliant advisor/envoy succeeds in all his endeavors.",
+      "motivating_text": "",
+      "citation": ""
+    },
     {
       "type": "gotchabox",
       "items": [

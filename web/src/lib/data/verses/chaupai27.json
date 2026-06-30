@@ -21,48 +21,64 @@
   "word_meanings": [
     {
       "awadhi": "सब पर",
+      "telugu": "సబ పర",
+      "iast": "saba para",
       "sanskrit": "सर्वेषाम् उपरि",
       "english": "Above everyone",
       "notes": ""
     },
     {
       "awadhi": "राम",
+      "telugu": "రామ",
+      "iast": "rāma",
       "sanskrit": "रामः",
       "english": "Rama",
       "notes": ""
     },
     {
       "awadhi": "तपस्वी राजा",
+      "telugu": "తపస్వీ రాజా",
+      "iast": "tapasvī rājā",
       "sanskrit": "तपस्वी राजा",
       "english": "Ascetic King",
       "notes": "Rama ruled as an ascetic"
     },
     {
       "awadhi": "तिन के",
+      "telugu": "తిన కే",
+      "iast": "tina ke",
       "sanskrit": "तस्य अपि",
       "english": "Even His",
       "notes": "Honorific plural genitive"
     },
     {
       "awadhi": "काज",
+      "telugu": "కాజ",
+      "iast": "kāja",
       "sanskrit": "कार्याणि",
       "english": "Tasks / Work",
       "notes": "(from Kaarya)"
     },
     {
       "awadhi": "सकल",
+      "telugu": "సకల",
+      "iast": "sakala",
       "sanskrit": "सकलानि / सर्वाणि",
       "english": "All / Entire",
       "notes": ""
     },
     {
       "awadhi": "तुम",
+      "telugu": "తుమ",
+      "iast": "tuma",
       "sanskrit": "त्वम्",
       "english": "You",
       "notes": ""
     },
     {
       "awadhi": "साजा",
+      "telugu": "సాజా",
+      "iast": "sājā",
       "sanskrit": "साधितवान्",
       "english": "Accomplished / Arranged",
       "notes": ""

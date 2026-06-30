@@ -21,50 +21,66 @@
   "word_meanings": [
     {
       "awadhi": "संकर",
+      "telugu": "సంకర",
+      "iast": "saṅkara",
       "sanskrit": "शङ्करस्य",
       "english": "Of Shiva",
       "notes": ""
     },
     {
-      "awadhi": "सुवन",
-      "sanskrit": "सुवनः / अवतारः",
-      "english": "Incarnation/Son",
+      "awadhi": "संकर सुवन",
+      "telugu": "సంకర సువన",
+      "iast": "saṅkara suvana",
+      "sanskrit": "शङ्करस्य पुत्रः (हनुमान्)",
+      "english": "Son of Shiva",
       "notes": ""
     },
     {
       "awadhi": "केसरी नंदन",
-      "sanskrit": "केसरी-नन्दनः",
+      "telugu": "కేసరీ నందన",
+      "iast": "kesarī nandana",
+      "sanskrit": "केसरिणः नन्दनः",
       "english": "Son of Kesari",
       "notes": ""
     },
     {
       "awadhi": "तेज",
-      "sanskrit": "तेजः",
-      "english": "Radiance",
+      "telugu": "తేజ",
+      "iast": "teja",
+      "sanskrit": "तेजस्वित्वम्",
+      "english": "Radiance / Energy",
       "notes": ""
     },
     {
       "awadhi": "प्रताप",
+      "telugu": "ప్రతాప",
+      "iast": "pratāpa",
       "sanskrit": "प्रतापः",
-      "english": "Valor / Majesty",
+      "english": "Valor / Prowess",
       "notes": ""
     },
     {
       "awadhi": "महा",
+      "telugu": "మహా",
+      "iast": "mahā",
       "sanskrit": "महान्",
       "english": "Great",
       "notes": ""
     },
     {
       "awadhi": "जग",
-      "sanskrit": "जगत्",
-      "english": "Universe",
+      "telugu": "జగ",
+      "iast": "jaga",
+      "sanskrit": "जगति",
+      "english": "In the world",
       "notes": ""
     },
     {
       "awadhi": "बंदन",
-      "sanskrit": "वन्द्यः / वन्दनम्",
-      "english": "Revered / Worshipped",
+      "telugu": "బందన",
+      "iast": "bandana",
+      "sanskrit": "वन्दनीयः",
+      "english": "Adored / Worshiped",
       "notes": ""
     }
   ],

@@ -21,42 +21,56 @@
   "word_meanings": [
     {
       "awadhi": "आपन",
+      "telugu": "ఆపన",
+      "iast": "āpana",
       "sanskrit": "आत्मीयम्",
       "english": "Own",
       "notes": ""
     },
     {
       "awadhi": "तेज",
+      "telugu": "తేజ",
+      "iast": "teja",
       "sanskrit": "तेजः",
       "english": "Power / Splendor",
       "notes": ""
     },
     {
       "awadhi": "सम्हारो",
+      "telugu": "సమ్హారో",
+      "iast": "samhāro",
       "sanskrit": "सम्भालनम् / नियन्त्रणम्",
       "english": "Control / Handle",
       "notes": ""
     },
     {
       "awadhi": "आपै",
+      "telugu": "ఆపై",
+      "iast": "āpai",
       "sanskrit": "स्वयम् एव",
       "english": "You alone / By yourself",
       "notes": ""
     },
     {
       "awadhi": "तीनों लोक",
+      "telugu": "తీనోం లోక",
+      "iast": "tīnõ loka",
       "sanskrit": "त्रयः लोकाः",
       "english": "Three worlds",
       "notes": ""
     },
     {
       "awadhi": "हाँक तें",
+      "telugu": "హాఁక తేఁ",
+      "iast": "hā̃ka tẽ",
       "sanskrit": "हुङ्कारेण / गर्जनया",
       "english": "By your roar",
       "notes": ""
     },
     {
       "awadhi": "काँपै",
+      "telugu": "కాఁపై",
+      "iast": "kā̃pai",
       "sanskrit": "कम्पन्ते",
       "english": "Tremble / Shiver",
       "notes": ""

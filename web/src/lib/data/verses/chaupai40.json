@@ -21,42 +21,56 @@
   "word_meanings": [
     {
       "awadhi": "तुलसीदास",
+      "telugu": "తులసీదాస",
+      "iast": "tulasīdāsa",
       "sanskrit": "तुलसीदासः",
       "english": "Tulsidas (The Author)",
       "notes": ""
     },
     {
       "awadhi": "सदा",
+      "telugu": "సదా",
+      "iast": "sadā",
       "sanskrit": "सर्वदा",
       "english": "Always",
       "notes": ""
     },
     {
       "awadhi": "हरि चेरा",
+      "telugu": "హరి చేరా",
+      "iast": "hari cerā",
       "sanskrit": "हरेः सेवकः",
       "english": "Servant of God",
       "notes": "`Chera` is pure Awadhi for servant"
     },
     {
       "awadhi": "कीजै",
+      "telugu": "కీజై",
+      "iast": "kījai",
       "sanskrit": "कुर्यात् / करोतु",
       "english": "Please do / Make",
       "notes": "Respectful Imperative"
     },
     {
       "awadhi": "नाथ",
+      "telugu": "నాథ",
+      "iast": "nātha",
       "sanskrit": "नाथ",
       "english": "O Lord",
       "notes": ""
     },
     {
       "awadhi": "हृदय महँ",
+      "telugu": "హృదయ మహఁ",
+      "iast": "hṛdaya mahã",
       "sanskrit": "हृदय-मध्ये",
       "english": "In the heart",
       "notes": "Locative postposition `mahan`"
     },
     {
       "awadhi": "डेरा",
+      "telugu": "డేరా",
+      "iast": "ḍerā",
       "sanskrit": "आवासम्",
       "english": "Camp / Dwelling",
       "notes": ""
@@ -177,8 +191,8 @@
   "boxes": [
     {
       "type": "anchorbox",
-      "title": "The Humble Heart",
-      "description": "Instead of demanding massive recognition or building monuments to ego, true greatness and peace begin with an unassuming, hospitable, and humble mind (Hriday Mahan Dera).",
+      "title": "Egoless Honor",
+      "description": "True greatness and peace begin with a humble, egoless mind (Hriday Maha Dera). In the *Valmiki Ramayana* (*Yuddha Kanda, 128:81-83*), when Sita presents Hanuman with the highest honor of a divine pearl necklace, Hanuman accepts it with absolute humility and devotion, demonstrating that he values the love and grace of the divine far more than any material decoration.",
       "motivating_text": "",
       "citation": ""
     }

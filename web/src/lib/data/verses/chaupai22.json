@@ -21,48 +21,64 @@
   "word_meanings": [
     {
       "awadhi": "सब सुख",
+      "telugu": "సబ సుఖ",
+      "iast": "saba sukha",
       "sanskrit": "सर्वाणि सुखानि",
       "english": "All happiness",
       "notes": ""
     },
     {
       "awadhi": "लहै",
+      "telugu": "లహై",
+      "iast": "lahai",
       "sanskrit": "लभते",
       "english": "Obtains / gets",
       "notes": "Verb ending in `-ai`"
     },
     {
       "awadhi": "तुम्हारी",
+      "telugu": "తుమ్హారీ",
+      "iast": "tumhārī",
       "sanskrit": "भवतः",
       "english": "Your",
       "notes": ""
     },
     {
       "awadhi": "सरना",
+      "telugu": "సరనా",
+      "iast": "saranā",
       "sanskrit": "शरणम्",
       "english": "Shelter / Refuge",
       "notes": ""
     },
     {
       "awadhi": "तुम",
+      "telugu": "తుమ",
+      "iast": "tuma",
       "sanskrit": "त्वम्",
       "english": "You",
       "notes": ""
     },
     {
       "awadhi": "रच्छक",
+      "telugu": "రచ్ఛక",
+      "iast": "racchaka",
       "sanskrit": "रक्षकः",
       "english": "Protector",
       "notes": ""
     },
     {
       "awadhi": "काहू को",
+      "telugu": "కాహూ కో",
+      "iast": "kāhū ko",
       "sanskrit": "कस्यापि",
       "english": "For anyone",
       "notes": ""
     },
     {
       "awadhi": "डर ना",
+      "telugu": "డర నా",
+      "iast": "ḍara nā",
       "sanskrit": "भयं नास्ति",
       "english": "No fear",
       "notes": ""

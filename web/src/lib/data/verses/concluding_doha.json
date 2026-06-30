@@ -21,48 +21,64 @@
   "word_meanings": [
     {
       "awadhi": "पवन तनय",
+      "telugu": "పవన తనయ",
+      "iast": "pavana tanaya",
       "sanskrit": "पवन-तनय",
       "english": "Son of the Wind-God",
       "notes": ""
     },
     {
       "awadhi": "संकट हरन",
+      "telugu": "సంకట హరన",
+      "iast": "saṅkaṭa harana",
       "sanskrit": "सङ्कट-हरण",
       "english": "Destroyer of Crisis",
       "notes": ""
     },
     {
       "awadhi": "मंगल मूरति",
+      "telugu": "మంగల మూరతి",
+      "iast": "maṅgala mūrati",
       "sanskrit": "मङ्गल-मूर्तिः",
       "english": "Auspicious idol/form",
       "notes": ""
     },
     {
       "awadhi": "रूप",
+      "telugu": "రూప",
+      "iast": "rūpa",
       "sanskrit": "रूपम्",
       "english": "Embodiment",
       "notes": ""
     },
     {
       "awadhi": "राम लखन",
+      "telugu": "రామ లఖన",
+      "iast": "rāma lakhana",
       "sanskrit": "राम-लक्ष्मण",
       "english": "Rama and Lakshmana",
       "notes": ""
     },
     {
       "awadhi": "सीता सहित",
+      "telugu": "సీతా సహిత",
+      "iast": "sītā sahita",
       "sanskrit": "सीतया सह",
       "english": "Along with Sita",
       "notes": ""
     },
     {
       "awadhi": "हृदय बसहु",
+      "telugu": "హృదయ బసహు",
+      "iast": "hṛdaya basahu",
       "sanskrit": "हृदये वसतु",
       "english": "Reside in the heart",
       "notes": "Imperative `-hu` suffix"
     },
     {
       "awadhi": "सुर भूप",
+      "telugu": "సుర భూప",
+      "iast": "sura bhūpa",
       "sanskrit": "देवानां राजा / भूपतिः",
       "english": "King of Gods",
       "notes": ""
@@ -267,10 +283,10 @@
   "boxes": [
     {
       "type": "anchorbox",
-      "title": "The Complete Picture",
-      "description": "When our mind is filled with positive influences like strong leadership, profound focus, and selfless dedication, there is simply no room left for crisis (Sankat) or negativity to enter. A disciplined mind leaves no space for failure.",
-      "motivating_text": "Filling your mind with positive leadership and selfless dedication leaves absolutely no room for crisis to enter.",
-      "citation": "Yuddha Kanda, 128"
+      "title": "The Crisis Preventer (Strategic Leadership)",
+      "description": "Before returning to Ayodhya, Lord Rama sent Hanuman ahead to meet Bharata and gauge his true feelings. If Bharata had grown accustomed to power, Rama's sudden return could cause a political crisis or emotional distress. Hanuman acted with supreme diplomacy, emotional intelligence, and leadership, ensuring a seamless, joyful transition of power and preventing any potential crisis.",
+      "motivating_text": "",
+      "citation": ""
     }
   ]
 }

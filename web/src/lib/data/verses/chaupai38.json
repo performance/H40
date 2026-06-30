@@ -20,42 +20,56 @@
   "word_meanings": [
     {
       "awadhi": "जो कोई",
+      "telugu": "జో కోఈ",
+      "iast": "jo koī",
       "sanskrit": "यः कश्चित्",
       "english": "Whoever",
       "notes": ""
     },
     {
       "awadhi": "सत बार",
+      "telugu": "సత బార",
+      "iast": "sata bāra",
       "sanskrit": "शत-वारम्",
       "english": "100 Times",
       "notes": ""
     },
     {
       "awadhi": "पाठ कर",
+      "telugu": "పాఠ కర",
+      "iast": "pāṭha kara",
       "sanskrit": "पाठं करोति",
       "english": "Recites",
       "notes": ""
     },
     {
       "awadhi": "छूटहि",
+      "telugu": "ఛూటహి",
+      "iast": "chūṭahi",
       "sanskrit": "मुच्यते",
       "english": "Is freed / breaks",
       "notes": "Awadhi passive `-hi`"
     },
     {
       "awadhi": "बंदि",
+      "telugu": "బంది",
+      "iast": "bandi",
       "sanskrit": "बन्धनात्",
       "english": "From bondage (prison)",
       "notes": ""
     },
     {
       "awadhi": "महा सुख",
+      "telugu": "మహా సుఖ",
+      "iast": "mahā sukha",
       "sanskrit": "महान् सुखम्",
       "english": "Great happiness",
       "notes": ""
     },
     {
       "awadhi": "होई",
+      "telugu": "హోఈ",
+      "iast": "hoī",
       "sanskrit": "भवति",
       "english": "Happens",
       "notes": ""
@@ -180,8 +194,8 @@
   "boxes": [
     {
       "type": "anchorbox",
-      "title": "The Power of Repetition",
-      "description": "Sata Baar (100 times) represents unwavering consistency. Mastery in education, sports, or personal growth doesn't come overnight. True success and liberation from failure are only built through relentless, daily, repetitive practice.",
+      "title": "The Power of Persistence",
+      "description": "Sata Baar (100 times) represents unwavering consistency. In the *Valmiki Ramayana* (*Sundara Kanda, 12:10*), when Hanuman initially fails to find Sita and feels discouraged, he recovers his resolve by declaring: *Anirvedah shriyo mulam* (\"Persistence/cheerfulness is the root of all success and prosperity\"). He renews his search, proving that mastery and liberation from failure are only built through relentless, repetitive effort.",
       "motivating_text": "",
       "citation": ""
     },

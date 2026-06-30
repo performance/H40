@@ -21,90 +21,120 @@
   "word_meanings": [
     {
       "awadhi": "श्रीगुरु",
+      "telugu": "శ్రీగురు",
+      "iast": "śrīguru",
       "sanskrit": "श्रीगुरोः",
       "english": "Venerable Guru's",
       "notes": "Genitive (-ḥ)"
     },
     {
       "awadhi": "चरन",
+      "telugu": "చరన",
+      "iast": "carana",
       "sanskrit": "चरण",
       "english": "Feet",
       "notes": ""
     },
     {
       "awadhi": "सरोज",
+      "telugu": "సరోజ",
+      "iast": "saroja",
       "sanskrit": "कमल",
       "english": "Lotus",
       "notes": ""
     },
     {
       "awadhi": "रज",
+      "telugu": "రజ",
+      "iast": "raja",
       "sanskrit": "धूलिः / रजः",
       "english": "Dust",
       "notes": ""
     },
     {
       "awadhi": "निज",
+      "telugu": "నిజ",
+      "iast": "nija",
       "sanskrit": "स्व / आत्मीय",
       "english": "Own",
       "notes": ""
     },
     {
       "awadhi": "मनु",
+      "telugu": "మను",
+      "iast": "manu",
       "sanskrit": "मनः",
       "english": "Mind",
       "notes": ""
     },
     {
       "awadhi": "मुकुरु",
+      "telugu": "ముకురు",
+      "iast": "mukuru",
       "sanskrit": "दर्पणम्",
       "english": "Mirror",
       "notes": "Nominative -u ending"
     },
     {
       "awadhi": "सुधारि",
+      "telugu": "సుధారి",
+      "iast": "sudhāri",
       "sanskrit": "स्वच्छं कृत्वा (संशोध्य)",
       "english": "Having cleaned/purified",
       "notes": ""
     },
     {
       "awadhi": "बरनउँ",
+      "telugu": "బరనఉఁ",
+      "iast": "baranaũ",
       "sanskrit": "वर्णयामि",
       "english": "I describe / narrate",
       "notes": ""
     },
     {
       "awadhi": "रघुबर",
+      "telugu": "రఘుబర",
+      "iast": "raghubara",
       "sanskrit": "श्रीरघुनाथस्य",
       "english": "Lord Rama's",
       "notes": ""
     },
     {
       "awadhi": "बिमल",
+      "telugu": "బిమల",
+      "iast": "bimala",
       "sanskrit": "निर्मलम्",
       "english": "Pure",
       "notes": ""
     },
     {
       "awadhi": "जसु",
+      "telugu": "జసు",
+      "iast": "jasu",
       "sanskrit": "यशः",
       "english": "Glory",
       "notes": ""
     },
     {
       "awadhi": "जो",
+      "telugu": "జో",
+      "iast": "jo",
       "sanskrit": "यत्",
       "english": "Which",
       "notes": ""
     },
     {
       "awadhi": "दायकु",
+      "telugu": "దాయకు",
+      "iast": "dāyaku",
       "sanskrit": "दायकम् (फलप्रदम्)",
       "english": "Bestower / Giver",
       "notes": "Nominative -u ending"
     },
     {
       "awadhi": "फल चारि",
+      "telugu": "ఫల చారి",
+      "iast": "phala cāri",
       "sanskrit": "चत्वारि फलानि",
       "english": "Four fruits",
       "notes": ""

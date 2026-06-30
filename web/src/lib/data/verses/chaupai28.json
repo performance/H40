@@ -21,48 +21,64 @@
   "word_meanings": [
     {
       "awadhi": "और",
+      "telugu": "ఔర",
+      "iast": "aura",
       "sanskrit": "अन्य / अपरः",
       "english": "And / Other",
       "notes": ""
     },
     {
       "awadhi": "मनोरथ",
+      "telugu": "మనోరథ",
+      "iast": "manoratha",
       "sanskrit": "मनोरथम्",
       "english": "Desire / Wish",
       "notes": ""
     },
     {
       "awadhi": "जो कोइ",
+      "telugu": "జో కోఇ",
+      "iast": "jo koi",
       "sanskrit": "यः कश्चित्",
       "english": "Whoever",
       "notes": ""
     },
     {
       "awadhi": "लावै",
+      "telugu": "లావై",
+      "iast": "lāvai",
       "sanskrit": "आनयति",
       "english": "Brings",
       "notes": ""
     },
     {
       "awadhi": "सोइ",
+      "telugu": "సోఇ",
+      "iast": "soi",
       "sanskrit": "सः एव",
       "english": "That very person",
       "notes": "Awadhi pronoun"
     },
     {
       "awadhi": "अमित",
+      "telugu": "అమిత",
+      "iast": "amita",
       "sanskrit": "अमितम् / असीमम्",
       "english": "Limitless / Infinite",
       "notes": ""
     },
     {
       "awadhi": "जीवन फल",
+      "telugu": "జీవన ఫల",
+      "iast": "jīvana phala",
       "sanskrit": "जीवन-फलम्",
       "english": "Fruit of life",
       "notes": ""
     },
     {
       "awadhi": "पावै",
+      "telugu": "పావై",
+      "iast": "pāvai",
       "sanskrit": "प्राप्नोति",
       "english": "Obtains",
       "notes": ""

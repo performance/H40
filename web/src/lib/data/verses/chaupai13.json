@@ -21,60 +21,80 @@
   "word_meanings": [
     {
       "awadhi": "सहस",
+      "telugu": "సహస",
+      "iast": "sahasa",
       "sanskrit": "सहस्रम्",
       "english": "Thousand",
       "notes": ""
     },
     {
       "awadhi": "बदन",
+      "telugu": "బదన",
+      "iast": "badana",
       "sanskrit": "वदनम् / मुखानि",
       "english": "Faces",
       "notes": ""
     },
     {
       "awadhi": "तुम्हरो",
+      "telugu": "తుమ్హరో",
+      "iast": "tumharo",
       "sanskrit": "भवतः",
       "english": "Your",
       "notes": ""
     },
     {
       "awadhi": "जस",
+      "telugu": "జస",
+      "iast": "jasa",
       "sanskrit": "यशः",
       "english": "Glory / Fame",
       "notes": ""
     },
     {
       "awadhi": "गावैं",
+      "telugu": "గావైఁ",
+      "iast": "gāvaĩ",
       "sanskrit": "गायन्ति",
       "english": "(They) Sing",
       "notes": "Plural nasal `-ain`"
     },
     {
       "awadhi": "अस",
+      "telugu": "అస",
+      "iast": "asa",
       "sanskrit": "एवम्",
       "english": "Like this / Thus",
       "notes": ""
     },
     {
       "awadhi": "कहि",
+      "telugu": "కహి",
+      "iast": "kahi",
       "sanskrit": "उक्त्वा",
       "english": "Having said",
       "notes": "Absolutive verb `-i`"
     },
     {
       "awadhi": "श्रीपति",
+      "telugu": "శ్రీపతి",
+      "iast": "śrīpati",
       "sanskrit": "श्रियः-पतिः",
       "english": "Lord of Fortune (Rama)",
       "notes": ""
     },
     {
       "awadhi": "कंठ",
+      "telugu": "కంఠ",
+      "iast": "kaṇṭha",
       "sanskrit": "कण्ठे",
       "english": "By the neck",
       "notes": ""
     },
     {
       "awadhi": "लगावैं",
+      "telugu": "లగావైఁ",
+      "iast": "lagāvaĩ",
       "sanskrit": "आलिङ्गितवान्",
       "english": "Hugged / Applied",
       "notes": ""

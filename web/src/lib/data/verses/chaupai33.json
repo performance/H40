@@ -21,30 +21,40 @@
   "word_meanings": [
     {
       "awadhi": "तुम्हरे भजन",
+      "telugu": "తుమ్హరే భజన",
+      "iast": "tumhare bhajana",
       "sanskrit": "भवतः भजनेन",
       "english": "By singing your hymns",
       "notes": ""
     },
     {
       "awadhi": "राम को पावै",
+      "telugu": "రామ కో పావై",
+      "iast": "rāma ko pāvai",
       "sanskrit": "रामं प्राप्नोति",
       "english": "Attains Rama",
       "notes": ""
     },
     {
       "awadhi": "जनम जनम के",
+      "telugu": "జనమ జనమ కే",
+      "iast": "janama janama ke",
       "sanskrit": "जन्म-जन्मान्तरस्य",
       "english": "Of lifetimes",
       "notes": "Swara-Bhakti (Janma → Janama)"
     },
     {
       "awadhi": "दुख",
+      "telugu": "దుఖ",
+      "iast": "dukha",
       "sanskrit": "दुःखानि",
       "english": "Sorrows / Pain",
       "notes": ""
     },
     {
       "awadhi": "बिसरावै",
+      "telugu": "బిసరావై",
+      "iast": "bisarāvai",
       "sanskrit": "विस्मरति",
       "english": "Forgets / Washes away",
       "notes": "Causative ending"

@@ -28,12 +28,14 @@
 
 % You may need to change these font names based on your local system fonts.
 % If using Overleaf, "Noto Serif Devanagari" and "Noto Serif Telugu" work beautifully.
+\setmainfont{Noto Serif}
 \newfontfamily\devanagarifont[Script=Devanagari]{Noto Serif Devanagari}
 \newfontfamily\telugufont[Script=Telugu]{Noto Sans Telugu}
 
 % Custom commands to easily wrap text in the correct script
 \newcommand{\deva}[1]{{\devanagarifont #1}}
 \newcommand{\telu}[1]{{\telugufont #1}}
+\newcommand{\iast}[1]{\textit{#1}}
 
 % Custom Box styling for notes
 \tcbset{

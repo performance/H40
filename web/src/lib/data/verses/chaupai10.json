@@ -21,42 +21,56 @@
   "word_meanings": [
     {
       "awadhi": "भीम रूप",
+      "telugu": "భీమ రూప",
+      "iast": "bhīma rūpa",
       "sanskrit": "भीम-रूपम्",
       "english": "Massive / fearsome form",
       "notes": ""
     },
     {
       "awadhi": "धरि",
+      "telugu": "ధరి",
+      "iast": "dhari",
       "sanskrit": "धृत्वा",
       "english": "Having assumed",
       "notes": ""
     },
     {
       "awadhi": "असुर",
+      "telugu": "అసుర",
+      "iast": "asura",
       "sanskrit": "असुरान्",
       "english": "Demons",
       "notes": ""
     },
     {
       "awadhi": "सँहारे",
+      "telugu": "సఁహారే",
+      "iast": "sãhāre",
       "sanskrit": "संहारितवान्",
       "english": "Destroyed",
       "notes": ""
     },
     {
       "awadhi": "रामचंद्र के",
+      "telugu": "రామచంద్ర కే",
+      "iast": "rāmacandra ke",
       "sanskrit": "श्रीरामचन्द्रस्य",
       "english": "Ramachandra's",
       "notes": "Genitive case marker `ke`"
     },
     {
       "awadhi": "काज",
+      "telugu": "కాజ",
+      "iast": "kāja",
       "sanskrit": "कार्याणि",
       "english": "Works/Missions",
       "notes": "Prakrit shift ()"
     },
     {
       "awadhi": "सँवारे",
+      "telugu": "సఁవారే",
+      "iast": "sãvāre",
       "sanskrit": "साधितवान्",
       "english": "Accomplished",
       "notes": ""

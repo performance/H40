@@ -21,48 +21,64 @@
   "word_meanings": [
     {
       "awadhi": "तुम्हरो",
+      "telugu": "తుమ్హరో",
+      "iast": "tumharo",
       "sanskrit": "भवतः",
       "english": "Your",
       "notes": "Awadhi possessive; syncopated from तुम्हारो"
     },
     {
       "awadhi": "मंत्र",
+      "telugu": "మంత్ర",
+      "iast": "mantra",
       "sanskrit": "मन्त्रम् (उपदेशम्)",
       "english": "Word / Counsel",
       "notes": ""
     },
     {
       "awadhi": "बिभीषन",
+      "telugu": "బిభీషన",
+      "iast": "bibhīṣana",
       "sanskrit": "विभीषणः",
       "english": "Vibhishana",
       "notes": "v → b"
     },
     {
       "awadhi": "माना",
+      "telugu": "మానా",
+      "iast": "mānā",
       "sanskrit": "अङ्गीकृतवान्",
       "english": "Accepted / Heeded",
       "notes": ""
     },
     {
       "awadhi": "लंकेस्वर",
+      "telugu": "లంకేశ్వర",
+      "iast": "laṅkesvara",
       "sanskrit": "लङ्केश्वरः",
       "english": "King of Lanka",
       "notes": "Compound: लंका + ईश्वर"
     },
     {
       "awadhi": "भए",
+      "telugu": "భఏ",
+      "iast": "bhae",
       "sanskrit": "अभवत्",
       "english": "Became",
       "notes": ""
     },
     {
       "awadhi": "सब जग",
+      "telugu": "సబ జగ",
+      "iast": "saba jaga",
       "sanskrit": "सर्वं जगत्",
       "english": "The whole world",
       "notes": ""
     },
     {
       "awadhi": "जाना",
+      "telugu": "జానా",
+      "iast": "jānā",
       "sanskrit": "जानाति",
       "english": "Knows",
       "notes": ""
@@ -187,8 +203,8 @@
   "boxes": [
     {
       "type": "anchorbox",
-      "title": "The Power of Good Counsel",
-      "description": "Vibhishana was surrounded by a toxic, negative environment in Lanka, but he chose to listen to Hanuman's wise advice (Mantra), which ultimately saved his life and made him king. Success heavily depends on seeking out and listening to positive, wise mentors.",
+      "title": "The Bridge of Advocacy",
+      "description": "In the *Valmiki Ramayana* (*Yuddha Kanda, 17:50-68*), when Vibhishana sought refuge, Sugriva and other leaders suspected him of being a spy. Hanuman was the sole advisor who delivered a brilliant, analytical speech to Lord Rama, advocating for Vibhishana's acceptance. Because Vibhishana was accepted and protected based on Hanuman's fair advocacy (this 'Mantra' or counsel to Rama), he was crowned King of Lanka (*Lankeshvara*). It shows how a true leader's strategic advocacy can lift others to greatness.",
       "motivating_text": "",
       "citation": ""
     }

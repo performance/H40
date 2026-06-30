@@ -21,48 +21,64 @@
   "word_meanings": [
     {
       "awadhi": "संकट तें",
+      "telugu": "సంకట తేఁ",
+      "iast": "saṅkaṭa tẽ",
       "sanskrit": "सङ्कटात्",
       "english": "From crisis",
       "notes": "Ablative postposition `-tẽ`"
     },
     {
       "awadhi": "हनुमान",
+      "telugu": "హనుమాన",
+      "iast": "hanumāna",
       "sanskrit": "हनुमान्",
       "english": "Hanuman",
       "notes": ""
     },
     {
       "awadhi": "छुड़ावै",
+      "telugu": "ఛుడావై",
+      "iast": "chuṛāvai",
       "sanskrit": "मोचयति",
       "english": "Rescues/Frees",
       "notes": ""
     },
     {
       "awadhi": "मन",
+      "telugu": "మన",
+      "iast": "mana",
       "sanskrit": "मनसा",
       "english": "With mind",
       "notes": ""
     },
     {
       "awadhi": "क्रम",
+      "telugu": "క్రమ",
+      "iast": "krama",
       "sanskrit": "कर्मणा",
       "english": "With actions",
       "notes": "Metathesis of Karma"
     },
     {
       "awadhi": "बचन",
+      "telugu": "బచన",
+      "iast": "bacana",
       "sanskrit": "वचनेन",
       "english": "With words",
       "notes": ""
     },
     {
       "awadhi": "ध्यान",
+      "telugu": "ధ్యాన",
+      "iast": "dhyāna",
       "sanskrit": "ध्यानम्",
       "english": "Meditation",
       "notes": ""
     },
     {
       "awadhi": "जो लावै",
+      "telugu": "జో లావై",
+      "iast": "jo lāvai",
       "sanskrit": "यः करोति (आनयति)",
       "english": "Whoever applies",
       "notes": ""

@@ -21,42 +21,56 @@
   "word_meanings": [
     {
       "awadhi": "राम दूत",
+      "telugu": "రామ దూత",
+      "iast": "rāma dūta",
       "sanskrit": "श्रीरामस्य दूतः",
       "english": "Emissary of Rama",
       "notes": ""
     },
     {
       "awadhi": "अतुलित",
+      "telugu": "అతులిత",
+      "iast": "atulita",
       "sanskrit": "अतुलितम्",
       "english": "Incomparable",
       "notes": ""
     },
     {
       "awadhi": "बल",
+      "telugu": "బల",
+      "iast": "bala",
       "sanskrit": "बलम्",
       "english": "Strength",
       "notes": ""
     },
     {
       "awadhi": "धामा",
+      "telugu": "ధామా",
+      "iast": "dhāmā",
       "sanskrit": "धाम / आश्रयः",
       "english": "Abode / Repository",
       "notes": "Meter: Added 'aa' for rhyme"
     },
     {
       "awadhi": "अंजनि पुत्र",
+      "telugu": "అంజని పుత్ర",
+      "iast": "añjani putra",
       "sanskrit": "अञ्जनायाः पुत्रः",
       "english": "Son of Anjani",
       "notes": ""
     },
     {
       "awadhi": "पवन सुत",
+      "telugu": "పవన సుత",
+      "iast": "pavana suta",
       "sanskrit": "पवनस्य सुतः",
       "english": "Son of the Wind",
       "notes": ""
     },
     {
       "awadhi": "नामा",
+      "telugu": "నామా",
+      "iast": "nāmā",
       "sanskrit": "नाम्ना",
       "english": "By the name",
       "notes": "Meter: Added 'aa' for rhyme"
@@ -187,8 +201,8 @@
   "boxes": [
     {
       "type": "anchorbox",
-      "title": "The Ultimate Reliable Executive",
-      "description": "He is called the ultimate Messenger (Rama Duta). When millions of soldiers were dispatched to find Sita, Lord Rama handed his personal signet ring to Hanuman alone. Leadership means identifying and encouraging people to be the best they can be and capable of taking on hard challenges. Hanuman inspires us to be our best by example, as he was relied upon to execute the hardest mission of reaching Lanka and finding Sita.",
+      "title": "Functional Leadership",
+      "description": "True leadership is about capability and trust, not titles. When millions of soldiers were dispatched to find Sita, Prince Angada was the official commander of the party, yet Lord Rama handed his personal signet ring to Hanuman alone. Rama recognized Hanuman as the functional leader whose competence, intellect, and empathy would guide the team to success.",
       "motivating_text": "",
       "citation": ""
     },

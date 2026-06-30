@@ -21,54 +21,72 @@
   "word_meanings": [
     {
       "awadhi": "प्रभु",
+      "telugu": "ప్రభు",
+      "iast": "prabhu",
       "sanskrit": "प्रभोः / रामस्य",
       "english": "Lord's",
       "notes": ""
     },
     {
       "awadhi": "मुद्रिका",
+      "telugu": "ముద్రికా",
+      "iast": "mudrikā",
       "sanskrit": "मुद्रिका / अङ्गुलीयकम्",
       "english": "Ring",
       "notes": ""
     },
     {
       "awadhi": "मेलि",
+      "telugu": "మేలి",
+      "iast": "meli",
       "sanskrit": "निधाय",
       "english": "Having kept",
       "notes": "Absolutive `-i` ending"
     },
     {
       "awadhi": "मुख माहीं",
+      "telugu": "ముఖ మాహీఁ",
+      "iast": "mukha māhī̃",
       "sanskrit": "मुख-मध्ये",
       "english": "Inside the mouth",
       "notes": ""
     },
     {
       "awadhi": "जलधि",
+      "telugu": "జలధి",
+      "iast": "jaladhi",
       "sanskrit": "जलधिः (समुद्रः)",
       "english": "Ocean",
       "notes": ""
     },
     {
       "awadhi": "लांघि",
+      "telugu": "లాంఘి",
+      "iast": "lāṅghi",
       "sanskrit": "उल्लङ्घ्य",
       "english": "Having crossed/leapt",
       "notes": ""
     },
     {
       "awadhi": "गये",
+      "telugu": "గయే",
+      "iast": "gaye",
       "sanskrit": "गतवान्",
       "english": "Went",
       "notes": ""
     },
     {
       "awadhi": "अचरज",
+      "telugu": "అచరజ",
+      "iast": "acaraja",
       "sanskrit": "आश्चर्यम्",
       "english": "Surprise",
       "notes": "Swara-bhakti"
     },
     {
       "awadhi": "नाहीं",
+      "telugu": "నాహీఁ",
+      "iast": "nāhīṃ",
       "sanskrit": "नास्ति",
       "english": "Is not",
       "notes": ""

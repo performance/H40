@@ -21,48 +21,64 @@
   "word_meanings": [
     {
       "awadhi": "भूत",
+      "telugu": "భూత",
+      "iast": "bhūta",
       "sanskrit": "भूताः",
       "english": "Ghosts",
       "notes": ""
     },
     {
       "awadhi": "पिसाच",
+      "telugu": "పిసాచ",
+      "iast": "pisāca",
       "sanskrit": "पिशाचाः",
       "english": "Evil spirits / Ghouls",
       "notes": ""
     },
     {
       "awadhi": "निकट",
+      "telugu": "నికట",
+      "iast": "nikaṭa",
       "sanskrit": "निकटम् / समीपम्",
       "english": "Near / Close",
       "notes": ""
     },
     {
       "awadhi": "नहिं आवै",
+      "telugu": "నహిఁ ఆవై",
+      "iast": "nahĩ āvai",
       "sanskrit": "न आगच्छन्ति",
       "english": "Do not come",
       "notes": ""
     },
     {
       "awadhi": "महाबीर",
+      "telugu": "మహాబీర",
+      "iast": "mahābīra",
       "sanskrit": "महावीरः",
       "english": "Mahaveer (Great Hero)",
       "notes": ""
     },
     {
       "awadhi": "जब",
+      "telugu": "జబ",
+      "iast": "jaba",
       "sanskrit": "यदा",
       "english": "When",
       "notes": ""
     },
     {
       "awadhi": "नाम",
+      "telugu": "నామ",
+      "iast": "nāma",
       "sanskrit": "नाम",
       "english": "Name",
       "notes": ""
     },
     {
       "awadhi": "सुनावै",
+      "telugu": "సునావై",
+      "iast": "sunāvai",
       "sanskrit": "श्रावयति",
       "english": "Is heard / recited",
       "notes": "Causative verb"
@@ -188,7 +204,7 @@
     {
       "type": "anchorbox",
       "title": "Mental Armor",
-      "description": "Instead of literal ghosts, the Bhoot Pisach represent the \"ghosts\" of performance anxiety, self-doubt, and negative peer pressure. Keeping strong role models in mind and practicing positive self-talk acts as mental armor against toxic thoughts that try to derail our focus.",
+      "description": "The \"ghosts\" (Bhuta Pisacha) represent performance anxiety and self-doubt. In the *Valmiki Ramayana* (*Sundara Kanda, 50:14-16*), when standing captive alone in Ravana's hostile court, Hanuman maintains complete composure. He objectively observes the grandeur of his enemies without being intimidated or losing focus. Keeping strong role models in mind acts as mental armor against external pressures.",
       "motivating_text": "",
       "citation": ""
     }

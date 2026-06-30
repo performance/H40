@@ -21,42 +21,56 @@
   "word_meanings": [
     {
       "awadhi": "राम दुआरे",
+      "telugu": "రామ దుఆరే",
+      "iast": "rāma duāre",
       "sanskrit": "रामस्य द्वारे",
       "english": "At Rama's door",
       "notes": "`duaare` is locative"
     },
     {
       "awadhi": "तुम",
+      "telugu": "తుమ",
+      "iast": "tuma",
       "sanskrit": "त्वम्",
       "english": "You",
       "notes": ""
     },
     {
       "awadhi": "रखवारे",
+      "telugu": "రఖవారే",
+      "iast": "rakhavāre",
       "sanskrit": "रक्षकः",
       "english": "Protector / Guard",
       "notes": ""
     },
     {
       "awadhi": "होत न",
+      "telugu": "హోత న",
+      "iast": "hota na",
       "sanskrit": "न भवति",
       "english": "Does not happen",
       "notes": ""
     },
     {
       "awadhi": "आज्ञा",
+      "telugu": "ఆజ్ఞా",
+      "iast": "ājñā",
       "sanskrit": "आज्ञाम्",
       "english": "Command / Permission",
       "notes": ""
     },
     {
       "awadhi": "बिनु",
+      "telugu": "బిను",
+      "iast": "binu",
       "sanskrit": "विना",
       "english": "Without",
       "notes": ""
     },
     {
       "awadhi": "पैसारे",
+      "telugu": "పైసారే",
+      "iast": "paisāre",
       "sanskrit": "प्रवेशः",
       "english": "Entry / Passage",
       "notes": "Awadhi noun"

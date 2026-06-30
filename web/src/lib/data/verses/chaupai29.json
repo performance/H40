@@ -21,42 +21,56 @@
   "word_meanings": [
     {
       "awadhi": "चारों जुग",
+      "telugu": "చారోం జుగ",
+      "iast": "cārõ juga",
       "sanskrit": "चतुर्षु युगेषु",
       "english": "In the four Yugas",
       "notes": ""
     },
     {
       "awadhi": "परताप",
+      "telugu": "పరతాప",
+      "iast": "paratāpa",
       "sanskrit": "प्रतापः",
       "english": "Glory / Majesty",
       "notes": "Swara-Bhakti"
     },
     {
       "awadhi": "तुम्हारा",
+      "telugu": "తుమ్హారా",
+      "iast": "tumhārā",
       "sanskrit": "भवतः",
       "english": "Your",
       "notes": ""
     },
     {
       "awadhi": "है",
+      "telugu": "హై",
+      "iast": "hai",
       "sanskrit": "अस्ति",
       "english": "Is",
       "notes": ""
     },
     {
       "awadhi": "परसिद्ध",
+      "telugu": "పరసిద్ధ",
+      "iast": "parasiddha",
       "sanskrit": "प्रसिद्धः",
       "english": "Famous / Known",
       "notes": "Swara-Bhakti"
     },
     {
       "awadhi": "जगत",
+      "telugu": "జగత",
+      "iast": "jagata",
       "sanskrit": "जगति",
       "english": "In the world",
       "notes": ""
     },
     {
       "awadhi": "उजियारा",
+      "telugu": "ఉజియారా",
+      "iast": "ujiyārā",
       "sanskrit": "प्रकाशः / उज्ज्वलः",
       "english": "Light / Radiance",
       "notes": ""
@@ -180,7 +194,7 @@
     {
       "type": "anchorbox",
       "title": "Timeless Principles",
-      "description": "His glory shines in all four epochs (Charon Yug). Good character, loyalty, strong work ethic, and discipline never go out of style. They are foundational human principles that remain relevant across all generations and technological shifts.",
+      "description": "His glory shines in all four epochs (Charon Yug). In the *Valmiki Ramayana* (*Sundara Kanda, 1:198*), the celestials praise Hanuman, declaring that anyone who possesses his four timeless qualities—courage, vision, intellect, and skill—will never fail in their endeavors. These core principles remain globally relevant across all generations.",
       "motivating_text": "",
       "citation": ""
     },

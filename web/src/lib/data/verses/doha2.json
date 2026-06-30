@@ -21,78 +21,104 @@
   "word_meanings": [
     {
       "awadhi": "बुद्धिहीन",
+      "telugu": "బుద్ధిహీన",
+      "iast": "buddhihīna",
       "sanskrit": "बुद्धि-रहितं",
       "english": "Devoid of intelligence",
       "notes": ""
     },
     {
       "awadhi": "तनु",
+      "telugu": "తను",
+      "iast": "tanu",
       "sanskrit": "शरीरं / आत्मानम्",
       "english": "Body / Myself",
       "notes": ""
     },
     {
       "awadhi": "जानिके",
+      "telugu": "జానికే",
+      "iast": "jānike",
       "sanskrit": "ज्ञात्वा",
       "english": "Having known",
       "notes": "Conjunctive Participle (-ike)"
     },
     {
       "awadhi": "सुमिरौं",
+      "telugu": "సుమిరౌఁ",
+      "iast": "sumiraũ",
       "sanskrit": "स्मरामि",
       "english": "I remember/meditate",
       "notes": ""
     },
     {
       "awadhi": "पवन-कुमार",
+      "telugu": "పవన-కుమార",
+      "iast": "pavana kumāra",
       "sanskrit": "हे वायुपुत्र",
       "english": "O Son of the Wind",
       "notes": ""
     },
     {
       "awadhi": "बल",
+      "telugu": "బల",
+      "iast": "bala",
       "sanskrit": "बलम्",
       "english": "Strength",
       "notes": ""
     },
     {
       "awadhi": "बुधि",
+      "telugu": "బుధి",
+      "iast": "budhi",
       "sanskrit": "बुद्धिम्",
       "english": "Wisdom",
       "notes": "Meter tetris (1+1=2)"
     },
     {
       "awadhi": "बिद्या",
+      "telugu": "బిద్యా",
+      "iast": "bidyā",
       "sanskrit": "विद्याम्",
       "english": "Knowledge",
       "notes": ""
     },
     {
       "awadhi": "देहु",
+      "telugu": "దేహు",
+      "iast": "dehu",
       "sanskrit": "देहि (यच्छ)",
       "english": "Give / Grant",
       "notes": "Imperative -hu ending"
     },
     {
       "awadhi": "मोहिं",
+      "telugu": "మోహిఁ",
+      "iast": "mohĩ",
       "sanskrit": "मह्यम्",
       "english": "To me",
       "notes": "Dative marker (-hiṃ)"
     },
     {
       "awadhi": "हरहु",
+      "telugu": "హరహు",
+      "iast": "harahu",
       "sanskrit": "हर (दूरीकुरु)",
       "english": "Remove / Destroy",
       "notes": "Imperative -hu ending"
     },
     {
       "awadhi": "कलेस",
+      "telugu": "కలేస",
+      "iast": "kalesa",
       "sanskrit": "क्लेशान् / दुःखानि",
       "english": "Sufferings",
       "notes": ""
     },
     {
       "awadhi": "बिकार",
+      "telugu": "బికార",
+      "iast": "bikāra",
       "sanskrit": "विकारान् / दोषान्",
       "english": "Impurities / Flaws",
       "notes": ""
@@ -283,8 +309,8 @@
   "boxes": [
     {
       "type": "anchorbox",
-      "title": "The Sequence of Growth",
-      "description": "We ask first for physical health and strength to act (Bala), then mental sharpness to discern clearly (Budhi), and finally practical education and skill to succeed (Bidya). This is the exact, logical sequence required to overcome life's hardships.",
+      "title": "The Qualities of Success",
+      "description": "We ask for strength (Bala), intellect (Budhi), and wisdom (Bidya). In the *Valmiki Ramayana* (*Sundara Kanda, 1:198*), the celestials praise Hanuman, declaring that he who has four key leadership traits—courage (Dhriti), vision (Drishti), intellect (Mati), and skill (Dakshya)—like him, will never fail in his undertakings.",
       "motivating_text": "",
       "citation": ""
     },

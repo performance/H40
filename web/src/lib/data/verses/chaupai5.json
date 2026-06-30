@@ -21,54 +21,72 @@
   "word_meanings": [
     {
       "awadhi": "हाथ",
+      "telugu": "హాథ",
+      "iast": "hātha",
       "sanskrit": "हस्ते",
       "english": "In hands",
       "notes": ""
     },
     {
       "awadhi": "बज्र",
+      "telugu": "బజ్ర",
+      "iast": "bajra",
       "sanskrit": "वज्रम्",
       "english": "Thunderbolt",
       "notes": ""
     },
     {
       "awadhi": "औ",
+      "telugu": "ఔ",
+      "iast": "au",
       "sanskrit": "और / च",
       "english": "And",
       "notes": ""
     },
     {
       "awadhi": "ध्वजा",
+      "telugu": "ధ్వజా",
+      "iast": "dhvajā",
       "sanskrit": "ध्वजः",
       "english": "Flag / Banner",
       "notes": ""
     },
     {
       "awadhi": "बिराजै",
+      "telugu": "బిరాజై",
+      "iast": "birājai",
       "sanskrit": "विराजते",
       "english": "Shines",
       "notes": ""
     },
     {
       "awadhi": "काँधे",
+      "telugu": "కాఁధే",
+      "iast": "kā̃dhe",
       "sanskrit": "स्कन्धे",
       "english": "On the shoulder",
       "notes": ""
     },
     {
       "awadhi": "मूँज",
+      "telugu": "మూఁజ",
+      "iast": "mū̃ja",
       "sanskrit": "मौञ्जी",
       "english": "Munja grass",
       "notes": "Moon-dot (Chandrabindu)"
     },
     {
       "awadhi": "जनेऊ",
+      "telugu": "జనేఊ",
+      "iast": "janeū",
       "sanskrit": "यज्ञोपवीतम्",
       "english": "Sacred thread",
       "notes": ""
     },
     {
       "awadhi": "साजै",
+      "telugu": "సాజై",
+      "iast": "sājai",
       "sanskrit": "सज्जते / शोभते",
       "english": "Adorns / Looks beautiful",
       "notes": ""

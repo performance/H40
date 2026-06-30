@@ -21,36 +21,48 @@
   "word_meanings": [
     {
       "awadhi": "जै जै जै",
+      "telugu": "జై జై జై",
+      "iast": "jai jai jai",
       "sanskrit": "जय, जय, जय",
       "english": "Victory / Hail (x3)",
       "notes": ""
     },
     {
       "awadhi": "हनुमान",
+      "telugu": "హనుమాన",
+      "iast": "hanumāna",
       "sanskrit": "हनुमन्",
       "english": "Hanuman",
       "notes": ""
     },
     {
       "awadhi": "गोसाईं",
+      "telugu": "గోసాయీఁ",
+      "iast": "gosāī̃",
       "sanskrit": "गोस्वामिन्",
       "english": "Lord of Senses",
       "notes": "Go (Senses) + Swami (Lord)"
     },
     {
       "awadhi": "कृपा करहु",
+      "telugu": "కృపా కరహు",
+      "iast": "kṛpā karahu",
       "sanskrit": "कृपां करोतु",
       "english": "Have mercy / grace",
       "notes": "Imperative `-hu` suffix"
     },
     {
       "awadhi": "गुरु देव",
+      "telugu": "గురు దేవ",
+      "iast": "guru deva",
       "sanskrit": "गुरूदेवः",
       "english": "Supreme Guru",
       "notes": ""
     },
     {
       "awadhi": "की नाईं",
+      "telugu": "కీ నాయీఁ",
+      "iast": "kī nāī̃",
       "sanskrit": "इव / सदृशम्",
       "english": "Like / In the manner of",
       "notes": "Pure Awadhi idiom"
@@ -176,7 +188,7 @@
     {
       "type": "anchorbox",
       "title": "The Ultimate Mentor",
-      "description": "By accepting an ideal role model as our guide (Gurudeva), we are asking for the unvarnished truth and the strict discipline required to elevate our lives to their highest potential. A true mentor challenges us to grow.",
+      "description": "By accepting a true guide (Gurudeva), we gain the strength to discover our potential. In the *Valmiki Ramayana* (*Kishkindha Kanda, 66:31-35*), when Hanuman was silent with self-doubt, his mentor Jambavan reminded him of his divine origins and unmatched capabilities. A true mentor wipes away doubt and inspires us to take on challenges.",
       "motivating_text": "",
       "citation": ""
     }

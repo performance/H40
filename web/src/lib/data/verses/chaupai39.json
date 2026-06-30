@@ -21,36 +21,48 @@
   "word_meanings": [
     {
       "awadhi": "जो यह",
+      "telugu": "జో యహ",
+      "iast": "jo yaha",
       "sanskrit": "यः एतत्",
       "english": "Whoever this",
       "notes": ""
     },
     {
       "awadhi": "पढ़ै",
+      "telugu": "పఢై",
+      "iast": "paṛhai",
       "sanskrit": "पठति",
       "english": "Reads",
       "notes": "Verb ending in `-ai`"
     },
     {
       "awadhi": "हनुमान चलीसा",
+      "telugu": "హనుమాన చలీసా",
+      "iast": "hanumāna calīsā",
       "sanskrit": "हनुमान-चालीसा",
       "english": "Forty verses of Hanuman",
       "notes": ""
     },
     {
       "awadhi": "होय सिद्धि",
+      "telugu": "హోయ సిద్ధి",
+      "iast": "hoya siddhi",
       "sanskrit": "सिद्धिः भवति",
       "english": "Success/Perfection happens",
       "notes": ""
     },
     {
       "awadhi": "साखी",
+      "telugu": "సాఖీ",
+      "iast": "sākhī",
       "sanskrit": "साक्षी",
       "english": "Witness",
       "notes": ""
     },
     {
       "awadhi": "गौरीसा",
+      "telugu": "గౌరీసా",
+      "iast": "gaurīsā",
       "sanskrit": "गौरीशः (शिवः)",
       "english": "Lord of Gauri",
       "notes": ""

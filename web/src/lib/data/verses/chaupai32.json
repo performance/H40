@@ -21,30 +21,40 @@
   "word_meanings": [
     {
       "awadhi": "राम रसायन",
+      "telugu": "రామ రసాయన",
+      "iast": "rāma rasāyana",
       "sanskrit": "राम-रसायनम्",
       "english": "Elixir of Rama",
       "notes": "Rasa (Essence) + Ayana (Path)"
     },
     {
       "awadhi": "तुम्हरे पासा",
+      "telugu": "తుమ్హరే పాసా",
+      "iast": "tumhare pāsā",
       "sanskrit": "भवतः पार्श्वे",
       "english": "In your possession",
       "notes": ""
     },
     {
       "awadhi": "सदा रहो",
+      "telugu": "సదా రహో",
+      "iast": "sadā raho",
       "sanskrit": "सर्वदा भव / तिष्ठ",
       "english": "Always remain",
       "notes": ""
     },
     {
       "awadhi": "रघुपति के",
+      "telugu": "రఘుపతి కే",
+      "iast": "raghupati ke",
       "sanskrit": "रघुपतेः",
       "english": "Of Lord Rama",
       "notes": ""
     },
     {
       "awadhi": "दासा",
+      "telugu": "దాసా",
+      "iast": "dāsā",
       "sanskrit": "दासः / सेवकः",
       "english": "Servant",
       "notes": ""
@@ -166,7 +176,7 @@
     {
       "type": "anchorbox",
       "title": "The Servant's Heart",
-      "description": "By consciously choosing to remain a humble servant and lifelong learner (Daasa) rather than demanding to be the master, he found the ultimate cure (Rasayana) for ego and unrest. Humility is the greatest medicine for a peaceful mind.",
+      "description": "By consciously choosing to remain a dedicated servant (Daasa) rather than demanding personal glory, he found the ultimate peace (Rasayana). In the *Valmiki Ramayana* (*Sundara Kanda, 42:34*), when challenging Ravana's entire army, Hanuman's proudest declaration of identity is simply: *Dasoham Kosalendrasya* (\"I am the servant of the Lord of Kosala\").",
       "motivating_text": "",
       "citation": ""
     }

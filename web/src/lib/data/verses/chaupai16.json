@@ -21,42 +21,56 @@
   "word_meanings": [
     {
       "awadhi": "तुम",
+      "telugu": "తుమ",
+      "iast": "tuma",
       "sanskrit": "त्वम्",
       "english": "You",
       "notes": ""
     },
     {
       "awadhi": "उपकार",
+      "telugu": "ఉపకార",
+      "iast": "upakāra",
       "sanskrit": "उपकारम्",
       "english": "Favor / Service",
       "notes": ""
     },
     {
       "awadhi": "सुग्रीवहिं",
+      "telugu": "సుగ్రీవహిఁ",
+      "iast": "sugrīvahĩ",
       "sanskrit": "सुग्रीवाय",
       "english": "To Sugriva",
       "notes": "Objective suffix `-hiṃ`"
     },
     {
       "awadhi": "कीन्हा",
+      "telugu": "కీన్హా",
+      "iast": "kīnhā",
       "sanskrit": "कृतवान्",
       "english": "Did",
       "notes": "Awadhi past tense"
     },
     {
       "awadhi": "राम मिलाय",
+      "telugu": "రామ మిలాయ",
+      "iast": "rāma milāya",
       "sanskrit": "रामेण मेलयित्वा",
       "english": "Having united with Rama",
       "notes": ""
     },
     {
       "awadhi": "राज पद",
+      "telugu": "రాజ పద",
+      "iast": "rāja pada",
       "sanskrit": "राज-पदम्",
       "english": "Royal Throne",
       "notes": ""
     },
     {
       "awadhi": "दीन्हा",
+      "telugu": "దీన్హా",
+      "iast": "dīnhā",
       "sanskrit": "दत्तवान्",
       "english": "Gave",
       "notes": "Rhymes with keenhaa"

@@ -21,48 +21,64 @@
   "word_meanings": [
     {
       "awadhi": "जमु",
+      "telugu": "జము",
+      "iast": "jamu",
       "sanskrit": "यमः",
       "english": "God of Death",
       "notes": ""
     },
     {
       "awadhi": "कुबेर",
+      "telugu": "కుబేర",
+      "iast": "kubera",
       "sanskrit": "कुबेरः",
       "english": "God of Wealth",
       "notes": ""
     },
     {
       "awadhi": "दिगपाल",
+      "telugu": "దిగపాల",
+      "iast": "digapāla",
       "sanskrit": "दिक्पालाः",
       "english": "Direction Guardians",
       "notes": "k → g shift"
     },
     {
       "awadhi": "जहाँ ते",
+      "telugu": "జహాం తే",
+      "iast": "jahā̃ te",
       "sanskrit": "यत्र / यस्मात्",
       "english": "Where from / Even they",
       "notes": ""
     },
     {
       "awadhi": "कबि",
+      "telugu": "కబి",
+      "iast": "kabi",
       "sanskrit": "कविः",
       "english": "Poet",
       "notes": ""
     },
     {
       "awadhi": "कोबिद",
+      "telugu": "కోబిద",
+      "iast": "kobida",
       "sanskrit": "कोविदः (पण्डितः)",
       "english": "Scholar",
       "notes": ""
     },
     {
       "awadhi": "कहि सके",
+      "telugu": "కహి సకే",
+      "iast": "kahi sake",
       "sanskrit": "वक्तुं शक्नुवन्ति",
       "english": "Can say/describe",
       "notes": ""
     },
     {
       "awadhi": "कहाँ ते",
+      "telugu": "కహాం తే",
+      "iast": "kahā̃ te",
       "sanskrit": "कुतः / कथम्",
       "english": "How / From where",
       "notes": ""

@@ -21,48 +21,64 @@
   "word_meanings": [
     {
       "awadhi": "और",
+      "telugu": "ఔర",
+      "iast": "aura",
       "sanskrit": "अन्य / परः",
       "english": "Other",
       "notes": ""
     },
     {
       "awadhi": "देवता",
+      "telugu": "దేవతా",
+      "iast": "devatā",
       "sanskrit": "देवता",
       "english": "Deity / Gods",
       "notes": ""
     },
     {
       "awadhi": "चित्त",
+      "telugu": "చిత్త",
+      "iast": "citta",
       "sanskrit": "चित्ते / मनसि",
       "english": "In the mind",
       "notes": ""
     },
     {
       "awadhi": "न धरई",
+      "telugu": "న ధరఈ",
+      "iast": "na dharaī",
       "sanskrit": "न धरति",
       "english": "Does not hold/keep",
       "notes": "`y` → `ee` verb"
     },
     {
       "awadhi": "हनुमंत",
+      "telugu": "హనుమంత",
+      "iast": "hanumata",
       "sanskrit": "हनुमन्तम्",
       "english": "Hanuman",
       "notes": ""
     },
     {
       "awadhi": "सेइ",
+      "telugu": "సేఇ",
+      "iast": "sei",
       "sanskrit": "सेवया / आराध्य",
       "english": "By serving",
       "notes": "Absolutive `-i` ending"
     },
     {
       "awadhi": "सर्ब सुख",
+      "telugu": "సర్బ సుఖ",
+      "iast": "sarba sukha",
       "sanskrit": "सर्व-सुखानि",
       "english": "All happiness",
       "notes": ""
     },
     {
       "awadhi": "करई",
+      "telugu": "కరఈ",
+      "iast": "karaī",
       "sanskrit": "करोति",
       "english": "Achieves / Does",
       "notes": "`y` → `ee` verb"

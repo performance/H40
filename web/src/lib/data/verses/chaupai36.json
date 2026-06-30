@@ -20,36 +20,48 @@
   "word_meanings": [
     {
       "awadhi": "संकट कटै",
+      "telugu": "సంకట కటై",
+      "iast": "saṅkaṭa kaṭai",
       "sanskrit": "सङ्कटं छिद्यते",
       "english": "Crisis is cut",
       "notes": "Present tense `-ai`"
     },
     {
       "awadhi": "मिटै",
+      "telugu": "మిటై",
+      "iast": "miṭai",
       "sanskrit": "मृज्यते (नश्यति)",
       "english": "Is erased/mitigated",
       "notes": ""
     },
     {
       "awadhi": "सब पीरा",
+      "telugu": "సబ పీరా",
+      "iast": "saba pīrā",
       "sanskrit": "सर्वाः पीडाः",
       "english": "All pain",
       "notes": "पीडा → पीरा"
     },
     {
       "awadhi": "जो सुमिरै",
+      "telugu": "జో సుమిరై",
+      "iast": "jo sumirai",
       "sanskrit": "यः स्मरति",
       "english": "Whoever remembers",
       "notes": "Swara-Bhakti (Smara → Sumira)"
     },
     {
       "awadhi": "हनुमत",
+      "telugu": "హనుమత",
+      "iast": "hanumata",
       "sanskrit": "हनुमन्तम्",
       "english": "Hanuman",
       "notes": ""
     },
     {
       "awadhi": "बलबीरा",
+      "telugu": "బలబీరా",
+      "iast": "balabīrā",
       "sanskrit": "बलवीरम्",
       "english": "Mighty and Brave",
       "notes": ""
@@ -116,8 +128,8 @@
   "boxes": [
     {
       "type": "anchorbox",
-      "title": "Active Resilience",
-      "description": "He doesn't just passively soothe problems; the active verb Kaṭai (cutting) means we must take decisive, active steps to cut out the bad habits and negative influences that are causing our struggles. Resilience requires action.",
+      "title": "Converting Constraints to Opportunities",
+      "description": "In the *Valmiki Ramayana* (*Sundara Kanda, 48:45-50*), when bound by Indrajit's weapon, Hanuman intentionally chose not to break free immediately. He realized that being bound allowed him to be taken directly to Ravana's court, giving him the perfect opportunity to meet the enemy king face-to-face and deliver a message of peace and warning. It teaches us to convert constraints into opportunities.",
       "motivating_text": "",
       "citation": ""
     }

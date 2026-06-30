@@ -21,42 +21,56 @@
   "word_meanings": [
     {
       "awadhi": "अन्त काल",
+      "telugu": "అన్త కాల",
+      "iast": "anta kāla",
       "sanskrit": "अन्त्य-काले",
       "english": "At the end of life",
       "notes": ""
     },
     {
       "awadhi": "रघुबर पुर",
+      "telugu": "రఘుబర పుర",
+      "iast": "raghubara pura",
       "sanskrit": "श्रीराम-धाम",
       "english": "Rama's celestial city",
       "notes": ""
     },
     {
       "awadhi": "जाई",
+      "telugu": "జాయీ",
+      "iast": "jāī",
       "sanskrit": "गच्छति",
       "english": "Goes / Reaches",
       "notes": ""
     },
     {
       "awadhi": "जहाँ",
+      "telugu": "జహాఁ",
+      "iast": "jahā̃",
       "sanskrit": "यत्र",
       "english": "Where / Wherever",
       "notes": ""
     },
     {
       "awadhi": "जन्म",
+      "telugu": "జన్మ",
+      "iast": "janma",
       "sanskrit": "जन्म",
       "english": "Birth",
       "notes": "Pure Sanskrit"
     },
     {
       "awadhi": "हरिभक्त",
+      "telugu": "హరిభక్త",
+      "iast": "hari-bhakta",
       "sanskrit": "हरि-भक्तः",
       "english": "Devotee of God",
       "notes": ""
     },
     {
       "awadhi": "कहाई",
+      "telugu": "కహాయీ",
+      "iast": "kahāī",
       "sanskrit": "कथ्यते / उच्यते",
       "english": "Is called / renowned",
       "notes": "Passive voice"
@@ -182,7 +196,7 @@
     {
       "type": "anchorbox",
       "title": "The Ultimate Destination",
-      "description": "By dedicating our life to a noble path and consistent hard work, we ensure that our personal legacy (Anta Kaal) is secure, and we will be remembered as someone who brought positive value to the world.",
+      "description": "By dedicating our lives to service and excellence, our legacy (Anta Kaal) becomes immortal. In the *Valmiki Ramayana* (*Yuddha Kanda, 1:13*), Lord Rama laments that Hanuman's monumental, selfless service is so vast that no material reward could ever match it. Rama offers his own embrace as his entire wealth, establishing Hanuman's eternal spiritual legacy.",
       "motivating_text": "",
       "citation": ""
     }

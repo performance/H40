@@ -21,55 +21,73 @@
   "word_meanings": [
     {
       "awadhi": "प्रभु",
+      "telugu": "ప్రభు",
+      "iast": "prabhu",
       "sanskrit": "प्रभोः",
       "english": "Lord's",
       "notes": ""
     },
     {
       "awadhi": "चरित्र",
+      "telugu": "చరిత్ర",
+      "iast": "caritra",
       "sanskrit": "चरित्रम् / कथाम्",
       "english": "Character / Stories",
       "notes": ""
     },
     {
       "awadhi": "सुनिबे को",
+      "telugu": "సునిబే కో",
+      "iast": "sunibe ko",
       "sanskrit": "श्रोतुम्",
       "english": "To listen",
       "notes": "Awadhi infinitive verb"
     },
     {
       "awadhi": "रसिया",
+      "telugu": "రసియా",
+      "iast": "rasiyā",
       "sanskrit": "रसिकः",
       "english": "One who relishes",
       "notes": ""
     },
     {
       "awadhi": "राम",
+      "telugu": "రామ",
+      "iast": "rāma",
       "sanskrit": "श्रीरामः",
       "english": "Rama",
       "notes": ""
     },
     {
       "awadhi": "लखन",
+      "telugu": "లఖన",
+      "iast": "lakhana",
       "sanskrit": "लक्ष्मणः",
       "english": "Lakshmana",
       "notes": "cluster simplification"
     },
     {
       "awadhi": "सीता",
+      "telugu": "సీతా",
+      "iast": "sītā",
       "sanskrit": "सीता",
       "english": "Sita",
       "notes": ""
     },
     {
       "awadhi": "मन",
+      "telugu": "మన",
+      "iast": "mana",
       "sanskrit": "मनसि",
       "english": "In the mind",
       "notes": ""
     },
     {
       "awadhi": "बसिया",
-      "sanskrit": "वसन्ति / वासी",
+      "telugu": "బసియా",
+      "iast": "basiyā",
+      "sanskrit": "వसन्ति / వాసీ",
       "english": "Reside / Dweller",
       "notes": ""
     }
@@ -200,7 +218,7 @@
     {
       "type": "anchorbox",
       "title": "The Art of Listening",
-      "description": "He is praised for being exceptionally eager to listen (Sunibe ko Rasiya). The most powerful figure in the entire epic is fundamentally a remarkably attentive listener. Great students and future leaders know that listening and absorbing information is often far more powerful than speaking.",
+      "description": "He is praised for being exceptionally eager to listen (Sunibe ko Rasiya). In the *Valmiki Ramayana* (*Kishkindha Kanda, 3:28-33*), Lord Rama notes that Hanuman's flawless speech is proof of his highly disciplined, attentive listening as a student of the Vedas. True mastery in communication and leadership begins with the patient, active absorption of knowledge.",
       "motivating_text": "",
       "citation": ""
     },

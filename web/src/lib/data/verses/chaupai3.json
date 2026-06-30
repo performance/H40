@@ -21,42 +21,56 @@
   "word_meanings": [
     {
       "awadhi": "महाबीर",
+      "telugu": "మహాబీర",
+      "iast": "mahābīra",
       "sanskrit": "महावीरः",
       "english": "Great Hero",
       "notes": ""
     },
     {
       "awadhi": "बिक्रम",
+      "telugu": "బిక్రమ",
+      "iast": "bikrama",
       "sanskrit": "विक्रमः",
       "english": "Valiant/Courageous",
       "notes": ""
     },
     {
       "awadhi": "बजरंगी",
+      "telugu": "బజరంగీ",
+      "iast": "bajaraṅgī",
       "sanskrit": "वज्राङ्गी",
       "english": "Thunderbolt body",
       "notes": "Swara-Bhakti splitting"
     },
     {
       "awadhi": "कुमति",
+      "telugu": "కుమతి",
+      "iast": "kumati",
       "sanskrit": "कुमतिम्",
       "english": "Evil intellect",
       "notes": ""
     },
     {
       "awadhi": "निवार",
+      "telugu": "నివార",
+      "iast": "nivāra",
       "sanskrit": "निवारकः",
       "english": "Dispeller / Remover",
       "notes": "Meter trap: short 'i'"
     },
     {
       "awadhi": "सुमति",
+      "telugu": "సుమతి",
+      "iast": "sumati",
       "sanskrit": "सुमतीनाम्",
       "english": "Good intellect",
       "notes": ""
     },
     {
       "awadhi": "संगी",
+      "telugu": "సంగీ",
+      "iast": "saṅgī",
       "sanskrit": "सङ्गी / सखा",
       "english": "Companion",
       "notes": ""

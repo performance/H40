@@ -21,48 +21,64 @@
   "word_meanings": [
     {
       "awadhi": "दुर्गम",
+      "telugu": "దుర్గమ",
+      "iast": "durgama",
       "sanskrit": "दुर्गमानि",
       "english": "Difficult / Hard to cross",
       "notes": ""
     },
     {
       "awadhi": "काज",
+      "telugu": "కాజ",
+      "iast": "kāja",
       "sanskrit": "कार्याणि",
       "english": "Tasks / Work",
       "notes": ""
     },
     {
       "awadhi": "जगत के",
+      "telugu": "జగత కే",
+      "iast": "jagata ke",
       "sanskrit": "जगतः",
       "english": "Of the world",
       "notes": "Genitive Postposition `ke`"
     },
     {
       "awadhi": "जेते",
+      "telugu": "జేతే",
+      "iast": "jete",
       "sanskrit": "यावन्ति",
       "english": "However many",
       "notes": "Rhymes with `tete`"
     },
     {
       "awadhi": "सुगम",
-      "sanskrit": "सुगमानि",
+      "telugu": "సుగమ",
+      "iast": "sugama",
+      "sanskrit": "सुగమాని",
       "english": "Accessible / Easy",
       "notes": ""
     },
     {
       "awadhi": "अनुग्रह",
+      "telugu": "అనుగ్రహ",
+      "iast": "anugraha",
       "sanskrit": "अनुग्रहेण",
       "english": "By grace / blessing",
       "notes": ""
     },
     {
       "awadhi": "तुम्हरे",
-      "sanskrit": "भवतः",
+      "telugu": "తుమ్హరే",
+      "iast": "tumhare",
+      "sanskrit": "భవతః",
       "english": "Your",
       "notes": ""
     },
     {
       "awadhi": "तेते",
+      "telugu": "తేతే",
+      "iast": "tete",
       "sanskrit": "तावन्ति",
       "english": "That many",
       "notes": ""

@@ -21,42 +21,56 @@
   "word_meanings": [
     {
       "awadhi": "ज्ञान",
+      "telugu": "జ్ఞాన",
+      "iast": "jñāna",
       "sanskrit": "ज्ञानस्य",
       "english": "Of knowledge",
       "notes": ""
     },
     {
       "awadhi": "गुन",
+      "telugu": "గున",
+      "iast": "guna",
       "sanskrit": "गुणानाम्",
       "english": "Of virtues/qualities",
       "notes": ""
     },
     {
       "awadhi": "सागर",
+      "telugu": "సాగర",
+      "iast": "sāgara",
       "sanskrit": "सागरः",
       "english": "Ocean",
       "notes": ""
     },
     {
       "awadhi": "कपीस",
+      "telugu": "కపీస",
+      "iast": "kapīsa",
       "sanskrit": "कपीशः (कपि+ईश)",
       "english": "Lord of Monkeys",
       "notes": ""
     },
     {
       "awadhi": "तिहुँ",
+      "telugu": "తిహుఁ",
+      "iast": "tihũ",
       "sanskrit": "त्रिषु",
       "english": "In the three",
       "notes": "tri → tihu"
     },
     {
       "awadhi": "लोक",
+      "telugu": "లోక",
+      "iast": "loka",
       "sanskrit": "लोकेषु",
       "english": "Worlds",
       "notes": ""
     },
     {
       "awadhi": "उजागर",
+      "telugu": "ఉజాగర",
+      "iast": "ujāgara",
       "sanskrit": "उजागरः (प्रसिद्धः)",
       "english": "Illuminator / Brightness",
       "notes": ""

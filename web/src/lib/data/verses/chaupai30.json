@@ -21,36 +21,48 @@
   "word_meanings": [
     {
       "awadhi": "साधु सन्त के",
+      "telugu": "సాధు సన్త కే",
+      "iast": "sādhu santa ke",
       "sanskrit": "साधु-सन्तानाम्",
       "english": "Of sages and saints",
       "notes": ""
     },
     {
       "awadhi": "तुम",
+      "telugu": "తుమ",
+      "iast": "tuma",
       "sanskrit": "त्वम्",
       "english": "You",
       "notes": ""
     },
     {
       "awadhi": "रखवारे",
+      "telugu": "రఖవారే",
+      "iast": "rakhavāre",
       "sanskrit": "रक्षकः",
       "english": "Protector",
       "notes": ""
     },
     {
       "awadhi": "असुर",
+      "telugu": "అసుర",
+      "iast": "asura",
       "sanskrit": "असुराणाम्",
       "english": "Of demons",
       "notes": ""
     },
     {
       "awadhi": "निकंदन",
+      "telugu": "నికందన",
+      "iast": "asura nikandana",
       "sanskrit": "विनाशकः / निकृन्दन",
       "english": "Destroyer / Uprooter",
       "notes": ""
     },
     {
       "awadhi": "राम दुलारे",
+      "telugu": "రామ దులారే",
+      "iast": "rāma dulāre",
       "sanskrit": "राम-प्रियः",
       "english": "Dear to Rama / Darling",
       "notes": ""

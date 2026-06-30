@@ -21,42 +21,56 @@
   "word_meanings": [
     {
       "awadhi": "बिद्यावान",
+      "telugu": "బిద్యావాన",
+      "iast": "bidyāvāna",
       "sanskrit": "विद्यावान्",
       "english": "Learned / Scholar",
       "notes": ""
     },
     {
       "awadhi": "गुनी",
+      "telugu": "గునీ",
+      "iast": "gunī",
       "sanskrit": "गुणी (गुणवान्)",
       "english": "Virtuous",
       "notes": ""
     },
     {
       "awadhi": "अति",
+      "telugu": "అతి",
+      "iast": "ati",
       "sanskrit": "अतीव",
       "english": "Extremely",
       "notes": ""
     },
     {
       "awadhi": "चातुर",
+      "telugu": "చాతుర",
+      "iast": "cātura",
       "sanskrit": "चतुरः",
       "english": "Clever",
       "notes": ""
     },
     {
       "awadhi": "राम काज",
+      "telugu": "రామ కాజ",
+      "iast": "rāma kāja",
       "sanskrit": "श्रीरामस्य कार्यम्",
       "english": "Rama's work",
       "notes": "Prakrit shift ()"
     },
     {
       "awadhi": "करिबे को",
+      "telugu": "కరిబే కో",
+      "iast": "karibe ko",
       "sanskrit": "कर्तुम्",
       "english": "To do (Infinitive)",
       "notes": "Awadhi infinitive"
     },
     {
       "awadhi": "आतुर",
+      "telugu": "ఆతుర",
+      "iast": "ātura",
       "sanskrit": "आतुरः (उत्सुकः)",
       "english": "Eager / Ready",
       "notes": ""
@@ -175,6 +189,13 @@
     ]
   ],
   "boxes": [
+    {
+      "type": "anchorbox",
+      "title": "The Dedicated Executive",
+      "description": "Hanuman combines deep intellectual training (Bidyavan) and virtue (Guni) with an intense eagerness to execute Lord Rama's work. In the *Valmiki Ramayana* (*Kishkindha Kanda, 44:11*), Rama praises Hanuman by stating that in him alone reside strength, intellect, prowess, adaptability to time and place, and moral guidance.",
+      "motivating_text": "",
+      "citation": ""
+    },
     {
       "type": "gotchabox",
       "items": [

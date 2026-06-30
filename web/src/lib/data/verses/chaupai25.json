@@ -21,48 +21,64 @@
   "word_meanings": [
     {
       "awadhi": "नासै",
+      "telugu": "నాసై",
+      "iast": "nāsai",
       "sanskrit": "नश्यति",
       "english": "Is destroyed",
       "notes": "Verb ending in `-ai`"
     },
     {
       "awadhi": "रोग",
+      "telugu": "రోగ",
+      "iast": "roga",
       "sanskrit": "रोगाः",
       "english": "Diseases",
       "notes": ""
     },
     {
       "awadhi": "हरै",
+      "telugu": "హరై",
+      "iast": "harai",
       "sanskrit": "हरति",
       "english": "Takes away / destroys",
       "notes": "Verb ending in `-ai`"
     },
     {
       "awadhi": "सब पीरा",
+      "telugu": "సబ పీరా",
+      "iast": "saba pīrā",
       "sanskrit": "सर्वाः पीडाः",
       "english": "All pain",
       "notes": "पीडा → पीरा"
     },
     {
       "awadhi": "जपत",
+      "telugu": "జపత",
+      "iast": "japata",
       "sanskrit": "जपन्",
       "english": "Chanting",
       "notes": "Continuous action `-ta`"
     },
     {
       "awadhi": "निरन्तर",
+      "telugu": "నిరంతర",
+      "iast": "nirantara",
       "sanskrit": "निरन्तरम्",
       "english": "Continuously",
       "notes": ""
     },
     {
       "awadhi": "हनुमत",
+      "telugu": "హనుమత",
+      "iast": "hanumata",
       "sanskrit": "हनुमन्",
       "english": "Hanuman",
       "notes": ""
     },
     {
       "awadhi": "बीरा",
+      "telugu": "బీరా",
+      "iast": "bīrā",
       "sanskrit": "वीरः",
       "english": "Brave/Hero",
       "notes": ""

@@ -21,60 +21,80 @@
   "word_meanings": [
     {
       "awadhi": "रघुपति",
+      "telugu": "రఘుపతి",
+      "iast": "raghupati",
       "sanskrit": "रघुपतिः",
       "english": "Lord Rama",
       "notes": ""
     },
     {
       "awadhi": "कीन्ही",
+      "telugu": "కీన్హీ",
+      "iast": "kīnhī",
       "sanskrit": "कृतवान्",
       "english": "Did",
       "notes": "Awadhi past tense verb"
     },
     {
       "awadhi": "बहुत",
+      "telugu": "బహుత",
+      "iast": "bahuta",
       "sanskrit": "अतीव / बहु",
       "english": "Much / Lots of",
       "notes": ""
     },
     {
       "awadhi": "बड़ाई",
+      "telugu": "బడాయీ",
+      "iast": "baṛāī",
       "sanskrit": "प्रशंसा / महिमा",
       "english": "Praise / Greatness",
       "notes": ""
     },
     {
       "awadhi": "तुम",
+      "telugu": "తుమ",
+      "iast": "tuma",
       "sanskrit": "त्वम्",
       "english": "You",
       "notes": ""
     },
     {
       "awadhi": "मम",
+      "telugu": "మమ",
+      "iast": "mama",
       "sanskrit": "मम",
       "english": "My",
       "notes": "Pure Sanskrit!"
     },
     {
       "awadhi": "प्रिय",
+      "telugu": "ప్రియ",
+      "iast": "priya",
       "sanskrit": "प्रियः",
       "english": "Dear",
       "notes": "Pure Sanskrit!"
     },
     {
       "awadhi": "भरतहि",
+      "telugu": "భరతహి",
+      "iast": "bharatahi",
       "sanskrit": "भरताय / भरतेन",
       "english": "Bharata",
       "notes": "Objective suffix `-hi`"
     },
     {
       "awadhi": "सम",
-      "sanskrit": "समानः",
+      "telugu": "సమ",
+      "iast": "sama",
+      "sanskrit": "सమానః",
       "english": "Equal / Like",
       "notes": ""
     },
     {
       "awadhi": "भाई",
+      "telugu": "భాయీ",
+      "iast": "bhāī",
       "sanskrit": "भ्राता",
       "english": "Brother",
       "notes": ""

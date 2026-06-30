@@ -21,48 +21,64 @@
   "word_meanings": [
     {
       "awadhi": "कंचन",
+      "telugu": "కంచన",
+      "iast": "kañcana",
       "sanskrit": "कञ्चन / सुवर्णम्",
       "english": "Gold",
       "notes": ""
     },
     {
       "awadhi": "बरन",
+      "telugu": "బరన",
+      "iast": "barana",
       "sanskrit": "वर्णः",
       "english": "Complexion / Color",
       "notes": ""
     },
     {
       "awadhi": "बिराज",
+      "telugu": "బిరాజ",
+      "iast": "birāja",
       "sanskrit": "विराजते",
       "english": "Shines / Is adorned",
       "notes": ""
     },
     {
       "awadhi": "सुबेसा",
+      "telugu": "సుబేసా",
+      "iast": "subesā",
       "sanskrit": "सुवेषः",
       "english": "Beautiful attire",
       "notes": ""
     },
     {
       "awadhi": "कानन",
+      "telugu": "కానన",
+      "iast": "kānana",
       "sanskrit": "कर्णयोः",
       "english": "In the ears",
       "notes": ""
     },
     {
       "awadhi": "कुंडल",
+      "telugu": "కుండల",
+      "iast": "kuṇḍala",
       "sanskrit": "कुण्डले",
       "english": "Earrings",
       "notes": ""
     },
     {
       "awadhi": "कुंचित",
+      "telugu": "కుంచిత",
+      "iast": "kuñcita",
       "sanskrit": "कुञ्चिताः",
       "english": "Curly",
       "notes": ""
     },
     {
       "awadhi": "केसा",
+      "telugu": "కేసా",
+      "iast": "kesā",
       "sanskrit": "केशाः",
       "english": "Hair",
       "notes": ""

@@ -61,7 +61,15 @@
 				</div>
 				{#each verse.word_meanings as entry}
 					<div class="dict-row">
-						<span class="devanagari">{entry.awadhi}</span>
+						<div class="multi-script-cell">
+							<div class="devanagari index-word">{entry.awadhi}</div>
+							{#if entry.telugu}
+								<div class="telugu index-word">{entry.telugu}</div>
+							{/if}
+							{#if entry.iast}
+								<div class="iast-word">/ {entry.iast}</div>
+							{/if}
+						</div>
 						<span class="devanagari">{entry.sanskrit}</span>
 						<span>{entry.english} 
 							{#if entry.notes}<br/><small style="color: var(--primary);">{entry.notes}</small>{/if}
@@ -155,11 +163,30 @@
 		padding: 0.75rem 1rem;
 		border-bottom: 1px solid rgba(255,255,255,0.02);
 		min-width: 500px;
+		align-items: center;
 	}
 	.dict-row:last-child {
 		border-bottom: none;
 	}
 	.dict-row span {
 		font-size: 1.1rem;
+	}
+
+	.multi-script-cell {
+		display: flex;
+		flex-direction: column;
+		gap: 0.25rem;
+	}
+
+	.index-word {
+		font-size: 1.2rem !important;
+		line-height: 1.2 !important;
+	}
+
+	.iast-word {
+		font-style: italic;
+		font-size: 0.9rem;
+		color: var(--primary);
+		opacity: 0.8;
 	}
 </style>
